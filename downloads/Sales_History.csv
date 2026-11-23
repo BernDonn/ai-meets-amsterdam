@@ -1,0 +1,3457 @@
+month,product,size,color,units_sold,unit_price,revenue
+2023-08,Hoodie,S,Black,16,49.0,784.0
+2023-08,Hoodie,S,Navy,10,49.0,490.0
+2023-08,Hoodie,S,White,10,49.0,490.0
+2023-08,Hoodie,S,Red,3,49.0,147.0
+2023-08,Hoodie,S,Olive,3,49.0,147.0
+2023-08,Hoodie,S,Beige,3,49.0,147.0
+2023-08,Hoodie,M,Black,26,49.0,1274.0
+2023-08,Hoodie,M,Navy,10,49.0,490.0
+2023-08,Hoodie,M,White,19,49.0,931.0
+2023-08,Hoodie,M,Red,5,49.0,245.0
+2023-08,Hoodie,M,Olive,2,49.0,98.0
+2023-08,Hoodie,M,Beige,3,49.0,147.0
+2023-08,Hoodie,L,Black,19,49.0,931.0
+2023-08,Hoodie,L,Navy,7,49.0,343.0
+2023-08,Hoodie,L,White,11,49.0,539.0
+2023-08,Hoodie,L,Red,5,49.0,245.0
+2023-08,Hoodie,L,Olive,1,49.0,49.0
+2023-08,Hoodie,L,Beige,3,49.0,147.0
+2023-08,Puffer Jacket,S,Black,4,129.0,516.0
+2023-08,Puffer Jacket,S,Navy,2,129.0,258.0
+2023-08,Puffer Jacket,S,White,2,129.0,258.0
+2023-08,Puffer Jacket,S,Red,3,129.0,387.0
+2023-08,Puffer Jacket,S,Olive,0,129.0,0.0
+2023-08,Puffer Jacket,S,Beige,0,129.0,0.0
+2023-08,Puffer Jacket,M,Black,12,129.0,1548.0
+2023-08,Puffer Jacket,M,Navy,6,129.0,774.0
+2023-08,Puffer Jacket,M,White,9,129.0,1161.0
+2023-08,Puffer Jacket,M,Red,2,129.0,258.0
+2023-08,Puffer Jacket,M,Olive,1,129.0,129.0
+2023-08,Puffer Jacket,M,Beige,1,129.0,129.0
+2023-08,Puffer Jacket,L,Black,14,129.0,1806.0
+2023-08,Puffer Jacket,L,Navy,6,129.0,774.0
+2023-08,Puffer Jacket,L,White,5,129.0,645.0
+2023-08,Puffer Jacket,L,Red,5,129.0,645.0
+2023-08,Puffer Jacket,L,Olive,1,129.0,129.0
+2023-08,Puffer Jacket,L,Beige,1,129.0,129.0
+2023-08,Raincoat,S,Black,10,79.0,790.0
+2023-08,Raincoat,S,Navy,8,79.0,632.0
+2023-08,Raincoat,S,White,6,79.0,474.0
+2023-08,Raincoat,S,Red,1,79.0,79.0
+2023-08,Raincoat,S,Olive,1,79.0,79.0
+2023-08,Raincoat,S,Beige,2,79.0,158.0
+2023-08,Raincoat,M,Black,17,79.0,1343.0
+2023-08,Raincoat,M,Navy,7,79.0,553.0
+2023-08,Raincoat,M,White,9,79.0,711.0
+2023-08,Raincoat,M,Red,2,79.0,158.0
+2023-08,Raincoat,M,Olive,1,79.0,79.0
+2023-08,Raincoat,M,Beige,1,79.0,79.0
+2023-08,Raincoat,L,Black,21,79.0,1659.0
+2023-08,Raincoat,L,Navy,5,79.0,395.0
+2023-08,Raincoat,L,White,8,79.0,632.0
+2023-08,Raincoat,L,Red,5,79.0,395.0
+2023-08,Raincoat,L,Olive,3,79.0,237.0
+2023-08,Raincoat,L,Beige,5,79.0,395.0
+2023-08,Knit Sweater,S,Black,10,69.0,690.0
+2023-08,Knit Sweater,S,Navy,11,69.0,759.0
+2023-08,Knit Sweater,S,White,8,69.0,552.0
+2023-08,Knit Sweater,S,Red,2,69.0,138.0
+2023-08,Knit Sweater,S,Olive,2,69.0,138.0
+2023-08,Knit Sweater,S,Beige,0,69.0,0.0
+2023-08,Knit Sweater,M,Black,14,69.0,966.0
+2023-08,Knit Sweater,M,Navy,13,69.0,897.0
+2023-08,Knit Sweater,M,White,8,69.0,552.0
+2023-08,Knit Sweater,M,Red,7,69.0,483.0
+2023-08,Knit Sweater,M,Olive,1,69.0,69.0
+2023-08,Knit Sweater,M,Beige,4,69.0,276.0
+2023-08,Knit Sweater,L,Black,21,69.0,1449.0
+2023-08,Knit Sweater,L,Navy,10,69.0,690.0
+2023-08,Knit Sweater,L,White,7,69.0,483.0
+2023-08,Knit Sweater,L,Red,6,69.0,414.0
+2023-08,Knit Sweater,L,Olive,5,69.0,345.0
+2023-08,Knit Sweater,L,Beige,1,69.0,69.0
+2023-08,Jeans,S,Black,23,89.0,2047.0
+2023-08,Jeans,S,Navy,9,89.0,801.0
+2023-08,Jeans,S,White,11,89.0,979.0
+2023-08,Jeans,S,Red,1,89.0,89.0
+2023-08,Jeans,S,Olive,3,89.0,267.0
+2023-08,Jeans,S,Beige,4,89.0,356.0
+2023-08,Jeans,M,Black,30,89.0,2670.0
+2023-08,Jeans,M,Navy,18,89.0,1602.0
+2023-08,Jeans,M,White,10,89.0,890.0
+2023-08,Jeans,M,Red,6,89.0,534.0
+2023-08,Jeans,M,Olive,3,89.0,267.0
+2023-08,Jeans,M,Beige,3,89.0,267.0
+2023-08,Jeans,L,Black,24,89.0,2136.0
+2023-08,Jeans,L,Navy,19,89.0,1691.0
+2023-08,Jeans,L,White,11,89.0,979.0
+2023-08,Jeans,L,Red,9,89.0,801.0
+2023-08,Jeans,L,Olive,3,89.0,267.0
+2023-08,Jeans,L,Beige,6,89.0,534.0
+2023-08,T-Shirt,S,Black,28,25.0,700.0
+2023-08,T-Shirt,S,Navy,22,25.0,550.0
+2023-08,T-Shirt,S,White,17,25.0,425.0
+2023-08,T-Shirt,S,Red,6,25.0,150.0
+2023-08,T-Shirt,S,Olive,3,25.0,75.0
+2023-08,T-Shirt,S,Beige,6,25.0,150.0
+2023-08,T-Shirt,M,Black,59,25.0,1475.0
+2023-08,T-Shirt,M,Navy,26,25.0,650.0
+2023-08,T-Shirt,M,White,25,25.0,625.0
+2023-08,T-Shirt,M,Red,18,25.0,450.0
+2023-08,T-Shirt,M,Olive,5,25.0,125.0
+2023-08,T-Shirt,M,Beige,10,25.0,250.0
+2023-08,T-Shirt,L,Black,42,25.0,1050.0
+2023-08,T-Shirt,L,Navy,23,25.0,575.0
+2023-08,T-Shirt,L,White,15,25.0,375.0
+2023-08,T-Shirt,L,Red,11,25.0,275.0
+2023-08,T-Shirt,L,Olive,5,25.0,125.0
+2023-08,T-Shirt,L,Beige,4,25.0,100.0
+2023-08,Sneakers,S,Black,19,99.0,1881.0
+2023-08,Sneakers,S,Navy,16,99.0,1584.0
+2023-08,Sneakers,S,White,17,99.0,1683.0
+2023-08,Sneakers,S,Red,10,99.0,990.0
+2023-08,Sneakers,S,Olive,3,99.0,297.0
+2023-08,Sneakers,S,Beige,2,99.0,198.0
+2023-08,Sneakers,M,Black,39,99.0,3861.0
+2023-08,Sneakers,M,Navy,34,99.0,3366.0
+2023-08,Sneakers,M,White,24,99.0,2376.0
+2023-08,Sneakers,M,Red,20,99.0,1980.0
+2023-08,Sneakers,M,Olive,4,99.0,396.0
+2023-08,Sneakers,M,Beige,6,99.0,594.0
+2023-08,Sneakers,L,Black,35,99.0,3465.0
+2023-08,Sneakers,L,Navy,30,99.0,2970.0
+2023-08,Sneakers,L,White,23,99.0,2277.0
+2023-08,Sneakers,L,Red,8,99.0,792.0
+2023-08,Sneakers,L,Olive,5,99.0,495.0
+2023-08,Sneakers,L,Beige,4,99.0,396.0
+2023-08,Boots,S,Black,4,119.0,476.0
+2023-08,Boots,S,Navy,2,119.0,238.0
+2023-08,Boots,S,White,0,119.0,0.0
+2023-08,Boots,S,Red,3,119.0,357.0
+2023-08,Boots,S,Olive,0,119.0,0.0
+2023-08,Boots,S,Beige,2,119.0,238.0
+2023-08,Boots,M,Black,5,119.0,595.0
+2023-08,Boots,M,Navy,6,119.0,714.0
+2023-08,Boots,M,White,5,119.0,595.0
+2023-08,Boots,M,Red,5,119.0,595.0
+2023-08,Boots,M,Olive,3,119.0,357.0
+2023-08,Boots,M,Beige,2,119.0,238.0
+2023-08,Boots,L,Black,7,119.0,833.0
+2023-08,Boots,L,Navy,11,119.0,1309.0
+2023-08,Boots,L,White,6,119.0,714.0
+2023-08,Boots,L,Red,1,119.0,119.0
+2023-08,Boots,L,Olive,2,119.0,238.0
+2023-08,Boots,L,Beige,2,119.0,238.0
+2023-09,Hoodie,S,Black,15,49.0,735.0
+2023-09,Hoodie,S,Navy,11,49.0,539.0
+2023-09,Hoodie,S,White,6,49.0,294.0
+2023-09,Hoodie,S,Red,5,49.0,245.0
+2023-09,Hoodie,S,Olive,3,49.0,147.0
+2023-09,Hoodie,S,Beige,3,49.0,147.0
+2023-09,Hoodie,M,Black,27,49.0,1323.0
+2023-09,Hoodie,M,Navy,20,49.0,980.0
+2023-09,Hoodie,M,White,22,49.0,1078.0
+2023-09,Hoodie,M,Red,9,49.0,441.0
+2023-09,Hoodie,M,Olive,3,49.0,147.0
+2023-09,Hoodie,M,Beige,3,49.0,147.0
+2023-09,Hoodie,L,Black,22,49.0,1078.0
+2023-09,Hoodie,L,Navy,16,49.0,784.0
+2023-09,Hoodie,L,White,13,49.0,637.0
+2023-09,Hoodie,L,Red,7,49.0,343.0
+2023-09,Hoodie,L,Olive,1,49.0,49.0
+2023-09,Hoodie,L,Beige,5,49.0,245.0
+2023-09,Puffer Jacket,S,Black,10,129.0,1290.0
+2023-09,Puffer Jacket,S,Navy,7,129.0,903.0
+2023-09,Puffer Jacket,S,White,2,129.0,258.0
+2023-09,Puffer Jacket,S,Red,0,129.0,0.0
+2023-09,Puffer Jacket,S,Olive,1,129.0,129.0
+2023-09,Puffer Jacket,S,Beige,1,129.0,129.0
+2023-09,Puffer Jacket,M,Black,20,129.0,2580.0
+2023-09,Puffer Jacket,M,Navy,9,129.0,1161.0
+2023-09,Puffer Jacket,M,White,10,129.0,1290.0
+2023-09,Puffer Jacket,M,Red,1,129.0,129.0
+2023-09,Puffer Jacket,M,Olive,1,129.0,129.0
+2023-09,Puffer Jacket,M,Beige,2,129.0,258.0
+2023-09,Puffer Jacket,L,Black,14,129.0,1806.0
+2023-09,Puffer Jacket,L,Navy,4,129.0,516.0
+2023-09,Puffer Jacket,L,White,6,129.0,774.0
+2023-09,Puffer Jacket,L,Red,4,129.0,516.0
+2023-09,Puffer Jacket,L,Olive,1,129.0,129.0
+2023-09,Puffer Jacket,L,Beige,2,129.0,258.0
+2023-09,Raincoat,S,Black,12,79.0,948.0
+2023-09,Raincoat,S,Navy,6,79.0,474.0
+2023-09,Raincoat,S,White,6,79.0,474.0
+2023-09,Raincoat,S,Red,2,79.0,158.0
+2023-09,Raincoat,S,Olive,2,79.0,158.0
+2023-09,Raincoat,S,Beige,4,79.0,316.0
+2023-09,Raincoat,M,Black,20,79.0,1580.0
+2023-09,Raincoat,M,Navy,6,79.0,474.0
+2023-09,Raincoat,M,White,13,79.0,1027.0
+2023-09,Raincoat,M,Red,3,79.0,237.0
+2023-09,Raincoat,M,Olive,1,79.0,79.0
+2023-09,Raincoat,M,Beige,3,79.0,237.0
+2023-09,Raincoat,L,Black,12,79.0,948.0
+2023-09,Raincoat,L,Navy,11,79.0,869.0
+2023-09,Raincoat,L,White,10,79.0,790.0
+2023-09,Raincoat,L,Red,7,79.0,553.0
+2023-09,Raincoat,L,Olive,5,79.0,395.0
+2023-09,Raincoat,L,Beige,2,79.0,158.0
+2023-09,Knit Sweater,S,Black,9,69.0,621.0
+2023-09,Knit Sweater,S,Navy,8,69.0,552.0
+2023-09,Knit Sweater,S,White,2,69.0,138.0
+2023-09,Knit Sweater,S,Red,2,69.0,138.0
+2023-09,Knit Sweater,S,Olive,1,69.0,69.0
+2023-09,Knit Sweater,S,Beige,3,69.0,207.0
+2023-09,Knit Sweater,M,Black,12,69.0,828.0
+2023-09,Knit Sweater,M,Navy,14,69.0,966.0
+2023-09,Knit Sweater,M,White,8,69.0,552.0
+2023-09,Knit Sweater,M,Red,3,69.0,207.0
+2023-09,Knit Sweater,M,Olive,3,69.0,207.0
+2023-09,Knit Sweater,M,Beige,3,69.0,207.0
+2023-09,Knit Sweater,L,Black,14,69.0,966.0
+2023-09,Knit Sweater,L,Navy,9,69.0,621.0
+2023-09,Knit Sweater,L,White,3,69.0,207.0
+2023-09,Knit Sweater,L,Red,9,69.0,621.0
+2023-09,Knit Sweater,L,Olive,0,69.0,0.0
+2023-09,Knit Sweater,L,Beige,3,69.0,207.0
+2023-09,Jeans,S,Black,11,89.0,979.0
+2023-09,Jeans,S,Navy,18,89.0,1602.0
+2023-09,Jeans,S,White,12,89.0,1068.0
+2023-09,Jeans,S,Red,4,89.0,356.0
+2023-09,Jeans,S,Olive,2,89.0,178.0
+2023-09,Jeans,S,Beige,1,89.0,89.0
+2023-09,Jeans,M,Black,30,89.0,2670.0
+2023-09,Jeans,M,Navy,21,89.0,1869.0
+2023-09,Jeans,M,White,21,89.0,1869.0
+2023-09,Jeans,M,Red,4,89.0,356.0
+2023-09,Jeans,M,Olive,5,89.0,445.0
+2023-09,Jeans,M,Beige,1,89.0,89.0
+2023-09,Jeans,L,Black,31,89.0,2759.0
+2023-09,Jeans,L,Navy,17,89.0,1513.0
+2023-09,Jeans,L,White,12,89.0,1068.0
+2023-09,Jeans,L,Red,11,89.0,979.0
+2023-09,Jeans,L,Olive,6,89.0,534.0
+2023-09,Jeans,L,Beige,2,89.0,178.0
+2023-09,T-Shirt,S,Black,18,25.0,450.0
+2023-09,T-Shirt,S,Navy,6,25.0,150.0
+2023-09,T-Shirt,S,White,10,25.0,250.0
+2023-09,T-Shirt,S,Red,5,25.0,125.0
+2023-09,T-Shirt,S,Olive,0,25.0,0.0
+2023-09,T-Shirt,S,Beige,1,25.0,25.0
+2023-09,T-Shirt,M,Black,24,25.0,600.0
+2023-09,T-Shirt,M,Navy,28,25.0,700.0
+2023-09,T-Shirt,M,White,19,25.0,475.0
+2023-09,T-Shirt,M,Red,11,25.0,275.0
+2023-09,T-Shirt,M,Olive,6,25.0,150.0
+2023-09,T-Shirt,M,Beige,4,25.0,100.0
+2023-09,T-Shirt,L,Black,31,25.0,775.0
+2023-09,T-Shirt,L,Navy,17,25.0,425.0
+2023-09,T-Shirt,L,White,18,25.0,450.0
+2023-09,T-Shirt,L,Red,6,25.0,150.0
+2023-09,T-Shirt,L,Olive,1,25.0,25.0
+2023-09,T-Shirt,L,Beige,6,25.0,150.0
+2023-09,Sneakers,S,Black,21,99.0,2079.0
+2023-09,Sneakers,S,Navy,19,99.0,1881.0
+2023-09,Sneakers,S,White,11,99.0,1089.0
+2023-09,Sneakers,S,Red,1,99.0,99.0
+2023-09,Sneakers,S,Olive,3,99.0,297.0
+2023-09,Sneakers,S,Beige,1,99.0,99.0
+2023-09,Sneakers,M,Black,27,99.0,2673.0
+2023-09,Sneakers,M,Navy,23,99.0,2277.0
+2023-09,Sneakers,M,White,19,99.0,1881.0
+2023-09,Sneakers,M,Red,13,99.0,1287.0
+2023-09,Sneakers,M,Olive,4,99.0,396.0
+2023-09,Sneakers,M,Beige,3,99.0,297.0
+2023-09,Sneakers,L,Black,28,99.0,2772.0
+2023-09,Sneakers,L,Navy,10,99.0,990.0
+2023-09,Sneakers,L,White,12,99.0,1188.0
+2023-09,Sneakers,L,Red,8,99.0,792.0
+2023-09,Sneakers,L,Olive,3,99.0,297.0
+2023-09,Sneakers,L,Beige,1,99.0,99.0
+2023-09,Boots,S,Black,2,119.0,238.0
+2023-09,Boots,S,Navy,3,119.0,357.0
+2023-09,Boots,S,White,7,119.0,833.0
+2023-09,Boots,S,Red,1,119.0,119.0
+2023-09,Boots,S,Olive,0,119.0,0.0
+2023-09,Boots,S,Beige,1,119.0,119.0
+2023-09,Boots,M,Black,8,119.0,952.0
+2023-09,Boots,M,Navy,7,119.0,833.0
+2023-09,Boots,M,White,8,119.0,952.0
+2023-09,Boots,M,Red,1,119.0,119.0
+2023-09,Boots,M,Olive,1,119.0,119.0
+2023-09,Boots,M,Beige,0,119.0,0.0
+2023-09,Boots,L,Black,12,119.0,1428.0
+2023-09,Boots,L,Navy,7,119.0,833.0
+2023-09,Boots,L,White,9,119.0,1071.0
+2023-09,Boots,L,Red,3,119.0,357.0
+2023-09,Boots,L,Olive,3,119.0,357.0
+2023-09,Boots,L,Beige,0,119.0,0.0
+2023-10,Hoodie,S,Black,12,49.0,588.0
+2023-10,Hoodie,S,Navy,7,49.0,343.0
+2023-10,Hoodie,S,White,5,49.0,245.0
+2023-10,Hoodie,S,Red,4,49.0,196.0
+2023-10,Hoodie,S,Olive,3,49.0,147.0
+2023-10,Hoodie,S,Beige,5,49.0,245.0
+2023-10,Hoodie,M,Black,12,49.0,588.0
+2023-10,Hoodie,M,Navy,7,49.0,343.0
+2023-10,Hoodie,M,White,10,49.0,490.0
+2023-10,Hoodie,M,Red,4,49.0,196.0
+2023-10,Hoodie,M,Olive,3,49.0,147.0
+2023-10,Hoodie,M,Beige,3,49.0,147.0
+2023-10,Hoodie,L,Black,10,49.0,490.0
+2023-10,Hoodie,L,Navy,10,49.0,490.0
+2023-10,Hoodie,L,White,13,49.0,637.0
+2023-10,Hoodie,L,Red,5,49.0,245.0
+2023-10,Hoodie,L,Olive,4,49.0,196.0
+2023-10,Hoodie,L,Beige,2,49.0,98.0
+2023-10,Puffer Jacket,S,Black,7,129.0,903.0
+2023-10,Puffer Jacket,S,Navy,1,129.0,129.0
+2023-10,Puffer Jacket,S,White,3,129.0,387.0
+2023-10,Puffer Jacket,S,Red,0,129.0,0.0
+2023-10,Puffer Jacket,S,Olive,1,129.0,129.0
+2023-10,Puffer Jacket,S,Beige,0,129.0,0.0
+2023-10,Puffer Jacket,M,Black,17,129.0,2193.0
+2023-10,Puffer Jacket,M,Navy,5,129.0,645.0
+2023-10,Puffer Jacket,M,White,11,129.0,1419.0
+2023-10,Puffer Jacket,M,Red,3,129.0,387.0
+2023-10,Puffer Jacket,M,Olive,1,129.0,129.0
+2023-10,Puffer Jacket,M,Beige,5,129.0,645.0
+2023-10,Puffer Jacket,L,Black,14,129.0,1806.0
+2023-10,Puffer Jacket,L,Navy,8,129.0,1032.0
+2023-10,Puffer Jacket,L,White,11,129.0,1419.0
+2023-10,Puffer Jacket,L,Red,3,129.0,387.0
+2023-10,Puffer Jacket,L,Olive,3,129.0,387.0
+2023-10,Puffer Jacket,L,Beige,2,129.0,258.0
+2023-10,Raincoat,S,Black,4,79.0,316.0
+2023-10,Raincoat,S,Navy,6,79.0,474.0
+2023-10,Raincoat,S,White,9,79.0,711.0
+2023-10,Raincoat,S,Red,0,79.0,0.0
+2023-10,Raincoat,S,Olive,2,79.0,158.0
+2023-10,Raincoat,S,Beige,0,79.0,0.0
+2023-10,Raincoat,M,Black,18,79.0,1422.0
+2023-10,Raincoat,M,Navy,9,79.0,711.0
+2023-10,Raincoat,M,White,2,79.0,158.0
+2023-10,Raincoat,M,Red,4,79.0,316.0
+2023-10,Raincoat,M,Olive,3,79.0,237.0
+2023-10,Raincoat,M,Beige,0,79.0,0.0
+2023-10,Raincoat,L,Black,9,79.0,711.0
+2023-10,Raincoat,L,Navy,11,79.0,869.0
+2023-10,Raincoat,L,White,6,79.0,474.0
+2023-10,Raincoat,L,Red,5,79.0,395.0
+2023-10,Raincoat,L,Olive,2,79.0,158.0
+2023-10,Raincoat,L,Beige,2,79.0,158.0
+2023-10,Knit Sweater,S,Black,4,69.0,276.0
+2023-10,Knit Sweater,S,Navy,6,69.0,414.0
+2023-10,Knit Sweater,S,White,4,69.0,276.0
+2023-10,Knit Sweater,S,Red,2,69.0,138.0
+2023-10,Knit Sweater,S,Olive,0,69.0,0.0
+2023-10,Knit Sweater,S,Beige,4,69.0,276.0
+2023-10,Knit Sweater,M,Black,25,69.0,1725.0
+2023-10,Knit Sweater,M,Navy,12,69.0,828.0
+2023-10,Knit Sweater,M,White,13,69.0,897.0
+2023-10,Knit Sweater,M,Red,5,69.0,345.0
+2023-10,Knit Sweater,M,Olive,3,69.0,207.0
+2023-10,Knit Sweater,M,Beige,0,69.0,0.0
+2023-10,Knit Sweater,L,Black,12,69.0,828.0
+2023-10,Knit Sweater,L,Navy,8,69.0,552.0
+2023-10,Knit Sweater,L,White,7,69.0,483.0
+2023-10,Knit Sweater,L,Red,7,69.0,483.0
+2023-10,Knit Sweater,L,Olive,2,69.0,138.0
+2023-10,Knit Sweater,L,Beige,2,69.0,138.0
+2023-10,Jeans,S,Black,11,89.0,979.0
+2023-10,Jeans,S,Navy,15,89.0,1335.0
+2023-10,Jeans,S,White,15,89.0,1335.0
+2023-10,Jeans,S,Red,4,89.0,356.0
+2023-10,Jeans,S,Olive,0,89.0,0.0
+2023-10,Jeans,S,Beige,0,89.0,0.0
+2023-10,Jeans,M,Black,34,89.0,3026.0
+2023-10,Jeans,M,Navy,16,89.0,1424.0
+2023-10,Jeans,M,White,18,89.0,1602.0
+2023-10,Jeans,M,Red,8,89.0,712.0
+2023-10,Jeans,M,Olive,2,89.0,178.0
+2023-10,Jeans,M,Beige,2,89.0,178.0
+2023-10,Jeans,L,Black,36,89.0,3204.0
+2023-10,Jeans,L,Navy,13,89.0,1157.0
+2023-10,Jeans,L,White,9,89.0,801.0
+2023-10,Jeans,L,Red,9,89.0,801.0
+2023-10,Jeans,L,Olive,4,89.0,356.0
+2023-10,Jeans,L,Beige,5,89.0,445.0
+2023-10,T-Shirt,S,Black,16,25.0,400.0
+2023-10,T-Shirt,S,Navy,12,25.0,300.0
+2023-10,T-Shirt,S,White,15,25.0,375.0
+2023-10,T-Shirt,S,Red,6,25.0,150.0
+2023-10,T-Shirt,S,Olive,4,25.0,100.0
+2023-10,T-Shirt,S,Beige,2,25.0,50.0
+2023-10,T-Shirt,M,Black,23,25.0,575.0
+2023-10,T-Shirt,M,Navy,23,25.0,575.0
+2023-10,T-Shirt,M,White,14,25.0,350.0
+2023-10,T-Shirt,M,Red,9,25.0,225.0
+2023-10,T-Shirt,M,Olive,3,25.0,75.0
+2023-10,T-Shirt,M,Beige,2,25.0,50.0
+2023-10,T-Shirt,L,Black,28,25.0,700.0
+2023-10,T-Shirt,L,Navy,20,25.0,500.0
+2023-10,T-Shirt,L,White,14,25.0,350.0
+2023-10,T-Shirt,L,Red,4,25.0,100.0
+2023-10,T-Shirt,L,Olive,3,25.0,75.0
+2023-10,T-Shirt,L,Beige,4,25.0,100.0
+2023-10,Sneakers,S,Black,12,99.0,1188.0
+2023-10,Sneakers,S,Navy,9,99.0,891.0
+2023-10,Sneakers,S,White,5,99.0,495.0
+2023-10,Sneakers,S,Red,3,99.0,297.0
+2023-10,Sneakers,S,Olive,3,99.0,297.0
+2023-10,Sneakers,S,Beige,1,99.0,99.0
+2023-10,Sneakers,M,Black,17,99.0,1683.0
+2023-10,Sneakers,M,Navy,14,99.0,1386.0
+2023-10,Sneakers,M,White,9,99.0,891.0
+2023-10,Sneakers,M,Red,5,99.0,495.0
+2023-10,Sneakers,M,Olive,1,99.0,99.0
+2023-10,Sneakers,M,Beige,3,99.0,297.0
+2023-10,Sneakers,L,Black,29,99.0,2871.0
+2023-10,Sneakers,L,Navy,15,99.0,1485.0
+2023-10,Sneakers,L,White,11,99.0,1089.0
+2023-10,Sneakers,L,Red,5,99.0,495.0
+2023-10,Sneakers,L,Olive,4,99.0,396.0
+2023-10,Sneakers,L,Beige,3,99.0,297.0
+2023-10,Boots,S,Black,9,119.0,1071.0
+2023-10,Boots,S,Navy,1,119.0,119.0
+2023-10,Boots,S,White,4,119.0,476.0
+2023-10,Boots,S,Red,2,119.0,238.0
+2023-10,Boots,S,Olive,2,119.0,238.0
+2023-10,Boots,S,Beige,0,119.0,0.0
+2023-10,Boots,M,Black,14,119.0,1666.0
+2023-10,Boots,M,Navy,5,119.0,595.0
+2023-10,Boots,M,White,4,119.0,476.0
+2023-10,Boots,M,Red,2,119.0,238.0
+2023-10,Boots,M,Olive,6,119.0,714.0
+2023-10,Boots,M,Beige,3,119.0,357.0
+2023-10,Boots,L,Black,4,119.0,476.0
+2023-10,Boots,L,Navy,11,119.0,1309.0
+2023-10,Boots,L,White,6,119.0,714.0
+2023-10,Boots,L,Red,1,119.0,119.0
+2023-10,Boots,L,Olive,1,119.0,119.0
+2023-10,Boots,L,Beige,0,119.0,0.0
+2023-11,Hoodie,S,Black,18,49.0,882.0
+2023-11,Hoodie,S,Navy,11,49.0,539.0
+2023-11,Hoodie,S,White,7,49.0,343.0
+2023-11,Hoodie,S,Red,6,49.0,294.0
+2023-11,Hoodie,S,Olive,2,49.0,98.0
+2023-11,Hoodie,S,Beige,2,49.0,98.0
+2023-11,Hoodie,M,Black,36,49.0,1764.0
+2023-11,Hoodie,M,Navy,19,49.0,931.0
+2023-11,Hoodie,M,White,27,49.0,1323.0
+2023-11,Hoodie,M,Red,11,49.0,539.0
+2023-11,Hoodie,M,Olive,6,49.0,294.0
+2023-11,Hoodie,M,Beige,3,49.0,147.0
+2023-11,Hoodie,L,Black,30,49.0,1470.0
+2023-11,Hoodie,L,Navy,14,49.0,686.0
+2023-11,Hoodie,L,White,21,49.0,1029.0
+2023-11,Hoodie,L,Red,6,49.0,294.0
+2023-11,Hoodie,L,Olive,2,49.0,98.0
+2023-11,Hoodie,L,Beige,6,49.0,294.0
+2023-11,Puffer Jacket,S,Black,13,129.0,1677.0
+2023-11,Puffer Jacket,S,Navy,7,129.0,903.0
+2023-11,Puffer Jacket,S,White,6,129.0,774.0
+2023-11,Puffer Jacket,S,Red,2,129.0,258.0
+2023-11,Puffer Jacket,S,Olive,1,129.0,129.0
+2023-11,Puffer Jacket,S,Beige,2,129.0,258.0
+2023-11,Puffer Jacket,M,Black,19,129.0,2451.0
+2023-11,Puffer Jacket,M,Navy,12,129.0,1548.0
+2023-11,Puffer Jacket,M,White,12,129.0,1548.0
+2023-11,Puffer Jacket,M,Red,4,129.0,516.0
+2023-11,Puffer Jacket,M,Olive,2,129.0,258.0
+2023-11,Puffer Jacket,M,Beige,1,129.0,129.0
+2023-11,Puffer Jacket,L,Black,13,129.0,1677.0
+2023-11,Puffer Jacket,L,Navy,11,129.0,1419.0
+2023-11,Puffer Jacket,L,White,7,129.0,903.0
+2023-11,Puffer Jacket,L,Red,1,129.0,129.0
+2023-11,Puffer Jacket,L,Olive,2,129.0,258.0
+2023-11,Puffer Jacket,L,Beige,0,129.0,0.0
+2023-11,Raincoat,S,Black,15,79.0,1185.0
+2023-11,Raincoat,S,Navy,13,79.0,1027.0
+2023-11,Raincoat,S,White,10,79.0,790.0
+2023-11,Raincoat,S,Red,8,79.0,632.0
+2023-11,Raincoat,S,Olive,2,79.0,158.0
+2023-11,Raincoat,S,Beige,1,79.0,79.0
+2023-11,Raincoat,M,Black,19,79.0,1501.0
+2023-11,Raincoat,M,Navy,15,79.0,1185.0
+2023-11,Raincoat,M,White,13,79.0,1027.0
+2023-11,Raincoat,M,Red,8,79.0,632.0
+2023-11,Raincoat,M,Olive,4,79.0,316.0
+2023-11,Raincoat,M,Beige,3,79.0,237.0
+2023-11,Raincoat,L,Black,22,79.0,1738.0
+2023-11,Raincoat,L,Navy,17,79.0,1343.0
+2023-11,Raincoat,L,White,8,79.0,632.0
+2023-11,Raincoat,L,Red,3,79.0,237.0
+2023-11,Raincoat,L,Olive,1,79.0,79.0
+2023-11,Raincoat,L,Beige,3,79.0,237.0
+2023-11,Knit Sweater,S,Black,16,69.0,1104.0
+2023-11,Knit Sweater,S,Navy,12,69.0,828.0
+2023-11,Knit Sweater,S,White,7,69.0,483.0
+2023-11,Knit Sweater,S,Red,1,69.0,69.0
+2023-11,Knit Sweater,S,Olive,3,69.0,207.0
+2023-11,Knit Sweater,S,Beige,1,69.0,69.0
+2023-11,Knit Sweater,M,Black,26,69.0,1794.0
+2023-11,Knit Sweater,M,Navy,19,69.0,1311.0
+2023-11,Knit Sweater,M,White,17,69.0,1173.0
+2023-11,Knit Sweater,M,Red,11,69.0,759.0
+2023-11,Knit Sweater,M,Olive,4,69.0,276.0
+2023-11,Knit Sweater,M,Beige,6,69.0,414.0
+2023-11,Knit Sweater,L,Black,19,69.0,1311.0
+2023-11,Knit Sweater,L,Navy,16,69.0,1104.0
+2023-11,Knit Sweater,L,White,18,69.0,1242.0
+2023-11,Knit Sweater,L,Red,7,69.0,483.0
+2023-11,Knit Sweater,L,Olive,2,69.0,138.0
+2023-11,Knit Sweater,L,Beige,3,69.0,207.0
+2023-11,Jeans,S,Black,17,89.0,1513.0
+2023-11,Jeans,S,Navy,11,89.0,979.0
+2023-11,Jeans,S,White,7,89.0,623.0
+2023-11,Jeans,S,Red,6,89.0,534.0
+2023-11,Jeans,S,Olive,4,89.0,356.0
+2023-11,Jeans,S,Beige,2,89.0,178.0
+2023-11,Jeans,M,Black,34,89.0,3026.0
+2023-11,Jeans,M,Navy,24,89.0,2136.0
+2023-11,Jeans,M,White,13,89.0,1157.0
+2023-11,Jeans,M,Red,7,89.0,623.0
+2023-11,Jeans,M,Olive,3,89.0,267.0
+2023-11,Jeans,M,Beige,3,89.0,267.0
+2023-11,Jeans,L,Black,20,89.0,1780.0
+2023-11,Jeans,L,Navy,14,89.0,1246.0
+2023-11,Jeans,L,White,10,89.0,890.0
+2023-11,Jeans,L,Red,4,89.0,356.0
+2023-11,Jeans,L,Olive,3,89.0,267.0
+2023-11,Jeans,L,Beige,1,89.0,89.0
+2023-11,T-Shirt,S,Black,20,25.0,500.0
+2023-11,T-Shirt,S,Navy,15,25.0,375.0
+2023-11,T-Shirt,S,White,7,25.0,175.0
+2023-11,T-Shirt,S,Red,5,25.0,125.0
+2023-11,T-Shirt,S,Olive,3,25.0,75.0
+2023-11,T-Shirt,S,Beige,4,25.0,100.0
+2023-11,T-Shirt,M,Black,29,25.0,725.0
+2023-11,T-Shirt,M,Navy,30,25.0,750.0
+2023-11,T-Shirt,M,White,14,25.0,350.0
+2023-11,T-Shirt,M,Red,11,25.0,275.0
+2023-11,T-Shirt,M,Olive,6,25.0,150.0
+2023-11,T-Shirt,M,Beige,5,25.0,125.0
+2023-11,T-Shirt,L,Black,24,25.0,600.0
+2023-11,T-Shirt,L,Navy,14,25.0,350.0
+2023-11,T-Shirt,L,White,20,25.0,500.0
+2023-11,T-Shirt,L,Red,7,25.0,175.0
+2023-11,T-Shirt,L,Olive,3,25.0,75.0
+2023-11,T-Shirt,L,Beige,6,25.0,150.0
+2023-11,Sneakers,S,Black,19,99.0,1881.0
+2023-11,Sneakers,S,Navy,9,99.0,891.0
+2023-11,Sneakers,S,White,7,99.0,693.0
+2023-11,Sneakers,S,Red,6,99.0,594.0
+2023-11,Sneakers,S,Olive,0,99.0,0.0
+2023-11,Sneakers,S,Beige,3,99.0,297.0
+2023-11,Sneakers,M,Black,17,99.0,1683.0
+2023-11,Sneakers,M,Navy,18,99.0,1782.0
+2023-11,Sneakers,M,White,13,99.0,1287.0
+2023-11,Sneakers,M,Red,5,99.0,495.0
+2023-11,Sneakers,M,Olive,5,99.0,495.0
+2023-11,Sneakers,M,Beige,1,99.0,99.0
+2023-11,Sneakers,L,Black,23,99.0,2277.0
+2023-11,Sneakers,L,Navy,16,99.0,1584.0
+2023-11,Sneakers,L,White,9,99.0,891.0
+2023-11,Sneakers,L,Red,11,99.0,1089.0
+2023-11,Sneakers,L,Olive,2,99.0,198.0
+2023-11,Sneakers,L,Beige,5,99.0,495.0
+2023-11,Boots,S,Black,7,119.0,833.0
+2023-11,Boots,S,Navy,3,119.0,357.0
+2023-11,Boots,S,White,5,119.0,595.0
+2023-11,Boots,S,Red,5,119.0,595.0
+2023-11,Boots,S,Olive,2,119.0,238.0
+2023-11,Boots,S,Beige,0,119.0,0.0
+2023-11,Boots,M,Black,10,119.0,1190.0
+2023-11,Boots,M,Navy,10,119.0,1190.0
+2023-11,Boots,M,White,8,119.0,952.0
+2023-11,Boots,M,Red,2,119.0,238.0
+2023-11,Boots,M,Olive,3,119.0,357.0
+2023-11,Boots,M,Beige,6,119.0,714.0
+2023-11,Boots,L,Black,10,119.0,1190.0
+2023-11,Boots,L,Navy,8,119.0,952.0
+2023-11,Boots,L,White,5,119.0,595.0
+2023-11,Boots,L,Red,2,119.0,238.0
+2023-11,Boots,L,Olive,4,119.0,476.0
+2023-11,Boots,L,Beige,1,119.0,119.0
+2023-12,Hoodie,S,Black,14,49.0,686.0
+2023-12,Hoodie,S,Navy,10,49.0,490.0
+2023-12,Hoodie,S,White,9,49.0,441.0
+2023-12,Hoodie,S,Red,6,49.0,294.0
+2023-12,Hoodie,S,Olive,1,49.0,49.0
+2023-12,Hoodie,S,Beige,3,49.0,147.0
+2023-12,Hoodie,M,Black,33,49.0,1617.0
+2023-12,Hoodie,M,Navy,18,49.0,882.0
+2023-12,Hoodie,M,White,14,49.0,686.0
+2023-12,Hoodie,M,Red,6,49.0,294.0
+2023-12,Hoodie,M,Olive,5,49.0,245.0
+2023-12,Hoodie,M,Beige,5,49.0,245.0
+2023-12,Hoodie,L,Black,22,49.0,1078.0
+2023-12,Hoodie,L,Navy,16,49.0,784.0
+2023-12,Hoodie,L,White,18,49.0,882.0
+2023-12,Hoodie,L,Red,6,49.0,294.0
+2023-12,Hoodie,L,Olive,1,49.0,49.0
+2023-12,Hoodie,L,Beige,1,49.0,49.0
+2023-12,Puffer Jacket,S,Black,19,129.0,2451.0
+2023-12,Puffer Jacket,S,Navy,10,129.0,1290.0
+2023-12,Puffer Jacket,S,White,16,129.0,2064.0
+2023-12,Puffer Jacket,S,Red,7,129.0,903.0
+2023-12,Puffer Jacket,S,Olive,3,129.0,387.0
+2023-12,Puffer Jacket,S,Beige,2,129.0,258.0
+2023-12,Puffer Jacket,M,Black,21,129.0,2709.0
+2023-12,Puffer Jacket,M,Navy,14,129.0,1806.0
+2023-12,Puffer Jacket,M,White,13,129.0,1677.0
+2023-12,Puffer Jacket,M,Red,8,129.0,1032.0
+2023-12,Puffer Jacket,M,Olive,4,129.0,516.0
+2023-12,Puffer Jacket,M,Beige,2,129.0,258.0
+2023-12,Puffer Jacket,L,Black,18,129.0,2322.0
+2023-12,Puffer Jacket,L,Navy,14,129.0,1806.0
+2023-12,Puffer Jacket,L,White,8,129.0,1032.0
+2023-12,Puffer Jacket,L,Red,4,129.0,516.0
+2023-12,Puffer Jacket,L,Olive,0,129.0,0.0
+2023-12,Puffer Jacket,L,Beige,3,129.0,387.0
+2023-12,Raincoat,S,Black,6,79.0,474.0
+2023-12,Raincoat,S,Navy,4,79.0,316.0
+2023-12,Raincoat,S,White,8,79.0,632.0
+2023-12,Raincoat,S,Red,1,79.0,79.0
+2023-12,Raincoat,S,Olive,3,79.0,237.0
+2023-12,Raincoat,S,Beige,0,79.0,0.0
+2023-12,Raincoat,M,Black,9,79.0,711.0
+2023-12,Raincoat,M,Navy,9,79.0,711.0
+2023-12,Raincoat,M,White,5,79.0,395.0
+2023-12,Raincoat,M,Red,3,79.0,237.0
+2023-12,Raincoat,M,Olive,3,79.0,237.0
+2023-12,Raincoat,M,Beige,1,79.0,79.0
+2023-12,Raincoat,L,Black,12,79.0,948.0
+2023-12,Raincoat,L,Navy,6,79.0,474.0
+2023-12,Raincoat,L,White,10,79.0,790.0
+2023-12,Raincoat,L,Red,3,79.0,237.0
+2023-12,Raincoat,L,Olive,2,79.0,158.0
+2023-12,Raincoat,L,Beige,4,79.0,316.0
+2023-12,Knit Sweater,S,Black,15,69.0,1035.0
+2023-12,Knit Sweater,S,Navy,15,69.0,1035.0
+2023-12,Knit Sweater,S,White,7,69.0,483.0
+2023-12,Knit Sweater,S,Red,2,69.0,138.0
+2023-12,Knit Sweater,S,Olive,4,69.0,276.0
+2023-12,Knit Sweater,S,Beige,3,69.0,207.0
+2023-12,Knit Sweater,M,Black,20,69.0,1380.0
+2023-12,Knit Sweater,M,Navy,19,69.0,1311.0
+2023-12,Knit Sweater,M,White,14,69.0,966.0
+2023-12,Knit Sweater,M,Red,4,69.0,276.0
+2023-12,Knit Sweater,M,Olive,2,69.0,138.0
+2023-12,Knit Sweater,M,Beige,4,69.0,276.0
+2023-12,Knit Sweater,L,Black,18,69.0,1242.0
+2023-12,Knit Sweater,L,Navy,7,69.0,483.0
+2023-12,Knit Sweater,L,White,10,69.0,690.0
+2023-12,Knit Sweater,L,Red,4,69.0,276.0
+2023-12,Knit Sweater,L,Olive,4,69.0,276.0
+2023-12,Knit Sweater,L,Beige,1,69.0,69.0
+2023-12,Jeans,S,Black,15,89.0,1335.0
+2023-12,Jeans,S,Navy,14,89.0,1246.0
+2023-12,Jeans,S,White,8,89.0,712.0
+2023-12,Jeans,S,Red,5,89.0,445.0
+2023-12,Jeans,S,Olive,3,89.0,267.0
+2023-12,Jeans,S,Beige,1,89.0,89.0
+2023-12,Jeans,M,Black,18,89.0,1602.0
+2023-12,Jeans,M,Navy,26,89.0,2314.0
+2023-12,Jeans,M,White,9,89.0,801.0
+2023-12,Jeans,M,Red,3,89.0,267.0
+2023-12,Jeans,M,Olive,3,89.0,267.0
+2023-12,Jeans,M,Beige,5,89.0,445.0
+2023-12,Jeans,L,Black,23,89.0,2047.0
+2023-12,Jeans,L,Navy,18,89.0,1602.0
+2023-12,Jeans,L,White,10,89.0,890.0
+2023-12,Jeans,L,Red,5,89.0,445.0
+2023-12,Jeans,L,Olive,6,89.0,534.0
+2023-12,Jeans,L,Beige,3,89.0,267.0
+2023-12,T-Shirt,S,Black,17,25.0,425.0
+2023-12,T-Shirt,S,Navy,12,25.0,300.0
+2023-12,T-Shirt,S,White,9,25.0,225.0
+2023-12,T-Shirt,S,Red,5,25.0,125.0
+2023-12,T-Shirt,S,Olive,3,25.0,75.0
+2023-12,T-Shirt,S,Beige,0,25.0,0.0
+2023-12,T-Shirt,M,Black,18,25.0,450.0
+2023-12,T-Shirt,M,Navy,19,25.0,475.0
+2023-12,T-Shirt,M,White,16,25.0,400.0
+2023-12,T-Shirt,M,Red,5,25.0,125.0
+2023-12,T-Shirt,M,Olive,7,25.0,175.0
+2023-12,T-Shirt,M,Beige,4,25.0,100.0
+2023-12,T-Shirt,L,Black,19,25.0,475.0
+2023-12,T-Shirt,L,Navy,19,25.0,475.0
+2023-12,T-Shirt,L,White,11,25.0,275.0
+2023-12,T-Shirt,L,Red,6,25.0,150.0
+2023-12,T-Shirt,L,Olive,3,25.0,75.0
+2023-12,T-Shirt,L,Beige,2,25.0,50.0
+2023-12,Sneakers,S,Black,8,99.0,792.0
+2023-12,Sneakers,S,Navy,10,99.0,990.0
+2023-12,Sneakers,S,White,4,99.0,396.0
+2023-12,Sneakers,S,Red,4,99.0,396.0
+2023-12,Sneakers,S,Olive,2,99.0,198.0
+2023-12,Sneakers,S,Beige,2,99.0,198.0
+2023-12,Sneakers,M,Black,12,99.0,1188.0
+2023-12,Sneakers,M,Navy,6,99.0,594.0
+2023-12,Sneakers,M,White,11,99.0,1089.0
+2023-12,Sneakers,M,Red,5,99.0,495.0
+2023-12,Sneakers,M,Olive,0,99.0,0.0
+2023-12,Sneakers,M,Beige,2,99.0,198.0
+2023-12,Sneakers,L,Black,19,99.0,1881.0
+2023-12,Sneakers,L,Navy,8,99.0,792.0
+2023-12,Sneakers,L,White,7,99.0,693.0
+2023-12,Sneakers,L,Red,1,99.0,99.0
+2023-12,Sneakers,L,Olive,3,99.0,297.0
+2023-12,Sneakers,L,Beige,5,99.0,495.0
+2023-12,Boots,S,Black,8,119.0,952.0
+2023-12,Boots,S,Navy,6,119.0,714.0
+2023-12,Boots,S,White,2,119.0,238.0
+2023-12,Boots,S,Red,1,119.0,119.0
+2023-12,Boots,S,Olive,1,119.0,119.0
+2023-12,Boots,S,Beige,1,119.0,119.0
+2023-12,Boots,M,Black,18,119.0,2142.0
+2023-12,Boots,M,Navy,8,119.0,952.0
+2023-12,Boots,M,White,4,119.0,476.0
+2023-12,Boots,M,Red,3,119.0,357.0
+2023-12,Boots,M,Olive,0,119.0,0.0
+2023-12,Boots,M,Beige,1,119.0,119.0
+2023-12,Boots,L,Black,7,119.0,833.0
+2023-12,Boots,L,Navy,8,119.0,952.0
+2023-12,Boots,L,White,3,119.0,357.0
+2023-12,Boots,L,Red,2,119.0,238.0
+2023-12,Boots,L,Olive,1,119.0,119.0
+2023-12,Boots,L,Beige,0,119.0,0.0
+2024-01,Hoodie,S,Black,23,49.0,1127.0
+2024-01,Hoodie,S,Navy,13,49.0,637.0
+2024-01,Hoodie,S,White,6,49.0,294.0
+2024-01,Hoodie,S,Red,6,49.0,294.0
+2024-01,Hoodie,S,Olive,4,49.0,196.0
+2024-01,Hoodie,S,Beige,3,49.0,147.0
+2024-01,Hoodie,M,Black,37,49.0,1813.0
+2024-01,Hoodie,M,Navy,26,49.0,1274.0
+2024-01,Hoodie,M,White,19,49.0,931.0
+2024-01,Hoodie,M,Red,10,49.0,490.0
+2024-01,Hoodie,M,Olive,3,49.0,147.0
+2024-01,Hoodie,M,Beige,8,49.0,392.0
+2024-01,Hoodie,L,Black,25,49.0,1225.0
+2024-01,Hoodie,L,Navy,21,49.0,1029.0
+2024-01,Hoodie,L,White,15,49.0,735.0
+2024-01,Hoodie,L,Red,6,49.0,294.0
+2024-01,Hoodie,L,Olive,6,49.0,294.0
+2024-01,Hoodie,L,Beige,2,49.0,98.0
+2024-01,Puffer Jacket,S,Black,14,129.0,1806.0
+2024-01,Puffer Jacket,S,Navy,5,129.0,645.0
+2024-01,Puffer Jacket,S,White,7,129.0,903.0
+2024-01,Puffer Jacket,S,Red,3,129.0,387.0
+2024-01,Puffer Jacket,S,Olive,5,129.0,645.0
+2024-01,Puffer Jacket,S,Beige,3,129.0,387.0
+2024-01,Puffer Jacket,M,Black,17,129.0,2193.0
+2024-01,Puffer Jacket,M,Navy,12,129.0,1548.0
+2024-01,Puffer Jacket,M,White,12,129.0,1548.0
+2024-01,Puffer Jacket,M,Red,3,129.0,387.0
+2024-01,Puffer Jacket,M,Olive,2,129.0,258.0
+2024-01,Puffer Jacket,M,Beige,3,129.0,387.0
+2024-01,Puffer Jacket,L,Black,20,129.0,2580.0
+2024-01,Puffer Jacket,L,Navy,18,129.0,2322.0
+2024-01,Puffer Jacket,L,White,11,129.0,1419.0
+2024-01,Puffer Jacket,L,Red,7,129.0,903.0
+2024-01,Puffer Jacket,L,Olive,2,129.0,258.0
+2024-01,Puffer Jacket,L,Beige,2,129.0,258.0
+2024-01,Raincoat,S,Black,13,79.0,1027.0
+2024-01,Raincoat,S,Navy,5,79.0,395.0
+2024-01,Raincoat,S,White,4,79.0,316.0
+2024-01,Raincoat,S,Red,1,79.0,79.0
+2024-01,Raincoat,S,Olive,0,79.0,0.0
+2024-01,Raincoat,S,Beige,2,79.0,158.0
+2024-01,Raincoat,M,Black,16,79.0,1264.0
+2024-01,Raincoat,M,Navy,6,79.0,474.0
+2024-01,Raincoat,M,White,11,79.0,869.0
+2024-01,Raincoat,M,Red,3,79.0,237.0
+2024-01,Raincoat,M,Olive,3,79.0,237.0
+2024-01,Raincoat,M,Beige,3,79.0,237.0
+2024-01,Raincoat,L,Black,8,79.0,632.0
+2024-01,Raincoat,L,Navy,7,79.0,553.0
+2024-01,Raincoat,L,White,7,79.0,553.0
+2024-01,Raincoat,L,Red,6,79.0,474.0
+2024-01,Raincoat,L,Olive,0,79.0,0.0
+2024-01,Raincoat,L,Beige,3,79.0,237.0
+2024-01,Knit Sweater,S,Black,21,69.0,1449.0
+2024-01,Knit Sweater,S,Navy,6,69.0,414.0
+2024-01,Knit Sweater,S,White,10,69.0,690.0
+2024-01,Knit Sweater,S,Red,1,69.0,69.0
+2024-01,Knit Sweater,S,Olive,3,69.0,207.0
+2024-01,Knit Sweater,S,Beige,2,69.0,138.0
+2024-01,Knit Sweater,M,Black,32,69.0,2208.0
+2024-01,Knit Sweater,M,Navy,18,69.0,1242.0
+2024-01,Knit Sweater,M,White,8,69.0,552.0
+2024-01,Knit Sweater,M,Red,9,69.0,621.0
+2024-01,Knit Sweater,M,Olive,7,69.0,483.0
+2024-01,Knit Sweater,M,Beige,1,69.0,69.0
+2024-01,Knit Sweater,L,Black,21,69.0,1449.0
+2024-01,Knit Sweater,L,Navy,20,69.0,1380.0
+2024-01,Knit Sweater,L,White,9,69.0,621.0
+2024-01,Knit Sweater,L,Red,5,69.0,345.0
+2024-01,Knit Sweater,L,Olive,4,69.0,276.0
+2024-01,Knit Sweater,L,Beige,0,69.0,0.0
+2024-01,Jeans,S,Black,19,89.0,1691.0
+2024-01,Jeans,S,Navy,10,89.0,890.0
+2024-01,Jeans,S,White,10,89.0,890.0
+2024-01,Jeans,S,Red,5,89.0,445.0
+2024-01,Jeans,S,Olive,0,89.0,0.0
+2024-01,Jeans,S,Beige,1,89.0,89.0
+2024-01,Jeans,M,Black,29,89.0,2581.0
+2024-01,Jeans,M,Navy,21,89.0,1869.0
+2024-01,Jeans,M,White,11,89.0,979.0
+2024-01,Jeans,M,Red,4,89.0,356.0
+2024-01,Jeans,M,Olive,5,89.0,445.0
+2024-01,Jeans,M,Beige,2,89.0,178.0
+2024-01,Jeans,L,Black,18,89.0,1602.0
+2024-01,Jeans,L,Navy,13,89.0,1157.0
+2024-01,Jeans,L,White,15,89.0,1335.0
+2024-01,Jeans,L,Red,4,89.0,356.0
+2024-01,Jeans,L,Olive,2,89.0,178.0
+2024-01,Jeans,L,Beige,3,89.0,267.0
+2024-01,T-Shirt,S,Black,20,25.0,500.0
+2024-01,T-Shirt,S,Navy,11,25.0,275.0
+2024-01,T-Shirt,S,White,10,25.0,250.0
+2024-01,T-Shirt,S,Red,5,25.0,125.0
+2024-01,T-Shirt,S,Olive,1,25.0,25.0
+2024-01,T-Shirt,S,Beige,1,25.0,25.0
+2024-01,T-Shirt,M,Black,23,25.0,575.0
+2024-01,T-Shirt,M,Navy,16,25.0,400.0
+2024-01,T-Shirt,M,White,10,25.0,250.0
+2024-01,T-Shirt,M,Red,8,25.0,200.0
+2024-01,T-Shirt,M,Olive,1,25.0,25.0
+2024-01,T-Shirt,M,Beige,5,25.0,125.0
+2024-01,T-Shirt,L,Black,19,25.0,475.0
+2024-01,T-Shirt,L,Navy,17,25.0,425.0
+2024-01,T-Shirt,L,White,8,25.0,200.0
+2024-01,T-Shirt,L,Red,4,25.0,100.0
+2024-01,T-Shirt,L,Olive,4,25.0,100.0
+2024-01,T-Shirt,L,Beige,4,25.0,100.0
+2024-01,Sneakers,S,Black,13,99.0,1287.0
+2024-01,Sneakers,S,Navy,12,99.0,1188.0
+2024-01,Sneakers,S,White,4,99.0,396.0
+2024-01,Sneakers,S,Red,1,99.0,99.0
+2024-01,Sneakers,S,Olive,1,99.0,99.0
+2024-01,Sneakers,S,Beige,2,99.0,198.0
+2024-01,Sneakers,M,Black,39,99.0,3861.0
+2024-01,Sneakers,M,Navy,21,99.0,2079.0
+2024-01,Sneakers,M,White,20,99.0,1980.0
+2024-01,Sneakers,M,Red,7,99.0,693.0
+2024-01,Sneakers,M,Olive,4,99.0,396.0
+2024-01,Sneakers,M,Beige,2,99.0,198.0
+2024-01,Sneakers,L,Black,21,99.0,2079.0
+2024-01,Sneakers,L,Navy,26,99.0,2574.0
+2024-01,Sneakers,L,White,12,99.0,1188.0
+2024-01,Sneakers,L,Red,14,99.0,1386.0
+2024-01,Sneakers,L,Olive,1,99.0,99.0
+2024-01,Sneakers,L,Beige,5,99.0,495.0
+2024-01,Boots,S,Black,11,119.0,1309.0
+2024-01,Boots,S,Navy,6,119.0,714.0
+2024-01,Boots,S,White,0,119.0,0.0
+2024-01,Boots,S,Red,0,119.0,0.0
+2024-01,Boots,S,Olive,1,119.0,119.0
+2024-01,Boots,S,Beige,2,119.0,238.0
+2024-01,Boots,M,Black,9,119.0,1071.0
+2024-01,Boots,M,Navy,11,119.0,1309.0
+2024-01,Boots,M,White,9,119.0,1071.0
+2024-01,Boots,M,Red,4,119.0,476.0
+2024-01,Boots,M,Olive,1,119.0,119.0
+2024-01,Boots,M,Beige,0,119.0,0.0
+2024-01,Boots,L,Black,9,119.0,1071.0
+2024-01,Boots,L,Navy,10,119.0,1190.0
+2024-01,Boots,L,White,9,119.0,1071.0
+2024-01,Boots,L,Red,4,119.0,476.0
+2024-01,Boots,L,Olive,2,119.0,238.0
+2024-01,Boots,L,Beige,1,119.0,119.0
+2024-02,Hoodie,S,Black,16,49.0,784.0
+2024-02,Hoodie,S,Navy,14,49.0,686.0
+2024-02,Hoodie,S,White,11,49.0,539.0
+2024-02,Hoodie,S,Red,7,49.0,343.0
+2024-02,Hoodie,S,Olive,3,49.0,147.0
+2024-02,Hoodie,S,Beige,3,49.0,147.0
+2024-02,Hoodie,M,Black,35,49.0,1715.0
+2024-02,Hoodie,M,Navy,23,49.0,1127.0
+2024-02,Hoodie,M,White,11,49.0,539.0
+2024-02,Hoodie,M,Red,7,49.0,343.0
+2024-02,Hoodie,M,Olive,1,49.0,49.0
+2024-02,Hoodie,M,Beige,2,49.0,98.0
+2024-02,Hoodie,L,Black,28,49.0,1372.0
+2024-02,Hoodie,L,Navy,17,49.0,833.0
+2024-02,Hoodie,L,White,17,49.0,833.0
+2024-02,Hoodie,L,Red,8,49.0,392.0
+2024-02,Hoodie,L,Olive,6,49.0,294.0
+2024-02,Hoodie,L,Beige,3,49.0,147.0
+2024-02,Puffer Jacket,S,Black,10,129.0,1290.0
+2024-02,Puffer Jacket,S,Navy,8,129.0,1032.0
+2024-02,Puffer Jacket,S,White,7,129.0,903.0
+2024-02,Puffer Jacket,S,Red,7,129.0,903.0
+2024-02,Puffer Jacket,S,Olive,1,129.0,129.0
+2024-02,Puffer Jacket,S,Beige,3,129.0,387.0
+2024-02,Puffer Jacket,M,Black,13,129.0,1677.0
+2024-02,Puffer Jacket,M,Navy,12,129.0,1548.0
+2024-02,Puffer Jacket,M,White,7,129.0,903.0
+2024-02,Puffer Jacket,M,Red,4,129.0,516.0
+2024-02,Puffer Jacket,M,Olive,0,129.0,0.0
+2024-02,Puffer Jacket,M,Beige,3,129.0,387.0
+2024-02,Puffer Jacket,L,Black,15,129.0,1935.0
+2024-02,Puffer Jacket,L,Navy,9,129.0,1161.0
+2024-02,Puffer Jacket,L,White,12,129.0,1548.0
+2024-02,Puffer Jacket,L,Red,4,129.0,516.0
+2024-02,Puffer Jacket,L,Olive,5,129.0,645.0
+2024-02,Puffer Jacket,L,Beige,3,129.0,387.0
+2024-02,Raincoat,S,Black,8,79.0,632.0
+2024-02,Raincoat,S,Navy,5,79.0,395.0
+2024-02,Raincoat,S,White,6,79.0,474.0
+2024-02,Raincoat,S,Red,2,79.0,158.0
+2024-02,Raincoat,S,Olive,2,79.0,158.0
+2024-02,Raincoat,S,Beige,3,79.0,237.0
+2024-02,Raincoat,M,Black,14,79.0,1106.0
+2024-02,Raincoat,M,Navy,12,79.0,948.0
+2024-02,Raincoat,M,White,9,79.0,711.0
+2024-02,Raincoat,M,Red,6,79.0,474.0
+2024-02,Raincoat,M,Olive,0,79.0,0.0
+2024-02,Raincoat,M,Beige,2,79.0,158.0
+2024-02,Raincoat,L,Black,9,79.0,711.0
+2024-02,Raincoat,L,Navy,10,79.0,790.0
+2024-02,Raincoat,L,White,4,79.0,316.0
+2024-02,Raincoat,L,Red,0,79.0,0.0
+2024-02,Raincoat,L,Olive,1,79.0,79.0
+2024-02,Raincoat,L,Beige,2,79.0,158.0
+2024-02,Knit Sweater,S,Black,17,69.0,1173.0
+2024-02,Knit Sweater,S,Navy,13,69.0,897.0
+2024-02,Knit Sweater,S,White,6,69.0,414.0
+2024-02,Knit Sweater,S,Red,1,69.0,69.0
+2024-02,Knit Sweater,S,Olive,2,69.0,138.0
+2024-02,Knit Sweater,S,Beige,1,69.0,69.0
+2024-02,Knit Sweater,M,Black,29,69.0,2001.0
+2024-02,Knit Sweater,M,Navy,22,69.0,1518.0
+2024-02,Knit Sweater,M,White,12,69.0,828.0
+2024-02,Knit Sweater,M,Red,8,69.0,552.0
+2024-02,Knit Sweater,M,Olive,4,69.0,276.0
+2024-02,Knit Sweater,M,Beige,3,69.0,207.0
+2024-02,Knit Sweater,L,Black,15,69.0,1035.0
+2024-02,Knit Sweater,L,Navy,8,69.0,552.0
+2024-02,Knit Sweater,L,White,11,69.0,759.0
+2024-02,Knit Sweater,L,Red,1,69.0,69.0
+2024-02,Knit Sweater,L,Olive,5,69.0,345.0
+2024-02,Knit Sweater,L,Beige,4,69.0,276.0
+2024-02,Jeans,S,Black,13,89.0,1157.0
+2024-02,Jeans,S,Navy,18,89.0,1602.0
+2024-02,Jeans,S,White,9,89.0,801.0
+2024-02,Jeans,S,Red,2,89.0,178.0
+2024-02,Jeans,S,Olive,2,89.0,178.0
+2024-02,Jeans,S,Beige,1,89.0,89.0
+2024-02,Jeans,M,Black,23,89.0,2047.0
+2024-02,Jeans,M,Navy,19,89.0,1691.0
+2024-02,Jeans,M,White,15,89.0,1335.0
+2024-02,Jeans,M,Red,6,89.0,534.0
+2024-02,Jeans,M,Olive,3,89.0,267.0
+2024-02,Jeans,M,Beige,2,89.0,178.0
+2024-02,Jeans,L,Black,18,89.0,1602.0
+2024-02,Jeans,L,Navy,15,89.0,1335.0
+2024-02,Jeans,L,White,9,89.0,801.0
+2024-02,Jeans,L,Red,5,89.0,445.0
+2024-02,Jeans,L,Olive,4,89.0,356.0
+2024-02,Jeans,L,Beige,2,89.0,178.0
+2024-02,T-Shirt,S,Black,19,25.0,475.0
+2024-02,T-Shirt,S,Navy,12,25.0,300.0
+2024-02,T-Shirt,S,White,3,25.0,75.0
+2024-02,T-Shirt,S,Red,5,25.0,125.0
+2024-02,T-Shirt,S,Olive,4,25.0,100.0
+2024-02,T-Shirt,S,Beige,3,25.0,75.0
+2024-02,T-Shirt,M,Black,27,25.0,675.0
+2024-02,T-Shirt,M,Navy,13,25.0,325.0
+2024-02,T-Shirt,M,White,11,25.0,275.0
+2024-02,T-Shirt,M,Red,6,25.0,150.0
+2024-02,T-Shirt,M,Olive,2,25.0,50.0
+2024-02,T-Shirt,M,Beige,3,25.0,75.0
+2024-02,T-Shirt,L,Black,23,25.0,575.0
+2024-02,T-Shirt,L,Navy,17,25.0,425.0
+2024-02,T-Shirt,L,White,12,25.0,300.0
+2024-02,T-Shirt,L,Red,4,25.0,100.0
+2024-02,T-Shirt,L,Olive,3,25.0,75.0
+2024-02,T-Shirt,L,Beige,3,25.0,75.0
+2024-02,Sneakers,S,Black,7,99.0,693.0
+2024-02,Sneakers,S,Navy,5,99.0,495.0
+2024-02,Sneakers,S,White,6,99.0,594.0
+2024-02,Sneakers,S,Red,2,99.0,198.0
+2024-02,Sneakers,S,Olive,1,99.0,99.0
+2024-02,Sneakers,S,Beige,5,99.0,495.0
+2024-02,Sneakers,M,Black,17,99.0,1683.0
+2024-02,Sneakers,M,Navy,11,99.0,1089.0
+2024-02,Sneakers,M,White,9,99.0,891.0
+2024-02,Sneakers,M,Red,5,99.0,495.0
+2024-02,Sneakers,M,Olive,0,99.0,0.0
+2024-02,Sneakers,M,Beige,1,99.0,99.0
+2024-02,Sneakers,L,Black,17,99.0,1683.0
+2024-02,Sneakers,L,Navy,9,99.0,891.0
+2024-02,Sneakers,L,White,5,99.0,495.0
+2024-02,Sneakers,L,Red,4,99.0,396.0
+2024-02,Sneakers,L,Olive,2,99.0,198.0
+2024-02,Sneakers,L,Beige,1,99.0,99.0
+2024-02,Boots,S,Black,5,119.0,595.0
+2024-02,Boots,S,Navy,5,119.0,595.0
+2024-02,Boots,S,White,5,119.0,595.0
+2024-02,Boots,S,Red,4,119.0,476.0
+2024-02,Boots,S,Olive,0,119.0,0.0
+2024-02,Boots,S,Beige,0,119.0,0.0
+2024-02,Boots,M,Black,21,119.0,2499.0
+2024-02,Boots,M,Navy,23,119.0,2737.0
+2024-02,Boots,M,White,7,119.0,833.0
+2024-02,Boots,M,Red,9,119.0,1071.0
+2024-02,Boots,M,Olive,3,119.0,357.0
+2024-02,Boots,M,Beige,3,119.0,357.0
+2024-02,Boots,L,Black,13,119.0,1547.0
+2024-02,Boots,L,Navy,18,119.0,2142.0
+2024-02,Boots,L,White,10,119.0,1190.0
+2024-02,Boots,L,Red,5,119.0,595.0
+2024-02,Boots,L,Olive,2,119.0,238.0
+2024-02,Boots,L,Beige,3,119.0,357.0
+2024-03,Hoodie,S,Black,16,49.0,784.0
+2024-03,Hoodie,S,Navy,14,49.0,686.0
+2024-03,Hoodie,S,White,4,49.0,196.0
+2024-03,Hoodie,S,Red,3,49.0,147.0
+2024-03,Hoodie,S,Olive,2,49.0,98.0
+2024-03,Hoodie,S,Beige,3,49.0,147.0
+2024-03,Hoodie,M,Black,29,49.0,1421.0
+2024-03,Hoodie,M,Navy,21,49.0,1029.0
+2024-03,Hoodie,M,White,16,49.0,784.0
+2024-03,Hoodie,M,Red,9,49.0,441.0
+2024-03,Hoodie,M,Olive,4,49.0,196.0
+2024-03,Hoodie,M,Beige,6,49.0,294.0
+2024-03,Hoodie,L,Black,33,49.0,1617.0
+2024-03,Hoodie,L,Navy,13,49.0,637.0
+2024-03,Hoodie,L,White,15,49.0,735.0
+2024-03,Hoodie,L,Red,4,49.0,196.0
+2024-03,Hoodie,L,Olive,2,49.0,98.0
+2024-03,Hoodie,L,Beige,3,49.0,147.0
+2024-03,Puffer Jacket,S,Black,10,129.0,1290.0
+2024-03,Puffer Jacket,S,Navy,6,129.0,774.0
+2024-03,Puffer Jacket,S,White,4,129.0,516.0
+2024-03,Puffer Jacket,S,Red,3,129.0,387.0
+2024-03,Puffer Jacket,S,Olive,2,129.0,258.0
+2024-03,Puffer Jacket,S,Beige,0,129.0,0.0
+2024-03,Puffer Jacket,M,Black,7,129.0,903.0
+2024-03,Puffer Jacket,M,Navy,11,129.0,1419.0
+2024-03,Puffer Jacket,M,White,8,129.0,1032.0
+2024-03,Puffer Jacket,M,Red,9,129.0,1161.0
+2024-03,Puffer Jacket,M,Olive,1,129.0,129.0
+2024-03,Puffer Jacket,M,Beige,0,129.0,0.0
+2024-03,Puffer Jacket,L,Black,10,129.0,1290.0
+2024-03,Puffer Jacket,L,Navy,10,129.0,1290.0
+2024-03,Puffer Jacket,L,White,4,129.0,516.0
+2024-03,Puffer Jacket,L,Red,5,129.0,645.0
+2024-03,Puffer Jacket,L,Olive,1,129.0,129.0
+2024-03,Puffer Jacket,L,Beige,2,129.0,258.0
+2024-03,Raincoat,S,Black,13,79.0,1027.0
+2024-03,Raincoat,S,Navy,7,79.0,553.0
+2024-03,Raincoat,S,White,5,79.0,395.0
+2024-03,Raincoat,S,Red,1,79.0,79.0
+2024-03,Raincoat,S,Olive,2,79.0,158.0
+2024-03,Raincoat,S,Beige,0,79.0,0.0
+2024-03,Raincoat,M,Black,12,79.0,948.0
+2024-03,Raincoat,M,Navy,10,79.0,790.0
+2024-03,Raincoat,M,White,9,79.0,711.0
+2024-03,Raincoat,M,Red,5,79.0,395.0
+2024-03,Raincoat,M,Olive,1,79.0,79.0
+2024-03,Raincoat,M,Beige,1,79.0,79.0
+2024-03,Raincoat,L,Black,10,79.0,790.0
+2024-03,Raincoat,L,Navy,4,79.0,316.0
+2024-03,Raincoat,L,White,6,79.0,474.0
+2024-03,Raincoat,L,Red,8,79.0,632.0
+2024-03,Raincoat,L,Olive,3,79.0,237.0
+2024-03,Raincoat,L,Beige,3,79.0,237.0
+2024-03,Knit Sweater,S,Black,3,69.0,207.0
+2024-03,Knit Sweater,S,Navy,5,69.0,345.0
+2024-03,Knit Sweater,S,White,1,69.0,69.0
+2024-03,Knit Sweater,S,Red,4,69.0,276.0
+2024-03,Knit Sweater,S,Olive,2,69.0,138.0
+2024-03,Knit Sweater,S,Beige,0,69.0,0.0
+2024-03,Knit Sweater,M,Black,18,69.0,1242.0
+2024-03,Knit Sweater,M,Navy,14,69.0,966.0
+2024-03,Knit Sweater,M,White,8,69.0,552.0
+2024-03,Knit Sweater,M,Red,8,69.0,552.0
+2024-03,Knit Sweater,M,Olive,2,69.0,138.0
+2024-03,Knit Sweater,M,Beige,3,69.0,207.0
+2024-03,Knit Sweater,L,Black,8,69.0,552.0
+2024-03,Knit Sweater,L,Navy,14,69.0,966.0
+2024-03,Knit Sweater,L,White,9,69.0,621.0
+2024-03,Knit Sweater,L,Red,3,69.0,207.0
+2024-03,Knit Sweater,L,Olive,1,69.0,69.0
+2024-03,Knit Sweater,L,Beige,2,69.0,138.0
+2024-03,Jeans,S,Black,27,89.0,2403.0
+2024-03,Jeans,S,Navy,21,89.0,1869.0
+2024-03,Jeans,S,White,9,89.0,801.0
+2024-03,Jeans,S,Red,8,89.0,712.0
+2024-03,Jeans,S,Olive,3,89.0,267.0
+2024-03,Jeans,S,Beige,1,89.0,89.0
+2024-03,Jeans,M,Black,42,89.0,3738.0
+2024-03,Jeans,M,Navy,16,89.0,1424.0
+2024-03,Jeans,M,White,14,89.0,1246.0
+2024-03,Jeans,M,Red,9,89.0,801.0
+2024-03,Jeans,M,Olive,3,89.0,267.0
+2024-03,Jeans,M,Beige,4,89.0,356.0
+2024-03,Jeans,L,Black,30,89.0,2670.0
+2024-03,Jeans,L,Navy,24,89.0,2136.0
+2024-03,Jeans,L,White,20,89.0,1780.0
+2024-03,Jeans,L,Red,6,89.0,534.0
+2024-03,Jeans,L,Olive,6,89.0,534.0
+2024-03,Jeans,L,Beige,5,89.0,445.0
+2024-03,T-Shirt,S,Black,11,25.0,275.0
+2024-03,T-Shirt,S,Navy,15,25.0,375.0
+2024-03,T-Shirt,S,White,7,25.0,175.0
+2024-03,T-Shirt,S,Red,6,25.0,150.0
+2024-03,T-Shirt,S,Olive,2,25.0,50.0
+2024-03,T-Shirt,S,Beige,1,25.0,25.0
+2024-03,T-Shirt,M,Black,27,25.0,675.0
+2024-03,T-Shirt,M,Navy,29,25.0,725.0
+2024-03,T-Shirt,M,White,16,25.0,400.0
+2024-03,T-Shirt,M,Red,2,25.0,50.0
+2024-03,T-Shirt,M,Olive,4,25.0,100.0
+2024-03,T-Shirt,M,Beige,3,25.0,75.0
+2024-03,T-Shirt,L,Black,24,25.0,600.0
+2024-03,T-Shirt,L,Navy,12,25.0,300.0
+2024-03,T-Shirt,L,White,15,25.0,375.0
+2024-03,T-Shirt,L,Red,7,25.0,175.0
+2024-03,T-Shirt,L,Olive,1,25.0,25.0
+2024-03,T-Shirt,L,Beige,1,25.0,25.0
+2024-03,Sneakers,S,Black,12,99.0,1188.0
+2024-03,Sneakers,S,Navy,6,99.0,594.0
+2024-03,Sneakers,S,White,8,99.0,792.0
+2024-03,Sneakers,S,Red,4,99.0,396.0
+2024-03,Sneakers,S,Olive,2,99.0,198.0
+2024-03,Sneakers,S,Beige,1,99.0,99.0
+2024-03,Sneakers,M,Black,23,99.0,2277.0
+2024-03,Sneakers,M,Navy,15,99.0,1485.0
+2024-03,Sneakers,M,White,9,99.0,891.0
+2024-03,Sneakers,M,Red,6,99.0,594.0
+2024-03,Sneakers,M,Olive,4,99.0,396.0
+2024-03,Sneakers,M,Beige,4,99.0,396.0
+2024-03,Sneakers,L,Black,25,99.0,2475.0
+2024-03,Sneakers,L,Navy,8,99.0,792.0
+2024-03,Sneakers,L,White,14,99.0,1386.0
+2024-03,Sneakers,L,Red,5,99.0,495.0
+2024-03,Sneakers,L,Olive,2,99.0,198.0
+2024-03,Sneakers,L,Beige,5,99.0,495.0
+2024-03,Boots,S,Black,8,119.0,952.0
+2024-03,Boots,S,Navy,6,119.0,714.0
+2024-03,Boots,S,White,5,119.0,595.0
+2024-03,Boots,S,Red,3,119.0,357.0
+2024-03,Boots,S,Olive,3,119.0,357.0
+2024-03,Boots,S,Beige,0,119.0,0.0
+2024-03,Boots,M,Black,12,119.0,1428.0
+2024-03,Boots,M,Navy,11,119.0,1309.0
+2024-03,Boots,M,White,9,119.0,1071.0
+2024-03,Boots,M,Red,4,119.0,476.0
+2024-03,Boots,M,Olive,3,119.0,357.0
+2024-03,Boots,M,Beige,0,119.0,0.0
+2024-03,Boots,L,Black,10,119.0,1190.0
+2024-03,Boots,L,Navy,5,119.0,595.0
+2024-03,Boots,L,White,5,119.0,595.0
+2024-03,Boots,L,Red,4,119.0,476.0
+2024-03,Boots,L,Olive,2,119.0,238.0
+2024-03,Boots,L,Beige,1,119.0,119.0
+2024-04,Hoodie,S,Black,20,49.0,980.0
+2024-04,Hoodie,S,Navy,8,49.0,392.0
+2024-04,Hoodie,S,White,8,49.0,392.0
+2024-04,Hoodie,S,Red,0,49.0,0.0
+2024-04,Hoodie,S,Olive,5,49.0,245.0
+2024-04,Hoodie,S,Beige,0,49.0,0.0
+2024-04,Hoodie,M,Black,14,49.0,686.0
+2024-04,Hoodie,M,Navy,14,49.0,686.0
+2024-04,Hoodie,M,White,12,49.0,588.0
+2024-04,Hoodie,M,Red,6,49.0,294.0
+2024-04,Hoodie,M,Olive,2,49.0,98.0
+2024-04,Hoodie,M,Beige,5,49.0,245.0
+2024-04,Hoodie,L,Black,21,49.0,1029.0
+2024-04,Hoodie,L,Navy,9,49.0,441.0
+2024-04,Hoodie,L,White,9,49.0,441.0
+2024-04,Hoodie,L,Red,4,49.0,196.0
+2024-04,Hoodie,L,Olive,1,49.0,49.0
+2024-04,Hoodie,L,Beige,4,49.0,196.0
+2024-04,Puffer Jacket,S,Black,9,129.0,1161.0
+2024-04,Puffer Jacket,S,Navy,2,129.0,258.0
+2024-04,Puffer Jacket,S,White,4,129.0,516.0
+2024-04,Puffer Jacket,S,Red,4,129.0,516.0
+2024-04,Puffer Jacket,S,Olive,1,129.0,129.0
+2024-04,Puffer Jacket,S,Beige,1,129.0,129.0
+2024-04,Puffer Jacket,M,Black,4,129.0,516.0
+2024-04,Puffer Jacket,M,Navy,7,129.0,903.0
+2024-04,Puffer Jacket,M,White,11,129.0,1419.0
+2024-04,Puffer Jacket,M,Red,3,129.0,387.0
+2024-04,Puffer Jacket,M,Olive,1,129.0,129.0
+2024-04,Puffer Jacket,M,Beige,2,129.0,258.0
+2024-04,Puffer Jacket,L,Black,13,129.0,1677.0
+2024-04,Puffer Jacket,L,Navy,6,129.0,774.0
+2024-04,Puffer Jacket,L,White,4,129.0,516.0
+2024-04,Puffer Jacket,L,Red,0,129.0,0.0
+2024-04,Puffer Jacket,L,Olive,0,129.0,0.0
+2024-04,Puffer Jacket,L,Beige,5,129.0,645.0
+2024-04,Raincoat,S,Black,16,79.0,1264.0
+2024-04,Raincoat,S,Navy,8,79.0,632.0
+2024-04,Raincoat,S,White,4,79.0,316.0
+2024-04,Raincoat,S,Red,4,79.0,316.0
+2024-04,Raincoat,S,Olive,0,79.0,0.0
+2024-04,Raincoat,S,Beige,1,79.0,79.0
+2024-04,Raincoat,M,Black,26,79.0,2054.0
+2024-04,Raincoat,M,Navy,15,79.0,1185.0
+2024-04,Raincoat,M,White,9,79.0,711.0
+2024-04,Raincoat,M,Red,3,79.0,237.0
+2024-04,Raincoat,M,Olive,3,79.0,237.0
+2024-04,Raincoat,M,Beige,0,79.0,0.0
+2024-04,Raincoat,L,Black,20,79.0,1580.0
+2024-04,Raincoat,L,Navy,11,79.0,869.0
+2024-04,Raincoat,L,White,10,79.0,790.0
+2024-04,Raincoat,L,Red,2,79.0,158.0
+2024-04,Raincoat,L,Olive,0,79.0,0.0
+2024-04,Raincoat,L,Beige,1,79.0,79.0
+2024-04,Knit Sweater,S,Black,12,69.0,828.0
+2024-04,Knit Sweater,S,Navy,8,69.0,552.0
+2024-04,Knit Sweater,S,White,8,69.0,552.0
+2024-04,Knit Sweater,S,Red,1,69.0,69.0
+2024-04,Knit Sweater,S,Olive,2,69.0,138.0
+2024-04,Knit Sweater,S,Beige,1,69.0,69.0
+2024-04,Knit Sweater,M,Black,5,69.0,345.0
+2024-04,Knit Sweater,M,Navy,13,69.0,897.0
+2024-04,Knit Sweater,M,White,9,69.0,621.0
+2024-04,Knit Sweater,M,Red,5,69.0,345.0
+2024-04,Knit Sweater,M,Olive,2,69.0,138.0
+2024-04,Knit Sweater,M,Beige,2,69.0,138.0
+2024-04,Knit Sweater,L,Black,12,69.0,828.0
+2024-04,Knit Sweater,L,Navy,12,69.0,828.0
+2024-04,Knit Sweater,L,White,5,69.0,345.0
+2024-04,Knit Sweater,L,Red,6,69.0,414.0
+2024-04,Knit Sweater,L,Olive,1,69.0,69.0
+2024-04,Knit Sweater,L,Beige,0,69.0,0.0
+2024-04,Jeans,S,Black,14,89.0,1246.0
+2024-04,Jeans,S,Navy,14,89.0,1246.0
+2024-04,Jeans,S,White,11,89.0,979.0
+2024-04,Jeans,S,Red,5,89.0,445.0
+2024-04,Jeans,S,Olive,2,89.0,178.0
+2024-04,Jeans,S,Beige,0,89.0,0.0
+2024-04,Jeans,M,Black,34,89.0,3026.0
+2024-04,Jeans,M,Navy,23,89.0,2047.0
+2024-04,Jeans,M,White,17,89.0,1513.0
+2024-04,Jeans,M,Red,14,89.0,1246.0
+2024-04,Jeans,M,Olive,5,89.0,445.0
+2024-04,Jeans,M,Beige,4,89.0,356.0
+2024-04,Jeans,L,Black,31,89.0,2759.0
+2024-04,Jeans,L,Navy,19,89.0,1691.0
+2024-04,Jeans,L,White,12,89.0,1068.0
+2024-04,Jeans,L,Red,9,89.0,801.0
+2024-04,Jeans,L,Olive,3,89.0,267.0
+2024-04,Jeans,L,Beige,5,89.0,445.0
+2024-04,T-Shirt,S,Black,12,25.0,300.0
+2024-04,T-Shirt,S,Navy,9,25.0,225.0
+2024-04,T-Shirt,S,White,5,25.0,125.0
+2024-04,T-Shirt,S,Red,2,25.0,50.0
+2024-04,T-Shirt,S,Olive,4,25.0,100.0
+2024-04,T-Shirt,S,Beige,2,25.0,50.0
+2024-04,T-Shirt,M,Black,31,25.0,775.0
+2024-04,T-Shirt,M,Navy,12,25.0,300.0
+2024-04,T-Shirt,M,White,11,25.0,275.0
+2024-04,T-Shirt,M,Red,6,25.0,150.0
+2024-04,T-Shirt,M,Olive,8,25.0,200.0
+2024-04,T-Shirt,M,Beige,4,25.0,100.0
+2024-04,T-Shirt,L,Black,14,25.0,350.0
+2024-04,T-Shirt,L,Navy,7,25.0,175.0
+2024-04,T-Shirt,L,White,9,25.0,225.0
+2024-04,T-Shirt,L,Red,7,25.0,175.0
+2024-04,T-Shirt,L,Olive,0,25.0,0.0
+2024-04,T-Shirt,L,Beige,3,25.0,75.0
+2024-04,Sneakers,S,Black,23,99.0,2277.0
+2024-04,Sneakers,S,Navy,10,99.0,990.0
+2024-04,Sneakers,S,White,7,99.0,693.0
+2024-04,Sneakers,S,Red,4,99.0,396.0
+2024-04,Sneakers,S,Olive,0,99.0,0.0
+2024-04,Sneakers,S,Beige,3,99.0,297.0
+2024-04,Sneakers,M,Black,22,99.0,2178.0
+2024-04,Sneakers,M,Navy,21,99.0,2079.0
+2024-04,Sneakers,M,White,20,99.0,1980.0
+2024-04,Sneakers,M,Red,7,99.0,693.0
+2024-04,Sneakers,M,Olive,4,99.0,396.0
+2024-04,Sneakers,M,Beige,2,99.0,198.0
+2024-04,Sneakers,L,Black,22,99.0,2178.0
+2024-04,Sneakers,L,Navy,11,99.0,1089.0
+2024-04,Sneakers,L,White,7,99.0,693.0
+2024-04,Sneakers,L,Red,6,99.0,594.0
+2024-04,Sneakers,L,Olive,2,99.0,198.0
+2024-04,Sneakers,L,Beige,2,99.0,198.0
+2024-04,Boots,S,Black,4,119.0,476.0
+2024-04,Boots,S,Navy,7,119.0,833.0
+2024-04,Boots,S,White,5,119.0,595.0
+2024-04,Boots,S,Red,1,119.0,119.0
+2024-04,Boots,S,Olive,0,119.0,0.0
+2024-04,Boots,S,Beige,2,119.0,238.0
+2024-04,Boots,M,Black,12,119.0,1428.0
+2024-04,Boots,M,Navy,9,119.0,1071.0
+2024-04,Boots,M,White,8,119.0,952.0
+2024-04,Boots,M,Red,2,119.0,238.0
+2024-04,Boots,M,Olive,3,119.0,357.0
+2024-04,Boots,M,Beige,3,119.0,357.0
+2024-04,Boots,L,Black,12,119.0,1428.0
+2024-04,Boots,L,Navy,9,119.0,1071.0
+2024-04,Boots,L,White,7,119.0,833.0
+2024-04,Boots,L,Red,5,119.0,595.0
+2024-04,Boots,L,Olive,2,119.0,238.0
+2024-04,Boots,L,Beige,0,119.0,0.0
+2024-05,Hoodie,S,Black,17,49.0,833.0
+2024-05,Hoodie,S,Navy,8,49.0,392.0
+2024-05,Hoodie,S,White,2,49.0,98.0
+2024-05,Hoodie,S,Red,2,49.0,98.0
+2024-05,Hoodie,S,Olive,2,49.0,98.0
+2024-05,Hoodie,S,Beige,2,49.0,98.0
+2024-05,Hoodie,M,Black,11,49.0,539.0
+2024-05,Hoodie,M,Navy,16,49.0,784.0
+2024-05,Hoodie,M,White,13,49.0,637.0
+2024-05,Hoodie,M,Red,4,49.0,196.0
+2024-05,Hoodie,M,Olive,3,49.0,147.0
+2024-05,Hoodie,M,Beige,3,49.0,147.0
+2024-05,Hoodie,L,Black,16,49.0,784.0
+2024-05,Hoodie,L,Navy,14,49.0,686.0
+2024-05,Hoodie,L,White,6,49.0,294.0
+2024-05,Hoodie,L,Red,6,49.0,294.0
+2024-05,Hoodie,L,Olive,5,49.0,245.0
+2024-05,Hoodie,L,Beige,2,49.0,98.0
+2024-05,Puffer Jacket,S,Black,4,129.0,516.0
+2024-05,Puffer Jacket,S,Navy,3,129.0,387.0
+2024-05,Puffer Jacket,S,White,4,129.0,516.0
+2024-05,Puffer Jacket,S,Red,3,129.0,387.0
+2024-05,Puffer Jacket,S,Olive,1,129.0,129.0
+2024-05,Puffer Jacket,S,Beige,0,129.0,0.0
+2024-05,Puffer Jacket,M,Black,12,129.0,1548.0
+2024-05,Puffer Jacket,M,Navy,5,129.0,645.0
+2024-05,Puffer Jacket,M,White,4,129.0,516.0
+2024-05,Puffer Jacket,M,Red,1,129.0,129.0
+2024-05,Puffer Jacket,M,Olive,0,129.0,0.0
+2024-05,Puffer Jacket,M,Beige,2,129.0,258.0
+2024-05,Puffer Jacket,L,Black,7,129.0,903.0
+2024-05,Puffer Jacket,L,Navy,8,129.0,1032.0
+2024-05,Puffer Jacket,L,White,5,129.0,645.0
+2024-05,Puffer Jacket,L,Red,3,129.0,387.0
+2024-05,Puffer Jacket,L,Olive,1,129.0,129.0
+2024-05,Puffer Jacket,L,Beige,3,129.0,387.0
+2024-05,Raincoat,S,Black,11,79.0,869.0
+2024-05,Raincoat,S,Navy,10,79.0,790.0
+2024-05,Raincoat,S,White,5,79.0,395.0
+2024-05,Raincoat,S,Red,3,79.0,237.0
+2024-05,Raincoat,S,Olive,1,79.0,79.0
+2024-05,Raincoat,S,Beige,3,79.0,237.0
+2024-05,Raincoat,M,Black,14,79.0,1106.0
+2024-05,Raincoat,M,Navy,9,79.0,711.0
+2024-05,Raincoat,M,White,10,79.0,790.0
+2024-05,Raincoat,M,Red,6,79.0,474.0
+2024-05,Raincoat,M,Olive,1,79.0,79.0
+2024-05,Raincoat,M,Beige,0,79.0,0.0
+2024-05,Raincoat,L,Black,19,79.0,1501.0
+2024-05,Raincoat,L,Navy,8,79.0,632.0
+2024-05,Raincoat,L,White,12,79.0,948.0
+2024-05,Raincoat,L,Red,2,79.0,158.0
+2024-05,Raincoat,L,Olive,1,79.0,79.0
+2024-05,Raincoat,L,Beige,2,79.0,158.0
+2024-05,Knit Sweater,S,Black,9,69.0,621.0
+2024-05,Knit Sweater,S,Navy,10,69.0,690.0
+2024-05,Knit Sweater,S,White,3,69.0,207.0
+2024-05,Knit Sweater,S,Red,2,69.0,138.0
+2024-05,Knit Sweater,S,Olive,1,69.0,69.0
+2024-05,Knit Sweater,S,Beige,0,69.0,0.0
+2024-05,Knit Sweater,M,Black,13,69.0,897.0
+2024-05,Knit Sweater,M,Navy,8,69.0,552.0
+2024-05,Knit Sweater,M,White,6,69.0,414.0
+2024-05,Knit Sweater,M,Red,6,69.0,414.0
+2024-05,Knit Sweater,M,Olive,0,69.0,0.0
+2024-05,Knit Sweater,M,Beige,1,69.0,69.0
+2024-05,Knit Sweater,L,Black,12,69.0,828.0
+2024-05,Knit Sweater,L,Navy,8,69.0,552.0
+2024-05,Knit Sweater,L,White,6,69.0,414.0
+2024-05,Knit Sweater,L,Red,2,69.0,138.0
+2024-05,Knit Sweater,L,Olive,2,69.0,138.0
+2024-05,Knit Sweater,L,Beige,3,69.0,207.0
+2024-05,Jeans,S,Black,15,89.0,1335.0
+2024-05,Jeans,S,Navy,8,89.0,712.0
+2024-05,Jeans,S,White,12,89.0,1068.0
+2024-05,Jeans,S,Red,1,89.0,89.0
+2024-05,Jeans,S,Olive,1,89.0,89.0
+2024-05,Jeans,S,Beige,3,89.0,267.0
+2024-05,Jeans,M,Black,26,89.0,2314.0
+2024-05,Jeans,M,Navy,14,89.0,1246.0
+2024-05,Jeans,M,White,16,89.0,1424.0
+2024-05,Jeans,M,Red,7,89.0,623.0
+2024-05,Jeans,M,Olive,2,89.0,178.0
+2024-05,Jeans,M,Beige,3,89.0,267.0
+2024-05,Jeans,L,Black,17,89.0,1513.0
+2024-05,Jeans,L,Navy,15,89.0,1335.0
+2024-05,Jeans,L,White,8,89.0,712.0
+2024-05,Jeans,L,Red,4,89.0,356.0
+2024-05,Jeans,L,Olive,0,89.0,0.0
+2024-05,Jeans,L,Beige,3,89.0,267.0
+2024-05,T-Shirt,S,Black,25,25.0,625.0
+2024-05,T-Shirt,S,Navy,15,25.0,375.0
+2024-05,T-Shirt,S,White,9,25.0,225.0
+2024-05,T-Shirt,S,Red,7,25.0,175.0
+2024-05,T-Shirt,S,Olive,2,25.0,50.0
+2024-05,T-Shirt,S,Beige,4,25.0,100.0
+2024-05,T-Shirt,M,Black,29,25.0,725.0
+2024-05,T-Shirt,M,Navy,30,25.0,750.0
+2024-05,T-Shirt,M,White,19,25.0,475.0
+2024-05,T-Shirt,M,Red,7,25.0,175.0
+2024-05,T-Shirt,M,Olive,2,25.0,50.0
+2024-05,T-Shirt,M,Beige,4,25.0,100.0
+2024-05,T-Shirt,L,Black,26,25.0,650.0
+2024-05,T-Shirt,L,Navy,21,25.0,525.0
+2024-05,T-Shirt,L,White,20,25.0,500.0
+2024-05,T-Shirt,L,Red,11,25.0,275.0
+2024-05,T-Shirt,L,Olive,5,25.0,125.0
+2024-05,T-Shirt,L,Beige,5,25.0,125.0
+2024-05,Sneakers,S,Black,20,99.0,1980.0
+2024-05,Sneakers,S,Navy,17,99.0,1683.0
+2024-05,Sneakers,S,White,17,99.0,1683.0
+2024-05,Sneakers,S,Red,6,99.0,594.0
+2024-05,Sneakers,S,Olive,4,99.0,396.0
+2024-05,Sneakers,S,Beige,3,99.0,297.0
+2024-05,Sneakers,M,Black,28,99.0,2772.0
+2024-05,Sneakers,M,Navy,25,99.0,2475.0
+2024-05,Sneakers,M,White,13,99.0,1287.0
+2024-05,Sneakers,M,Red,10,99.0,990.0
+2024-05,Sneakers,M,Olive,4,99.0,396.0
+2024-05,Sneakers,M,Beige,7,99.0,693.0
+2024-05,Sneakers,L,Black,32,99.0,3168.0
+2024-05,Sneakers,L,Navy,13,99.0,1287.0
+2024-05,Sneakers,L,White,13,99.0,1287.0
+2024-05,Sneakers,L,Red,8,99.0,792.0
+2024-05,Sneakers,L,Olive,2,99.0,198.0
+2024-05,Sneakers,L,Beige,7,99.0,693.0
+2024-05,Boots,S,Black,8,119.0,952.0
+2024-05,Boots,S,Navy,6,119.0,714.0
+2024-05,Boots,S,White,4,119.0,476.0
+2024-05,Boots,S,Red,1,119.0,119.0
+2024-05,Boots,S,Olive,3,119.0,357.0
+2024-05,Boots,S,Beige,1,119.0,119.0
+2024-05,Boots,M,Black,6,119.0,714.0
+2024-05,Boots,M,Navy,9,119.0,1071.0
+2024-05,Boots,M,White,4,119.0,476.0
+2024-05,Boots,M,Red,4,119.0,476.0
+2024-05,Boots,M,Olive,1,119.0,119.0
+2024-05,Boots,M,Beige,1,119.0,119.0
+2024-05,Boots,L,Black,10,119.0,1190.0
+2024-05,Boots,L,Navy,12,119.0,1428.0
+2024-05,Boots,L,White,5,119.0,595.0
+2024-05,Boots,L,Red,0,119.0,0.0
+2024-05,Boots,L,Olive,1,119.0,119.0
+2024-05,Boots,L,Beige,1,119.0,119.0
+2024-06,Hoodie,S,Black,12,49.0,588.0
+2024-06,Hoodie,S,Navy,4,49.0,196.0
+2024-06,Hoodie,S,White,10,49.0,490.0
+2024-06,Hoodie,S,Red,5,49.0,245.0
+2024-06,Hoodie,S,Olive,4,49.0,196.0
+2024-06,Hoodie,S,Beige,3,49.0,147.0
+2024-06,Hoodie,M,Black,19,49.0,931.0
+2024-06,Hoodie,M,Navy,13,49.0,637.0
+2024-06,Hoodie,M,White,9,49.0,441.0
+2024-06,Hoodie,M,Red,7,49.0,343.0
+2024-06,Hoodie,M,Olive,2,49.0,98.0
+2024-06,Hoodie,M,Beige,4,49.0,196.0
+2024-06,Hoodie,L,Black,20,49.0,980.0
+2024-06,Hoodie,L,Navy,16,49.0,784.0
+2024-06,Hoodie,L,White,11,49.0,539.0
+2024-06,Hoodie,L,Red,4,49.0,196.0
+2024-06,Hoodie,L,Olive,3,49.0,147.0
+2024-06,Hoodie,L,Beige,0,49.0,0.0
+2024-06,Puffer Jacket,S,Black,6,129.0,774.0
+2024-06,Puffer Jacket,S,Navy,4,129.0,516.0
+2024-06,Puffer Jacket,S,White,3,129.0,387.0
+2024-06,Puffer Jacket,S,Red,1,129.0,129.0
+2024-06,Puffer Jacket,S,Olive,1,129.0,129.0
+2024-06,Puffer Jacket,S,Beige,0,129.0,0.0
+2024-06,Puffer Jacket,M,Black,10,129.0,1290.0
+2024-06,Puffer Jacket,M,Navy,7,129.0,903.0
+2024-06,Puffer Jacket,M,White,2,129.0,258.0
+2024-06,Puffer Jacket,M,Red,4,129.0,516.0
+2024-06,Puffer Jacket,M,Olive,0,129.0,0.0
+2024-06,Puffer Jacket,M,Beige,1,129.0,129.0
+2024-06,Puffer Jacket,L,Black,7,129.0,903.0
+2024-06,Puffer Jacket,L,Navy,3,129.0,387.0
+2024-06,Puffer Jacket,L,White,4,129.0,516.0
+2024-06,Puffer Jacket,L,Red,2,129.0,258.0
+2024-06,Puffer Jacket,L,Olive,0,129.0,0.0
+2024-06,Puffer Jacket,L,Beige,0,129.0,0.0
+2024-06,Raincoat,S,Black,3,79.0,237.0
+2024-06,Raincoat,S,Navy,4,79.0,316.0
+2024-06,Raincoat,S,White,8,79.0,632.0
+2024-06,Raincoat,S,Red,3,79.0,237.0
+2024-06,Raincoat,S,Olive,0,79.0,0.0
+2024-06,Raincoat,S,Beige,1,79.0,79.0
+2024-06,Raincoat,M,Black,18,79.0,1422.0
+2024-06,Raincoat,M,Navy,13,79.0,1027.0
+2024-06,Raincoat,M,White,5,79.0,395.0
+2024-06,Raincoat,M,Red,3,79.0,237.0
+2024-06,Raincoat,M,Olive,1,79.0,79.0
+2024-06,Raincoat,M,Beige,1,79.0,79.0
+2024-06,Raincoat,L,Black,13,79.0,1027.0
+2024-06,Raincoat,L,Navy,4,79.0,316.0
+2024-06,Raincoat,L,White,8,79.0,632.0
+2024-06,Raincoat,L,Red,1,79.0,79.0
+2024-06,Raincoat,L,Olive,3,79.0,237.0
+2024-06,Raincoat,L,Beige,1,79.0,79.0
+2024-06,Knit Sweater,S,Black,11,69.0,759.0
+2024-06,Knit Sweater,S,Navy,5,69.0,345.0
+2024-06,Knit Sweater,S,White,7,69.0,483.0
+2024-06,Knit Sweater,S,Red,0,69.0,0.0
+2024-06,Knit Sweater,S,Olive,0,69.0,0.0
+2024-06,Knit Sweater,S,Beige,0,69.0,0.0
+2024-06,Knit Sweater,M,Black,16,69.0,1104.0
+2024-06,Knit Sweater,M,Navy,10,69.0,690.0
+2024-06,Knit Sweater,M,White,8,69.0,552.0
+2024-06,Knit Sweater,M,Red,5,69.0,345.0
+2024-06,Knit Sweater,M,Olive,1,69.0,69.0
+2024-06,Knit Sweater,M,Beige,3,69.0,207.0
+2024-06,Knit Sweater,L,Black,20,69.0,1380.0
+2024-06,Knit Sweater,L,Navy,7,69.0,483.0
+2024-06,Knit Sweater,L,White,5,69.0,345.0
+2024-06,Knit Sweater,L,Red,1,69.0,69.0
+2024-06,Knit Sweater,L,Olive,4,69.0,276.0
+2024-06,Knit Sweater,L,Beige,2,69.0,138.0
+2024-06,Jeans,S,Black,17,89.0,1513.0
+2024-06,Jeans,S,Navy,7,89.0,623.0
+2024-06,Jeans,S,White,11,89.0,979.0
+2024-06,Jeans,S,Red,2,89.0,178.0
+2024-06,Jeans,S,Olive,2,89.0,178.0
+2024-06,Jeans,S,Beige,2,89.0,178.0
+2024-06,Jeans,M,Black,32,89.0,2848.0
+2024-06,Jeans,M,Navy,15,89.0,1335.0
+2024-06,Jeans,M,White,10,89.0,890.0
+2024-06,Jeans,M,Red,6,89.0,534.0
+2024-06,Jeans,M,Olive,7,89.0,623.0
+2024-06,Jeans,M,Beige,3,89.0,267.0
+2024-06,Jeans,L,Black,21,89.0,1869.0
+2024-06,Jeans,L,Navy,13,89.0,1157.0
+2024-06,Jeans,L,White,9,89.0,801.0
+2024-06,Jeans,L,Red,7,89.0,623.0
+2024-06,Jeans,L,Olive,0,89.0,0.0
+2024-06,Jeans,L,Beige,2,89.0,178.0
+2024-06,T-Shirt,S,Black,35,25.0,875.0
+2024-06,T-Shirt,S,Navy,28,25.0,700.0
+2024-06,T-Shirt,S,White,12,25.0,300.0
+2024-06,T-Shirt,S,Red,11,25.0,275.0
+2024-06,T-Shirt,S,Olive,2,25.0,50.0
+2024-06,T-Shirt,S,Beige,5,25.0,125.0
+2024-06,T-Shirt,M,Black,54,25.0,1350.0
+2024-06,T-Shirt,M,Navy,31,25.0,775.0
+2024-06,T-Shirt,M,White,30,25.0,750.0
+2024-06,T-Shirt,M,Red,14,25.0,350.0
+2024-06,T-Shirt,M,Olive,7,25.0,175.0
+2024-06,T-Shirt,M,Beige,9,25.0,225.0
+2024-06,T-Shirt,L,Black,45,25.0,1125.0
+2024-06,T-Shirt,L,Navy,33,25.0,825.0
+2024-06,T-Shirt,L,White,25,25.0,625.0
+2024-06,T-Shirt,L,Red,15,25.0,375.0
+2024-06,T-Shirt,L,Olive,7,25.0,175.0
+2024-06,T-Shirt,L,Beige,6,25.0,150.0
+2024-06,Sneakers,S,Black,27,99.0,2673.0
+2024-06,Sneakers,S,Navy,19,99.0,1881.0
+2024-06,Sneakers,S,White,14,99.0,1386.0
+2024-06,Sneakers,S,Red,5,99.0,495.0
+2024-06,Sneakers,S,Olive,3,99.0,297.0
+2024-06,Sneakers,S,Beige,4,99.0,396.0
+2024-06,Sneakers,M,Black,30,99.0,2970.0
+2024-06,Sneakers,M,Navy,24,99.0,2376.0
+2024-06,Sneakers,M,White,15,99.0,1485.0
+2024-06,Sneakers,M,Red,10,99.0,990.0
+2024-06,Sneakers,M,Olive,4,99.0,396.0
+2024-06,Sneakers,M,Beige,6,99.0,594.0
+2024-06,Sneakers,L,Black,36,99.0,3564.0
+2024-06,Sneakers,L,Navy,15,99.0,1485.0
+2024-06,Sneakers,L,White,13,99.0,1287.0
+2024-06,Sneakers,L,Red,10,99.0,990.0
+2024-06,Sneakers,L,Olive,5,99.0,495.0
+2024-06,Sneakers,L,Beige,5,99.0,495.0
+2024-06,Boots,S,Black,2,119.0,238.0
+2024-06,Boots,S,Navy,3,119.0,357.0
+2024-06,Boots,S,White,4,119.0,476.0
+2024-06,Boots,S,Red,3,119.0,357.0
+2024-06,Boots,S,Olive,0,119.0,0.0
+2024-06,Boots,S,Beige,1,119.0,119.0
+2024-06,Boots,M,Black,9,119.0,1071.0
+2024-06,Boots,M,Navy,7,119.0,833.0
+2024-06,Boots,M,White,9,119.0,1071.0
+2024-06,Boots,M,Red,3,119.0,357.0
+2024-06,Boots,M,Olive,3,119.0,357.0
+2024-06,Boots,M,Beige,0,119.0,0.0
+2024-06,Boots,L,Black,3,119.0,357.0
+2024-06,Boots,L,Navy,6,119.0,714.0
+2024-06,Boots,L,White,6,119.0,714.0
+2024-06,Boots,L,Red,3,119.0,357.0
+2024-06,Boots,L,Olive,2,119.0,238.0
+2024-06,Boots,L,Beige,0,119.0,0.0
+2024-07,Hoodie,S,Black,5,49.0,245.0
+2024-07,Hoodie,S,Navy,9,49.0,441.0
+2024-07,Hoodie,S,White,2,49.0,98.0
+2024-07,Hoodie,S,Red,3,49.0,147.0
+2024-07,Hoodie,S,Olive,1,49.0,49.0
+2024-07,Hoodie,S,Beige,2,49.0,98.0
+2024-07,Hoodie,M,Black,23,49.0,1127.0
+2024-07,Hoodie,M,Navy,17,49.0,833.0
+2024-07,Hoodie,M,White,6,49.0,294.0
+2024-07,Hoodie,M,Red,2,49.0,98.0
+2024-07,Hoodie,M,Olive,4,49.0,196.0
+2024-07,Hoodie,M,Beige,5,49.0,245.0
+2024-07,Hoodie,L,Black,24,49.0,1176.0
+2024-07,Hoodie,L,Navy,11,49.0,539.0
+2024-07,Hoodie,L,White,11,49.0,539.0
+2024-07,Hoodie,L,Red,4,49.0,196.0
+2024-07,Hoodie,L,Olive,1,49.0,49.0
+2024-07,Hoodie,L,Beige,2,49.0,98.0
+2024-07,Puffer Jacket,S,Black,7,129.0,903.0
+2024-07,Puffer Jacket,S,Navy,4,129.0,516.0
+2024-07,Puffer Jacket,S,White,2,129.0,258.0
+2024-07,Puffer Jacket,S,Red,2,129.0,258.0
+2024-07,Puffer Jacket,S,Olive,0,129.0,0.0
+2024-07,Puffer Jacket,S,Beige,2,129.0,258.0
+2024-07,Puffer Jacket,M,Black,12,129.0,1548.0
+2024-07,Puffer Jacket,M,Navy,8,129.0,1032.0
+2024-07,Puffer Jacket,M,White,6,129.0,774.0
+2024-07,Puffer Jacket,M,Red,1,129.0,129.0
+2024-07,Puffer Jacket,M,Olive,3,129.0,387.0
+2024-07,Puffer Jacket,M,Beige,1,129.0,129.0
+2024-07,Puffer Jacket,L,Black,3,129.0,387.0
+2024-07,Puffer Jacket,L,Navy,4,129.0,516.0
+2024-07,Puffer Jacket,L,White,5,129.0,645.0
+2024-07,Puffer Jacket,L,Red,0,129.0,0.0
+2024-07,Puffer Jacket,L,Olive,1,129.0,129.0
+2024-07,Puffer Jacket,L,Beige,0,129.0,0.0
+2024-07,Raincoat,S,Black,8,79.0,632.0
+2024-07,Raincoat,S,Navy,9,79.0,711.0
+2024-07,Raincoat,S,White,6,79.0,474.0
+2024-07,Raincoat,S,Red,0,79.0,0.0
+2024-07,Raincoat,S,Olive,0,79.0,0.0
+2024-07,Raincoat,S,Beige,0,79.0,0.0
+2024-07,Raincoat,M,Black,12,79.0,948.0
+2024-07,Raincoat,M,Navy,6,79.0,474.0
+2024-07,Raincoat,M,White,8,79.0,632.0
+2024-07,Raincoat,M,Red,4,79.0,316.0
+2024-07,Raincoat,M,Olive,3,79.0,237.0
+2024-07,Raincoat,M,Beige,1,79.0,79.0
+2024-07,Raincoat,L,Black,9,79.0,711.0
+2024-07,Raincoat,L,Navy,3,79.0,237.0
+2024-07,Raincoat,L,White,8,79.0,632.0
+2024-07,Raincoat,L,Red,6,79.0,474.0
+2024-07,Raincoat,L,Olive,2,79.0,158.0
+2024-07,Raincoat,L,Beige,3,79.0,237.0
+2024-07,Knit Sweater,S,Black,6,69.0,414.0
+2024-07,Knit Sweater,S,Navy,10,69.0,690.0
+2024-07,Knit Sweater,S,White,3,69.0,207.0
+2024-07,Knit Sweater,S,Red,2,69.0,138.0
+2024-07,Knit Sweater,S,Olive,1,69.0,69.0
+2024-07,Knit Sweater,S,Beige,3,69.0,207.0
+2024-07,Knit Sweater,M,Black,16,69.0,1104.0
+2024-07,Knit Sweater,M,Navy,10,69.0,690.0
+2024-07,Knit Sweater,M,White,5,69.0,345.0
+2024-07,Knit Sweater,M,Red,3,69.0,207.0
+2024-07,Knit Sweater,M,Olive,2,69.0,138.0
+2024-07,Knit Sweater,M,Beige,4,69.0,276.0
+2024-07,Knit Sweater,L,Black,13,69.0,897.0
+2024-07,Knit Sweater,L,Navy,8,69.0,552.0
+2024-07,Knit Sweater,L,White,3,69.0,207.0
+2024-07,Knit Sweater,L,Red,2,69.0,138.0
+2024-07,Knit Sweater,L,Olive,2,69.0,138.0
+2024-07,Knit Sweater,L,Beige,1,69.0,69.0
+2024-07,Jeans,S,Black,16,89.0,1424.0
+2024-07,Jeans,S,Navy,10,89.0,890.0
+2024-07,Jeans,S,White,7,89.0,623.0
+2024-07,Jeans,S,Red,2,89.0,178.0
+2024-07,Jeans,S,Olive,2,89.0,178.0
+2024-07,Jeans,S,Beige,1,89.0,89.0
+2024-07,Jeans,M,Black,21,89.0,1869.0
+2024-07,Jeans,M,Navy,16,89.0,1424.0
+2024-07,Jeans,M,White,15,89.0,1335.0
+2024-07,Jeans,M,Red,6,89.0,534.0
+2024-07,Jeans,M,Olive,2,89.0,178.0
+2024-07,Jeans,M,Beige,2,89.0,178.0
+2024-07,Jeans,L,Black,23,89.0,2047.0
+2024-07,Jeans,L,Navy,15,89.0,1335.0
+2024-07,Jeans,L,White,12,89.0,1068.0
+2024-07,Jeans,L,Red,2,89.0,178.0
+2024-07,Jeans,L,Olive,3,89.0,267.0
+2024-07,Jeans,L,Beige,5,89.0,445.0
+2024-07,T-Shirt,S,Black,45,25.0,1125.0
+2024-07,T-Shirt,S,Navy,22,25.0,550.0
+2024-07,T-Shirt,S,White,16,25.0,400.0
+2024-07,T-Shirt,S,Red,14,25.0,350.0
+2024-07,T-Shirt,S,Olive,6,25.0,150.0
+2024-07,T-Shirt,S,Beige,4,25.0,100.0
+2024-07,T-Shirt,M,Black,54,25.0,1350.0
+2024-07,T-Shirt,M,Navy,28,25.0,700.0
+2024-07,T-Shirt,M,White,33,25.0,825.0
+2024-07,T-Shirt,M,Red,15,25.0,375.0
+2024-07,T-Shirt,M,Olive,4,25.0,100.0
+2024-07,T-Shirt,M,Beige,4,25.0,100.0
+2024-07,T-Shirt,L,Black,57,25.0,1425.0
+2024-07,T-Shirt,L,Navy,31,25.0,775.0
+2024-07,T-Shirt,L,White,27,25.0,675.0
+2024-07,T-Shirt,L,Red,16,25.0,400.0
+2024-07,T-Shirt,L,Olive,6,25.0,150.0
+2024-07,T-Shirt,L,Beige,7,25.0,175.0
+2024-07,Sneakers,S,Black,19,99.0,1881.0
+2024-07,Sneakers,S,Navy,17,99.0,1683.0
+2024-07,Sneakers,S,White,13,99.0,1287.0
+2024-07,Sneakers,S,Red,4,99.0,396.0
+2024-07,Sneakers,S,Olive,3,99.0,297.0
+2024-07,Sneakers,S,Beige,2,99.0,198.0
+2024-07,Sneakers,M,Black,41,99.0,4059.0
+2024-07,Sneakers,M,Navy,28,99.0,2772.0
+2024-07,Sneakers,M,White,19,99.0,1881.0
+2024-07,Sneakers,M,Red,2,99.0,198.0
+2024-07,Sneakers,M,Olive,7,99.0,693.0
+2024-07,Sneakers,M,Beige,4,99.0,396.0
+2024-07,Sneakers,L,Black,28,99.0,2772.0
+2024-07,Sneakers,L,Navy,20,99.0,1980.0
+2024-07,Sneakers,L,White,15,99.0,1485.0
+2024-07,Sneakers,L,Red,8,99.0,792.0
+2024-07,Sneakers,L,Olive,4,99.0,396.0
+2024-07,Sneakers,L,Beige,4,99.0,396.0
+2024-07,Boots,S,Black,5,119.0,595.0
+2024-07,Boots,S,Navy,3,119.0,357.0
+2024-07,Boots,S,White,4,119.0,476.0
+2024-07,Boots,S,Red,3,119.0,357.0
+2024-07,Boots,S,Olive,0,119.0,0.0
+2024-07,Boots,S,Beige,1,119.0,119.0
+2024-07,Boots,M,Black,13,119.0,1547.0
+2024-07,Boots,M,Navy,5,119.0,595.0
+2024-07,Boots,M,White,6,119.0,714.0
+2024-07,Boots,M,Red,2,119.0,238.0
+2024-07,Boots,M,Olive,3,119.0,357.0
+2024-07,Boots,M,Beige,0,119.0,0.0
+2024-07,Boots,L,Black,13,119.0,1547.0
+2024-07,Boots,L,Navy,9,119.0,1071.0
+2024-07,Boots,L,White,5,119.0,595.0
+2024-07,Boots,L,Red,2,119.0,238.0
+2024-07,Boots,L,Olive,0,119.0,0.0
+2024-07,Boots,L,Beige,2,119.0,238.0
+2024-08,Hoodie,S,Black,13,49.0,637.0
+2024-08,Hoodie,S,Navy,12,49.0,588.0
+2024-08,Hoodie,S,White,3,49.0,147.0
+2024-08,Hoodie,S,Red,5,49.0,245.0
+2024-08,Hoodie,S,Olive,2,49.0,98.0
+2024-08,Hoodie,S,Beige,1,49.0,49.0
+2024-08,Hoodie,M,Black,20,49.0,980.0
+2024-08,Hoodie,M,Navy,15,49.0,735.0
+2024-08,Hoodie,M,White,11,49.0,539.0
+2024-08,Hoodie,M,Red,3,49.0,147.0
+2024-08,Hoodie,M,Olive,3,49.0,147.0
+2024-08,Hoodie,M,Beige,5,49.0,245.0
+2024-08,Hoodie,L,Black,15,49.0,735.0
+2024-08,Hoodie,L,Navy,15,49.0,735.0
+2024-08,Hoodie,L,White,8,49.0,392.0
+2024-08,Hoodie,L,Red,8,49.0,392.0
+2024-08,Hoodie,L,Olive,2,49.0,98.0
+2024-08,Hoodie,L,Beige,1,49.0,49.0
+2024-08,Puffer Jacket,S,Black,2,129.0,258.0
+2024-08,Puffer Jacket,S,Navy,2,129.0,258.0
+2024-08,Puffer Jacket,S,White,4,129.0,516.0
+2024-08,Puffer Jacket,S,Red,2,129.0,258.0
+2024-08,Puffer Jacket,S,Olive,0,129.0,0.0
+2024-08,Puffer Jacket,S,Beige,1,129.0,129.0
+2024-08,Puffer Jacket,M,Black,10,129.0,1290.0
+2024-08,Puffer Jacket,M,Navy,4,129.0,516.0
+2024-08,Puffer Jacket,M,White,6,129.0,774.0
+2024-08,Puffer Jacket,M,Red,4,129.0,516.0
+2024-08,Puffer Jacket,M,Olive,0,129.0,0.0
+2024-08,Puffer Jacket,M,Beige,0,129.0,0.0
+2024-08,Puffer Jacket,L,Black,8,129.0,1032.0
+2024-08,Puffer Jacket,L,Navy,9,129.0,1161.0
+2024-08,Puffer Jacket,L,White,4,129.0,516.0
+2024-08,Puffer Jacket,L,Red,1,129.0,129.0
+2024-08,Puffer Jacket,L,Olive,2,129.0,258.0
+2024-08,Puffer Jacket,L,Beige,1,129.0,129.0
+2024-08,Raincoat,S,Black,11,79.0,869.0
+2024-08,Raincoat,S,Navy,6,79.0,474.0
+2024-08,Raincoat,S,White,9,79.0,711.0
+2024-08,Raincoat,S,Red,4,79.0,316.0
+2024-08,Raincoat,S,Olive,3,79.0,237.0
+2024-08,Raincoat,S,Beige,2,79.0,158.0
+2024-08,Raincoat,M,Black,16,79.0,1264.0
+2024-08,Raincoat,M,Navy,12,79.0,948.0
+2024-08,Raincoat,M,White,6,79.0,474.0
+2024-08,Raincoat,M,Red,8,79.0,632.0
+2024-08,Raincoat,M,Olive,2,79.0,158.0
+2024-08,Raincoat,M,Beige,1,79.0,79.0
+2024-08,Raincoat,L,Black,9,79.0,711.0
+2024-08,Raincoat,L,Navy,3,79.0,237.0
+2024-08,Raincoat,L,White,3,79.0,237.0
+2024-08,Raincoat,L,Red,2,79.0,158.0
+2024-08,Raincoat,L,Olive,4,79.0,316.0
+2024-08,Raincoat,L,Beige,3,79.0,237.0
+2024-08,Knit Sweater,S,Black,13,69.0,897.0
+2024-08,Knit Sweater,S,Navy,7,69.0,483.0
+2024-08,Knit Sweater,S,White,1,69.0,69.0
+2024-08,Knit Sweater,S,Red,3,69.0,207.0
+2024-08,Knit Sweater,S,Olive,0,69.0,0.0
+2024-08,Knit Sweater,S,Beige,1,69.0,69.0
+2024-08,Knit Sweater,M,Black,18,69.0,1242.0
+2024-08,Knit Sweater,M,Navy,9,69.0,621.0
+2024-08,Knit Sweater,M,White,9,69.0,621.0
+2024-08,Knit Sweater,M,Red,2,69.0,138.0
+2024-08,Knit Sweater,M,Olive,0,69.0,0.0
+2024-08,Knit Sweater,M,Beige,1,69.0,69.0
+2024-08,Knit Sweater,L,Black,8,69.0,552.0
+2024-08,Knit Sweater,L,Navy,6,69.0,414.0
+2024-08,Knit Sweater,L,White,5,69.0,345.0
+2024-08,Knit Sweater,L,Red,1,69.0,69.0
+2024-08,Knit Sweater,L,Olive,1,69.0,69.0
+2024-08,Knit Sweater,L,Beige,2,69.0,138.0
+2024-08,Jeans,S,Black,12,89.0,1068.0
+2024-08,Jeans,S,Navy,10,89.0,890.0
+2024-08,Jeans,S,White,11,89.0,979.0
+2024-08,Jeans,S,Red,4,89.0,356.0
+2024-08,Jeans,S,Olive,1,89.0,89.0
+2024-08,Jeans,S,Beige,1,89.0,89.0
+2024-08,Jeans,M,Black,17,89.0,1513.0
+2024-08,Jeans,M,Navy,12,89.0,1068.0
+2024-08,Jeans,M,White,6,89.0,534.0
+2024-08,Jeans,M,Red,7,89.0,623.0
+2024-08,Jeans,M,Olive,3,89.0,267.0
+2024-08,Jeans,M,Beige,5,89.0,445.0
+2024-08,Jeans,L,Black,12,89.0,1068.0
+2024-08,Jeans,L,Navy,11,89.0,979.0
+2024-08,Jeans,L,White,12,89.0,1068.0
+2024-08,Jeans,L,Red,3,89.0,267.0
+2024-08,Jeans,L,Olive,5,89.0,445.0
+2024-08,Jeans,L,Beige,2,89.0,178.0
+2024-08,T-Shirt,S,Black,31,25.0,775.0
+2024-08,T-Shirt,S,Navy,20,25.0,500.0
+2024-08,T-Shirt,S,White,11,25.0,275.0
+2024-08,T-Shirt,S,Red,7,25.0,175.0
+2024-08,T-Shirt,S,Olive,6,25.0,150.0
+2024-08,T-Shirt,S,Beige,6,25.0,150.0
+2024-08,T-Shirt,M,Black,41,25.0,1025.0
+2024-08,T-Shirt,M,Navy,26,25.0,650.0
+2024-08,T-Shirt,M,White,21,25.0,525.0
+2024-08,T-Shirt,M,Red,11,25.0,275.0
+2024-08,T-Shirt,M,Olive,6,25.0,150.0
+2024-08,T-Shirt,M,Beige,5,25.0,125.0
+2024-08,T-Shirt,L,Black,47,25.0,1175.0
+2024-08,T-Shirt,L,Navy,27,25.0,675.0
+2024-08,T-Shirt,L,White,18,25.0,450.0
+2024-08,T-Shirt,L,Red,10,25.0,250.0
+2024-08,T-Shirt,L,Olive,5,25.0,125.0
+2024-08,T-Shirt,L,Beige,2,25.0,50.0
+2024-08,Sneakers,S,Black,15,99.0,1485.0
+2024-08,Sneakers,S,Navy,14,99.0,1386.0
+2024-08,Sneakers,S,White,15,99.0,1485.0
+2024-08,Sneakers,S,Red,6,99.0,594.0
+2024-08,Sneakers,S,Olive,5,99.0,495.0
+2024-08,Sneakers,S,Beige,7,99.0,693.0
+2024-08,Sneakers,M,Black,34,99.0,3366.0
+2024-08,Sneakers,M,Navy,32,99.0,3168.0
+2024-08,Sneakers,M,White,27,99.0,2673.0
+2024-08,Sneakers,M,Red,10,99.0,990.0
+2024-08,Sneakers,M,Olive,2,99.0,198.0
+2024-08,Sneakers,M,Beige,3,99.0,297.0
+2024-08,Sneakers,L,Black,33,99.0,3267.0
+2024-08,Sneakers,L,Navy,21,99.0,2079.0
+2024-08,Sneakers,L,White,27,99.0,2673.0
+2024-08,Sneakers,L,Red,9,99.0,891.0
+2024-08,Sneakers,L,Olive,4,99.0,396.0
+2024-08,Sneakers,L,Beige,5,99.0,495.0
+2024-08,Boots,S,Black,6,119.0,714.0
+2024-08,Boots,S,Navy,6,119.0,714.0
+2024-08,Boots,S,White,3,119.0,357.0
+2024-08,Boots,S,Red,1,119.0,119.0
+2024-08,Boots,S,Olive,0,119.0,0.0
+2024-08,Boots,S,Beige,0,119.0,0.0
+2024-08,Boots,M,Black,5,119.0,595.0
+2024-08,Boots,M,Navy,9,119.0,1071.0
+2024-08,Boots,M,White,6,119.0,714.0
+2024-08,Boots,M,Red,5,119.0,595.0
+2024-08,Boots,M,Olive,0,119.0,0.0
+2024-08,Boots,M,Beige,0,119.0,0.0
+2024-08,Boots,L,Black,6,119.0,714.0
+2024-08,Boots,L,Navy,5,119.0,595.0
+2024-08,Boots,L,White,4,119.0,476.0
+2024-08,Boots,L,Red,2,119.0,238.0
+2024-08,Boots,L,Olive,1,119.0,119.0
+2024-08,Boots,L,Beige,1,119.0,119.0
+2024-09,Hoodie,S,Black,14,49.0,686.0
+2024-09,Hoodie,S,Navy,8,49.0,392.0
+2024-09,Hoodie,S,White,9,49.0,441.0
+2024-09,Hoodie,S,Red,3,49.0,147.0
+2024-09,Hoodie,S,Olive,2,49.0,98.0
+2024-09,Hoodie,S,Beige,1,49.0,49.0
+2024-09,Hoodie,M,Black,20,49.0,980.0
+2024-09,Hoodie,M,Navy,14,49.0,686.0
+2024-09,Hoodie,M,White,4,49.0,196.0
+2024-09,Hoodie,M,Red,4,49.0,196.0
+2024-09,Hoodie,M,Olive,4,49.0,196.0
+2024-09,Hoodie,M,Beige,1,49.0,49.0
+2024-09,Hoodie,L,Black,12,49.0,588.0
+2024-09,Hoodie,L,Navy,11,49.0,539.0
+2024-09,Hoodie,L,White,7,49.0,343.0
+2024-09,Hoodie,L,Red,2,49.0,98.0
+2024-09,Hoodie,L,Olive,3,49.0,147.0
+2024-09,Hoodie,L,Beige,2,49.0,98.0
+2024-09,Puffer Jacket,S,Black,7,129.0,903.0
+2024-09,Puffer Jacket,S,Navy,5,129.0,645.0
+2024-09,Puffer Jacket,S,White,6,129.0,774.0
+2024-09,Puffer Jacket,S,Red,1,129.0,129.0
+2024-09,Puffer Jacket,S,Olive,2,129.0,258.0
+2024-09,Puffer Jacket,S,Beige,1,129.0,129.0
+2024-09,Puffer Jacket,M,Black,9,129.0,1161.0
+2024-09,Puffer Jacket,M,Navy,3,129.0,387.0
+2024-09,Puffer Jacket,M,White,6,129.0,774.0
+2024-09,Puffer Jacket,M,Red,2,129.0,258.0
+2024-09,Puffer Jacket,M,Olive,3,129.0,387.0
+2024-09,Puffer Jacket,M,Beige,0,129.0,0.0
+2024-09,Puffer Jacket,L,Black,10,129.0,1290.0
+2024-09,Puffer Jacket,L,Navy,4,129.0,516.0
+2024-09,Puffer Jacket,L,White,4,129.0,516.0
+2024-09,Puffer Jacket,L,Red,2,129.0,258.0
+2024-09,Puffer Jacket,L,Olive,2,129.0,258.0
+2024-09,Puffer Jacket,L,Beige,2,129.0,258.0
+2024-09,Raincoat,S,Black,8,79.0,632.0
+2024-09,Raincoat,S,Navy,11,79.0,869.0
+2024-09,Raincoat,S,White,8,79.0,632.0
+2024-09,Raincoat,S,Red,1,79.0,79.0
+2024-09,Raincoat,S,Olive,1,79.0,79.0
+2024-09,Raincoat,S,Beige,0,79.0,0.0
+2024-09,Raincoat,M,Black,14,79.0,1106.0
+2024-09,Raincoat,M,Navy,14,79.0,1106.0
+2024-09,Raincoat,M,White,7,79.0,553.0
+2024-09,Raincoat,M,Red,9,79.0,711.0
+2024-09,Raincoat,M,Olive,5,79.0,395.0
+2024-09,Raincoat,M,Beige,4,79.0,316.0
+2024-09,Raincoat,L,Black,15,79.0,1185.0
+2024-09,Raincoat,L,Navy,11,79.0,869.0
+2024-09,Raincoat,L,White,7,79.0,553.0
+2024-09,Raincoat,L,Red,8,79.0,632.0
+2024-09,Raincoat,L,Olive,3,79.0,237.0
+2024-09,Raincoat,L,Beige,3,79.0,237.0
+2024-09,Knit Sweater,S,Black,6,69.0,414.0
+2024-09,Knit Sweater,S,Navy,5,69.0,345.0
+2024-09,Knit Sweater,S,White,3,69.0,207.0
+2024-09,Knit Sweater,S,Red,2,69.0,138.0
+2024-09,Knit Sweater,S,Olive,0,69.0,0.0
+2024-09,Knit Sweater,S,Beige,1,69.0,69.0
+2024-09,Knit Sweater,M,Black,5,69.0,345.0
+2024-09,Knit Sweater,M,Navy,10,69.0,690.0
+2024-09,Knit Sweater,M,White,6,69.0,414.0
+2024-09,Knit Sweater,M,Red,3,69.0,207.0
+2024-09,Knit Sweater,M,Olive,0,69.0,0.0
+2024-09,Knit Sweater,M,Beige,1,69.0,69.0
+2024-09,Knit Sweater,L,Black,9,69.0,621.0
+2024-09,Knit Sweater,L,Navy,0,69.0,0.0
+2024-09,Knit Sweater,L,White,2,69.0,138.0
+2024-09,Knit Sweater,L,Red,2,69.0,138.0
+2024-09,Knit Sweater,L,Olive,2,69.0,138.0
+2024-09,Knit Sweater,L,Beige,0,69.0,0.0
+2024-09,Jeans,S,Black,16,89.0,1424.0
+2024-09,Jeans,S,Navy,11,89.0,979.0
+2024-09,Jeans,S,White,7,89.0,623.0
+2024-09,Jeans,S,Red,3,89.0,267.0
+2024-09,Jeans,S,Olive,3,89.0,267.0
+2024-09,Jeans,S,Beige,0,89.0,0.0
+2024-09,Jeans,M,Black,27,89.0,2403.0
+2024-09,Jeans,M,Navy,14,89.0,1246.0
+2024-09,Jeans,M,White,11,89.0,979.0
+2024-09,Jeans,M,Red,6,89.0,534.0
+2024-09,Jeans,M,Olive,5,89.0,445.0
+2024-09,Jeans,M,Beige,5,89.0,445.0
+2024-09,Jeans,L,Black,25,89.0,2225.0
+2024-09,Jeans,L,Navy,24,89.0,2136.0
+2024-09,Jeans,L,White,11,89.0,979.0
+2024-09,Jeans,L,Red,10,89.0,890.0
+2024-09,Jeans,L,Olive,1,89.0,89.0
+2024-09,Jeans,L,Beige,4,89.0,356.0
+2024-09,T-Shirt,S,Black,17,25.0,425.0
+2024-09,T-Shirt,S,Navy,12,25.0,300.0
+2024-09,T-Shirt,S,White,7,25.0,175.0
+2024-09,T-Shirt,S,Red,5,25.0,125.0
+2024-09,T-Shirt,S,Olive,5,25.0,125.0
+2024-09,T-Shirt,S,Beige,0,25.0,0.0
+2024-09,T-Shirt,M,Black,25,25.0,625.0
+2024-09,T-Shirt,M,Navy,17,25.0,425.0
+2024-09,T-Shirt,M,White,23,25.0,575.0
+2024-09,T-Shirt,M,Red,8,25.0,200.0
+2024-09,T-Shirt,M,Olive,3,25.0,75.0
+2024-09,T-Shirt,M,Beige,4,25.0,100.0
+2024-09,T-Shirt,L,Black,25,25.0,625.0
+2024-09,T-Shirt,L,Navy,17,25.0,425.0
+2024-09,T-Shirt,L,White,14,25.0,350.0
+2024-09,T-Shirt,L,Red,6,25.0,150.0
+2024-09,T-Shirt,L,Olive,4,25.0,100.0
+2024-09,T-Shirt,L,Beige,7,25.0,175.0
+2024-09,Sneakers,S,Black,15,99.0,1485.0
+2024-09,Sneakers,S,Navy,10,99.0,990.0
+2024-09,Sneakers,S,White,9,99.0,891.0
+2024-09,Sneakers,S,Red,4,99.0,396.0
+2024-09,Sneakers,S,Olive,5,99.0,495.0
+2024-09,Sneakers,S,Beige,2,99.0,198.0
+2024-09,Sneakers,M,Black,17,99.0,1683.0
+2024-09,Sneakers,M,Navy,16,99.0,1584.0
+2024-09,Sneakers,M,White,9,99.0,891.0
+2024-09,Sneakers,M,Red,3,99.0,297.0
+2024-09,Sneakers,M,Olive,3,99.0,297.0
+2024-09,Sneakers,M,Beige,6,99.0,594.0
+2024-09,Sneakers,L,Black,21,99.0,2079.0
+2024-09,Sneakers,L,Navy,5,99.0,495.0
+2024-09,Sneakers,L,White,7,99.0,693.0
+2024-09,Sneakers,L,Red,5,99.0,495.0
+2024-09,Sneakers,L,Olive,7,99.0,693.0
+2024-09,Sneakers,L,Beige,1,99.0,99.0
+2024-09,Boots,S,Black,8,119.0,952.0
+2024-09,Boots,S,Navy,3,119.0,357.0
+2024-09,Boots,S,White,3,119.0,357.0
+2024-09,Boots,S,Red,0,119.0,0.0
+2024-09,Boots,S,Olive,1,119.0,119.0
+2024-09,Boots,S,Beige,0,119.0,0.0
+2024-09,Boots,M,Black,11,119.0,1309.0
+2024-09,Boots,M,Navy,5,119.0,595.0
+2024-09,Boots,M,White,6,119.0,714.0
+2024-09,Boots,M,Red,2,119.0,238.0
+2024-09,Boots,M,Olive,1,119.0,119.0
+2024-09,Boots,M,Beige,0,119.0,0.0
+2024-09,Boots,L,Black,6,119.0,714.0
+2024-09,Boots,L,Navy,7,119.0,833.0
+2024-09,Boots,L,White,3,119.0,357.0
+2024-09,Boots,L,Red,3,119.0,357.0
+2024-09,Boots,L,Olive,0,119.0,0.0
+2024-09,Boots,L,Beige,1,119.0,119.0
+2024-10,Hoodie,S,Black,16,49.0,784.0
+2024-10,Hoodie,S,Navy,10,49.0,490.0
+2024-10,Hoodie,S,White,5,49.0,245.0
+2024-10,Hoodie,S,Red,2,49.0,98.0
+2024-10,Hoodie,S,Olive,3,49.0,147.0
+2024-10,Hoodie,S,Beige,5,49.0,245.0
+2024-10,Hoodie,M,Black,20,49.0,980.0
+2024-10,Hoodie,M,Navy,12,49.0,588.0
+2024-10,Hoodie,M,White,10,49.0,490.0
+2024-10,Hoodie,M,Red,8,49.0,392.0
+2024-10,Hoodie,M,Olive,3,49.0,147.0
+2024-10,Hoodie,M,Beige,1,49.0,49.0
+2024-10,Hoodie,L,Black,11,49.0,539.0
+2024-10,Hoodie,L,Navy,8,49.0,392.0
+2024-10,Hoodie,L,White,12,49.0,588.0
+2024-10,Hoodie,L,Red,7,49.0,343.0
+2024-10,Hoodie,L,Olive,4,49.0,196.0
+2024-10,Hoodie,L,Beige,4,49.0,196.0
+2024-10,Puffer Jacket,S,Black,8,129.0,1032.0
+2024-10,Puffer Jacket,S,Navy,4,129.0,516.0
+2024-10,Puffer Jacket,S,White,5,129.0,645.0
+2024-10,Puffer Jacket,S,Red,3,129.0,387.0
+2024-10,Puffer Jacket,S,Olive,1,129.0,129.0
+2024-10,Puffer Jacket,S,Beige,1,129.0,129.0
+2024-10,Puffer Jacket,M,Black,16,129.0,2064.0
+2024-10,Puffer Jacket,M,Navy,10,129.0,1290.0
+2024-10,Puffer Jacket,M,White,10,129.0,1290.0
+2024-10,Puffer Jacket,M,Red,6,129.0,774.0
+2024-10,Puffer Jacket,M,Olive,3,129.0,387.0
+2024-10,Puffer Jacket,M,Beige,3,129.0,387.0
+2024-10,Puffer Jacket,L,Black,13,129.0,1677.0
+2024-10,Puffer Jacket,L,Navy,17,129.0,2193.0
+2024-10,Puffer Jacket,L,White,7,129.0,903.0
+2024-10,Puffer Jacket,L,Red,3,129.0,387.0
+2024-10,Puffer Jacket,L,Olive,2,129.0,258.0
+2024-10,Puffer Jacket,L,Beige,2,129.0,258.0
+2024-10,Raincoat,S,Black,7,79.0,553.0
+2024-10,Raincoat,S,Navy,11,79.0,869.0
+2024-10,Raincoat,S,White,7,79.0,553.0
+2024-10,Raincoat,S,Red,7,79.0,553.0
+2024-10,Raincoat,S,Olive,7,79.0,553.0
+2024-10,Raincoat,S,Beige,1,79.0,79.0
+2024-10,Raincoat,M,Black,19,79.0,1501.0
+2024-10,Raincoat,M,Navy,15,79.0,1185.0
+2024-10,Raincoat,M,White,17,79.0,1343.0
+2024-10,Raincoat,M,Red,8,79.0,632.0
+2024-10,Raincoat,M,Olive,3,79.0,237.0
+2024-10,Raincoat,M,Beige,2,79.0,158.0
+2024-10,Raincoat,L,Black,14,79.0,1106.0
+2024-10,Raincoat,L,Navy,17,79.0,1343.0
+2024-10,Raincoat,L,White,16,79.0,1264.0
+2024-10,Raincoat,L,Red,2,79.0,158.0
+2024-10,Raincoat,L,Olive,1,79.0,79.0
+2024-10,Raincoat,L,Beige,2,79.0,158.0
+2024-10,Knit Sweater,S,Black,4,69.0,276.0
+2024-10,Knit Sweater,S,Navy,8,69.0,552.0
+2024-10,Knit Sweater,S,White,9,69.0,621.0
+2024-10,Knit Sweater,S,Red,5,69.0,345.0
+2024-10,Knit Sweater,S,Olive,0,69.0,0.0
+2024-10,Knit Sweater,S,Beige,1,69.0,69.0
+2024-10,Knit Sweater,M,Black,18,69.0,1242.0
+2024-10,Knit Sweater,M,Navy,18,69.0,1242.0
+2024-10,Knit Sweater,M,White,7,69.0,483.0
+2024-10,Knit Sweater,M,Red,7,69.0,483.0
+2024-10,Knit Sweater,M,Olive,2,69.0,138.0
+2024-10,Knit Sweater,M,Beige,3,69.0,207.0
+2024-10,Knit Sweater,L,Black,18,69.0,1242.0
+2024-10,Knit Sweater,L,Navy,6,69.0,414.0
+2024-10,Knit Sweater,L,White,14,69.0,966.0
+2024-10,Knit Sweater,L,Red,5,69.0,345.0
+2024-10,Knit Sweater,L,Olive,2,69.0,138.0
+2024-10,Knit Sweater,L,Beige,3,69.0,207.0
+2024-10,Jeans,S,Black,17,89.0,1513.0
+2024-10,Jeans,S,Navy,6,89.0,534.0
+2024-10,Jeans,S,White,12,89.0,1068.0
+2024-10,Jeans,S,Red,5,89.0,445.0
+2024-10,Jeans,S,Olive,1,89.0,89.0
+2024-10,Jeans,S,Beige,5,89.0,445.0
+2024-10,Jeans,M,Black,26,89.0,2314.0
+2024-10,Jeans,M,Navy,19,89.0,1691.0
+2024-10,Jeans,M,White,18,89.0,1602.0
+2024-10,Jeans,M,Red,11,89.0,979.0
+2024-10,Jeans,M,Olive,8,89.0,712.0
+2024-10,Jeans,M,Beige,5,89.0,445.0
+2024-10,Jeans,L,Black,22,89.0,1958.0
+2024-10,Jeans,L,Navy,22,89.0,1958.0
+2024-10,Jeans,L,White,14,89.0,1246.0
+2024-10,Jeans,L,Red,1,89.0,89.0
+2024-10,Jeans,L,Olive,3,89.0,267.0
+2024-10,Jeans,L,Beige,1,89.0,89.0
+2024-10,T-Shirt,S,Black,26,25.0,650.0
+2024-10,T-Shirt,S,Navy,10,25.0,250.0
+2024-10,T-Shirt,S,White,8,25.0,200.0
+2024-10,T-Shirt,S,Red,4,25.0,100.0
+2024-10,T-Shirt,S,Olive,2,25.0,50.0
+2024-10,T-Shirt,S,Beige,6,25.0,150.0
+2024-10,T-Shirt,M,Black,29,25.0,725.0
+2024-10,T-Shirt,M,Navy,22,25.0,550.0
+2024-10,T-Shirt,M,White,19,25.0,475.0
+2024-10,T-Shirt,M,Red,9,25.0,225.0
+2024-10,T-Shirt,M,Olive,1,25.0,25.0
+2024-10,T-Shirt,M,Beige,6,25.0,150.0
+2024-10,T-Shirt,L,Black,25,25.0,625.0
+2024-10,T-Shirt,L,Navy,15,25.0,375.0
+2024-10,T-Shirt,L,White,14,25.0,350.0
+2024-10,T-Shirt,L,Red,8,25.0,200.0
+2024-10,T-Shirt,L,Olive,6,25.0,150.0
+2024-10,T-Shirt,L,Beige,1,25.0,25.0
+2024-10,Sneakers,S,Black,19,99.0,1881.0
+2024-10,Sneakers,S,Navy,9,99.0,891.0
+2024-10,Sneakers,S,White,7,99.0,693.0
+2024-10,Sneakers,S,Red,3,99.0,297.0
+2024-10,Sneakers,S,Olive,4,99.0,396.0
+2024-10,Sneakers,S,Beige,3,99.0,297.0
+2024-10,Sneakers,M,Black,32,99.0,3168.0
+2024-10,Sneakers,M,Navy,16,99.0,1584.0
+2024-10,Sneakers,M,White,19,99.0,1881.0
+2024-10,Sneakers,M,Red,2,99.0,198.0
+2024-10,Sneakers,M,Olive,5,99.0,495.0
+2024-10,Sneakers,M,Beige,3,99.0,297.0
+2024-10,Sneakers,L,Black,30,99.0,2970.0
+2024-10,Sneakers,L,Navy,16,99.0,1584.0
+2024-10,Sneakers,L,White,12,99.0,1188.0
+2024-10,Sneakers,L,Red,11,99.0,1089.0
+2024-10,Sneakers,L,Olive,2,99.0,198.0
+2024-10,Sneakers,L,Beige,3,99.0,297.0
+2024-10,Boots,S,Black,5,119.0,595.0
+2024-10,Boots,S,Navy,6,119.0,714.0
+2024-10,Boots,S,White,4,119.0,476.0
+2024-10,Boots,S,Red,4,119.0,476.0
+2024-10,Boots,S,Olive,1,119.0,119.0
+2024-10,Boots,S,Beige,2,119.0,238.0
+2024-10,Boots,M,Black,9,119.0,1071.0
+2024-10,Boots,M,Navy,5,119.0,595.0
+2024-10,Boots,M,White,6,119.0,714.0
+2024-10,Boots,M,Red,2,119.0,238.0
+2024-10,Boots,M,Olive,0,119.0,0.0
+2024-10,Boots,M,Beige,1,119.0,119.0
+2024-10,Boots,L,Black,5,119.0,595.0
+2024-10,Boots,L,Navy,5,119.0,595.0
+2024-10,Boots,L,White,2,119.0,238.0
+2024-10,Boots,L,Red,2,119.0,238.0
+2024-10,Boots,L,Olive,2,119.0,238.0
+2024-10,Boots,L,Beige,1,119.0,119.0
+2024-11,Hoodie,S,Black,17,49.0,833.0
+2024-11,Hoodie,S,Navy,17,49.0,833.0
+2024-11,Hoodie,S,White,6,49.0,294.0
+2024-11,Hoodie,S,Red,6,49.0,294.0
+2024-11,Hoodie,S,Olive,4,49.0,196.0
+2024-11,Hoodie,S,Beige,4,49.0,196.0
+2024-11,Hoodie,M,Black,32,49.0,1568.0
+2024-11,Hoodie,M,Navy,32,49.0,1568.0
+2024-11,Hoodie,M,White,5,49.0,245.0
+2024-11,Hoodie,M,Red,10,49.0,490.0
+2024-11,Hoodie,M,Olive,5,49.0,245.0
+2024-11,Hoodie,M,Beige,8,49.0,392.0
+2024-11,Hoodie,L,Black,23,49.0,1127.0
+2024-11,Hoodie,L,Navy,23,49.0,1127.0
+2024-11,Hoodie,L,White,13,49.0,637.0
+2024-11,Hoodie,L,Red,12,49.0,588.0
+2024-11,Hoodie,L,Olive,4,49.0,196.0
+2024-11,Hoodie,L,Beige,7,49.0,343.0
+2024-11,Puffer Jacket,S,Black,11,129.0,1419.0
+2024-11,Puffer Jacket,S,Navy,10,129.0,1290.0
+2024-11,Puffer Jacket,S,White,8,129.0,1032.0
+2024-11,Puffer Jacket,S,Red,4,129.0,516.0
+2024-11,Puffer Jacket,S,Olive,2,129.0,258.0
+2024-11,Puffer Jacket,S,Beige,1,129.0,129.0
+2024-11,Puffer Jacket,M,Black,16,129.0,2064.0
+2024-11,Puffer Jacket,M,Navy,14,129.0,1806.0
+2024-11,Puffer Jacket,M,White,12,129.0,1548.0
+2024-11,Puffer Jacket,M,Red,7,129.0,903.0
+2024-11,Puffer Jacket,M,Olive,2,129.0,258.0
+2024-11,Puffer Jacket,M,Beige,2,129.0,258.0
+2024-11,Puffer Jacket,L,Black,9,129.0,1161.0
+2024-11,Puffer Jacket,L,Navy,9,129.0,1161.0
+2024-11,Puffer Jacket,L,White,7,129.0,903.0
+2024-11,Puffer Jacket,L,Red,4,129.0,516.0
+2024-11,Puffer Jacket,L,Olive,3,129.0,387.0
+2024-11,Puffer Jacket,L,Beige,5,129.0,645.0
+2024-11,Raincoat,S,Black,13,79.0,1027.0
+2024-11,Raincoat,S,Navy,15,79.0,1185.0
+2024-11,Raincoat,S,White,9,79.0,711.0
+2024-11,Raincoat,S,Red,2,79.0,158.0
+2024-11,Raincoat,S,Olive,3,79.0,237.0
+2024-11,Raincoat,S,Beige,3,79.0,237.0
+2024-11,Raincoat,M,Black,23,79.0,1817.0
+2024-11,Raincoat,M,Navy,10,79.0,790.0
+2024-11,Raincoat,M,White,17,79.0,1343.0
+2024-11,Raincoat,M,Red,5,79.0,395.0
+2024-11,Raincoat,M,Olive,5,79.0,395.0
+2024-11,Raincoat,M,Beige,4,79.0,316.0
+2024-11,Raincoat,L,Black,27,79.0,2133.0
+2024-11,Raincoat,L,Navy,15,79.0,1185.0
+2024-11,Raincoat,L,White,8,79.0,632.0
+2024-11,Raincoat,L,Red,5,79.0,395.0
+2024-11,Raincoat,L,Olive,1,79.0,79.0
+2024-11,Raincoat,L,Beige,9,79.0,711.0
+2024-11,Knit Sweater,S,Black,16,69.0,1104.0
+2024-11,Knit Sweater,S,Navy,9,69.0,621.0
+2024-11,Knit Sweater,S,White,7,69.0,483.0
+2024-11,Knit Sweater,S,Red,6,69.0,414.0
+2024-11,Knit Sweater,S,Olive,1,69.0,69.0
+2024-11,Knit Sweater,S,Beige,2,69.0,138.0
+2024-11,Knit Sweater,M,Black,26,69.0,1794.0
+2024-11,Knit Sweater,M,Navy,14,69.0,966.0
+2024-11,Knit Sweater,M,White,11,69.0,759.0
+2024-11,Knit Sweater,M,Red,6,69.0,414.0
+2024-11,Knit Sweater,M,Olive,5,69.0,345.0
+2024-11,Knit Sweater,M,Beige,3,69.0,207.0
+2024-11,Knit Sweater,L,Black,24,69.0,1656.0
+2024-11,Knit Sweater,L,Navy,10,69.0,690.0
+2024-11,Knit Sweater,L,White,15,69.0,1035.0
+2024-11,Knit Sweater,L,Red,5,69.0,345.0
+2024-11,Knit Sweater,L,Olive,7,69.0,483.0
+2024-11,Knit Sweater,L,Beige,3,69.0,207.0
+2024-11,Jeans,S,Black,19,89.0,1691.0
+2024-11,Jeans,S,Navy,20,89.0,1780.0
+2024-11,Jeans,S,White,9,89.0,801.0
+2024-11,Jeans,S,Red,3,89.0,267.0
+2024-11,Jeans,S,Olive,2,89.0,178.0
+2024-11,Jeans,S,Beige,3,89.0,267.0
+2024-11,Jeans,M,Black,47,89.0,4183.0
+2024-11,Jeans,M,Navy,29,89.0,2581.0
+2024-11,Jeans,M,White,27,89.0,2403.0
+2024-11,Jeans,M,Red,7,89.0,623.0
+2024-11,Jeans,M,Olive,3,89.0,267.0
+2024-11,Jeans,M,Beige,3,89.0,267.0
+2024-11,Jeans,L,Black,40,89.0,3560.0
+2024-11,Jeans,L,Navy,23,89.0,2047.0
+2024-11,Jeans,L,White,10,89.0,890.0
+2024-11,Jeans,L,Red,11,89.0,979.0
+2024-11,Jeans,L,Olive,3,89.0,267.0
+2024-11,Jeans,L,Beige,3,89.0,267.0
+2024-11,T-Shirt,S,Black,9,25.0,225.0
+2024-11,T-Shirt,S,Navy,11,25.0,275.0
+2024-11,T-Shirt,S,White,3,25.0,75.0
+2024-11,T-Shirt,S,Red,3,25.0,75.0
+2024-11,T-Shirt,S,Olive,0,25.0,0.0
+2024-11,T-Shirt,S,Beige,4,25.0,100.0
+2024-11,T-Shirt,M,Black,24,25.0,600.0
+2024-11,T-Shirt,M,Navy,11,25.0,275.0
+2024-11,T-Shirt,M,White,10,25.0,250.0
+2024-11,T-Shirt,M,Red,8,25.0,200.0
+2024-11,T-Shirt,M,Olive,3,25.0,75.0
+2024-11,T-Shirt,M,Beige,3,25.0,75.0
+2024-11,T-Shirt,L,Black,17,25.0,425.0
+2024-11,T-Shirt,L,Navy,9,25.0,225.0
+2024-11,T-Shirt,L,White,11,25.0,275.0
+2024-11,T-Shirt,L,Red,5,25.0,125.0
+2024-11,T-Shirt,L,Olive,5,25.0,125.0
+2024-11,T-Shirt,L,Beige,3,25.0,75.0
+2024-11,Sneakers,S,Black,7,99.0,693.0
+2024-11,Sneakers,S,Navy,11,99.0,1089.0
+2024-11,Sneakers,S,White,3,99.0,297.0
+2024-11,Sneakers,S,Red,9,99.0,891.0
+2024-11,Sneakers,S,Olive,1,99.0,99.0
+2024-11,Sneakers,S,Beige,2,99.0,198.0
+2024-11,Sneakers,M,Black,26,99.0,2574.0
+2024-11,Sneakers,M,Navy,10,99.0,990.0
+2024-11,Sneakers,M,White,10,99.0,990.0
+2024-11,Sneakers,M,Red,5,99.0,495.0
+2024-11,Sneakers,M,Olive,1,99.0,99.0
+2024-11,Sneakers,M,Beige,2,99.0,198.0
+2024-11,Sneakers,L,Black,22,99.0,2178.0
+2024-11,Sneakers,L,Navy,11,99.0,1089.0
+2024-11,Sneakers,L,White,11,99.0,1089.0
+2024-11,Sneakers,L,Red,7,99.0,693.0
+2024-11,Sneakers,L,Olive,1,99.0,99.0
+2024-11,Sneakers,L,Beige,3,99.0,297.0
+2024-11,Boots,S,Black,9,119.0,1071.0
+2024-11,Boots,S,Navy,10,119.0,1190.0
+2024-11,Boots,S,White,3,119.0,357.0
+2024-11,Boots,S,Red,2,119.0,238.0
+2024-11,Boots,S,Olive,2,119.0,238.0
+2024-11,Boots,S,Beige,1,119.0,119.0
+2024-11,Boots,M,Black,13,119.0,1547.0
+2024-11,Boots,M,Navy,16,119.0,1904.0
+2024-11,Boots,M,White,12,119.0,1428.0
+2024-11,Boots,M,Red,0,119.0,0.0
+2024-11,Boots,M,Olive,1,119.0,119.0
+2024-11,Boots,M,Beige,2,119.0,238.0
+2024-11,Boots,L,Black,6,119.0,714.0
+2024-11,Boots,L,Navy,12,119.0,1428.0
+2024-11,Boots,L,White,7,119.0,833.0
+2024-11,Boots,L,Red,3,119.0,357.0
+2024-11,Boots,L,Olive,4,119.0,476.0
+2024-11,Boots,L,Beige,2,119.0,238.0
+2024-12,Hoodie,S,Black,17,49.0,833.0
+2024-12,Hoodie,S,Navy,27,49.0,1323.0
+2024-12,Hoodie,S,White,15,49.0,735.0
+2024-12,Hoodie,S,Red,4,49.0,196.0
+2024-12,Hoodie,S,Olive,1,49.0,49.0
+2024-12,Hoodie,S,Beige,1,49.0,49.0
+2024-12,Hoodie,M,Black,38,49.0,1862.0
+2024-12,Hoodie,M,Navy,22,49.0,1078.0
+2024-12,Hoodie,M,White,27,49.0,1323.0
+2024-12,Hoodie,M,Red,13,49.0,637.0
+2024-12,Hoodie,M,Olive,2,49.0,98.0
+2024-12,Hoodie,M,Beige,4,49.0,196.0
+2024-12,Hoodie,L,Black,37,49.0,1813.0
+2024-12,Hoodie,L,Navy,19,49.0,931.0
+2024-12,Hoodie,L,White,18,49.0,882.0
+2024-12,Hoodie,L,Red,7,49.0,343.0
+2024-12,Hoodie,L,Olive,2,49.0,98.0
+2024-12,Hoodie,L,Beige,4,49.0,196.0
+2024-12,Puffer Jacket,S,Black,7,129.0,903.0
+2024-12,Puffer Jacket,S,Navy,8,129.0,1032.0
+2024-12,Puffer Jacket,S,White,8,129.0,1032.0
+2024-12,Puffer Jacket,S,Red,2,129.0,258.0
+2024-12,Puffer Jacket,S,Olive,1,129.0,129.0
+2024-12,Puffer Jacket,S,Beige,4,129.0,516.0
+2024-12,Puffer Jacket,M,Black,23,129.0,2967.0
+2024-12,Puffer Jacket,M,Navy,15,129.0,1935.0
+2024-12,Puffer Jacket,M,White,7,129.0,903.0
+2024-12,Puffer Jacket,M,Red,3,129.0,387.0
+2024-12,Puffer Jacket,M,Olive,2,129.0,258.0
+2024-12,Puffer Jacket,M,Beige,3,129.0,387.0
+2024-12,Puffer Jacket,L,Black,19,129.0,2451.0
+2024-12,Puffer Jacket,L,Navy,8,129.0,1032.0
+2024-12,Puffer Jacket,L,White,12,129.0,1548.0
+2024-12,Puffer Jacket,L,Red,0,129.0,0.0
+2024-12,Puffer Jacket,L,Olive,0,129.0,0.0
+2024-12,Puffer Jacket,L,Beige,1,129.0,129.0
+2024-12,Raincoat,S,Black,13,79.0,1027.0
+2024-12,Raincoat,S,Navy,10,79.0,790.0
+2024-12,Raincoat,S,White,3,79.0,237.0
+2024-12,Raincoat,S,Red,0,79.0,0.0
+2024-12,Raincoat,S,Olive,0,79.0,0.0
+2024-12,Raincoat,S,Beige,0,79.0,0.0
+2024-12,Raincoat,M,Black,13,79.0,1027.0
+2024-12,Raincoat,M,Navy,7,79.0,553.0
+2024-12,Raincoat,M,White,13,79.0,1027.0
+2024-12,Raincoat,M,Red,5,79.0,395.0
+2024-12,Raincoat,M,Olive,1,79.0,79.0
+2024-12,Raincoat,M,Beige,1,79.0,79.0
+2024-12,Raincoat,L,Black,17,79.0,1343.0
+2024-12,Raincoat,L,Navy,7,79.0,553.0
+2024-12,Raincoat,L,White,11,79.0,869.0
+2024-12,Raincoat,L,Red,3,79.0,237.0
+2024-12,Raincoat,L,Olive,5,79.0,395.0
+2024-12,Raincoat,L,Beige,2,79.0,158.0
+2024-12,Knit Sweater,S,Black,10,69.0,690.0
+2024-12,Knit Sweater,S,Navy,14,69.0,966.0
+2024-12,Knit Sweater,S,White,12,69.0,828.0
+2024-12,Knit Sweater,S,Red,4,69.0,276.0
+2024-12,Knit Sweater,S,Olive,0,69.0,0.0
+2024-12,Knit Sweater,S,Beige,4,69.0,276.0
+2024-12,Knit Sweater,M,Black,25,69.0,1725.0
+2024-12,Knit Sweater,M,Navy,24,69.0,1656.0
+2024-12,Knit Sweater,M,White,12,69.0,828.0
+2024-12,Knit Sweater,M,Red,4,69.0,276.0
+2024-12,Knit Sweater,M,Olive,2,69.0,138.0
+2024-12,Knit Sweater,M,Beige,4,69.0,276.0
+2024-12,Knit Sweater,L,Black,14,69.0,966.0
+2024-12,Knit Sweater,L,Navy,12,69.0,828.0
+2024-12,Knit Sweater,L,White,13,69.0,897.0
+2024-12,Knit Sweater,L,Red,8,69.0,552.0
+2024-12,Knit Sweater,L,Olive,0,69.0,0.0
+2024-12,Knit Sweater,L,Beige,8,69.0,552.0
+2024-12,Jeans,S,Black,12,89.0,1068.0
+2024-12,Jeans,S,Navy,16,89.0,1424.0
+2024-12,Jeans,S,White,5,89.0,445.0
+2024-12,Jeans,S,Red,3,89.0,267.0
+2024-12,Jeans,S,Olive,1,89.0,89.0
+2024-12,Jeans,S,Beige,1,89.0,89.0
+2024-12,Jeans,M,Black,19,89.0,1691.0
+2024-12,Jeans,M,Navy,23,89.0,2047.0
+2024-12,Jeans,M,White,12,89.0,1068.0
+2024-12,Jeans,M,Red,10,89.0,890.0
+2024-12,Jeans,M,Olive,5,89.0,445.0
+2024-12,Jeans,M,Beige,2,89.0,178.0
+2024-12,Jeans,L,Black,26,89.0,2314.0
+2024-12,Jeans,L,Navy,14,89.0,1246.0
+2024-12,Jeans,L,White,14,89.0,1246.0
+2024-12,Jeans,L,Red,6,89.0,534.0
+2024-12,Jeans,L,Olive,2,89.0,178.0
+2024-12,Jeans,L,Beige,2,89.0,178.0
+2024-12,T-Shirt,S,Black,11,25.0,275.0
+2024-12,T-Shirt,S,Navy,21,25.0,525.0
+2024-12,T-Shirt,S,White,21,25.0,525.0
+2024-12,T-Shirt,S,Red,5,25.0,125.0
+2024-12,T-Shirt,S,Olive,4,25.0,100.0
+2024-12,T-Shirt,S,Beige,7,25.0,175.0
+2024-12,T-Shirt,M,Black,30,25.0,750.0
+2024-12,T-Shirt,M,Navy,25,25.0,625.0
+2024-12,T-Shirt,M,White,9,25.0,225.0
+2024-12,T-Shirt,M,Red,10,25.0,250.0
+2024-12,T-Shirt,M,Olive,7,25.0,175.0
+2024-12,T-Shirt,M,Beige,5,25.0,125.0
+2024-12,T-Shirt,L,Black,29,25.0,725.0
+2024-12,T-Shirt,L,Navy,15,25.0,375.0
+2024-12,T-Shirt,L,White,16,25.0,400.0
+2024-12,T-Shirt,L,Red,12,25.0,300.0
+2024-12,T-Shirt,L,Olive,5,25.0,125.0
+2024-12,T-Shirt,L,Beige,5,25.0,125.0
+2024-12,Sneakers,S,Black,16,99.0,1584.0
+2024-12,Sneakers,S,Navy,7,99.0,693.0
+2024-12,Sneakers,S,White,8,99.0,792.0
+2024-12,Sneakers,S,Red,4,99.0,396.0
+2024-12,Sneakers,S,Olive,2,99.0,198.0
+2024-12,Sneakers,S,Beige,5,99.0,495.0
+2024-12,Sneakers,M,Black,22,99.0,2178.0
+2024-12,Sneakers,M,Navy,13,99.0,1287.0
+2024-12,Sneakers,M,White,13,99.0,1287.0
+2024-12,Sneakers,M,Red,11,99.0,1089.0
+2024-12,Sneakers,M,Olive,3,99.0,297.0
+2024-12,Sneakers,M,Beige,2,99.0,198.0
+2024-12,Sneakers,L,Black,21,99.0,2079.0
+2024-12,Sneakers,L,Navy,19,99.0,1881.0
+2024-12,Sneakers,L,White,8,99.0,792.0
+2024-12,Sneakers,L,Red,2,99.0,198.0
+2024-12,Sneakers,L,Olive,1,99.0,99.0
+2024-12,Sneakers,L,Beige,2,99.0,198.0
+2024-12,Boots,S,Black,13,119.0,1547.0
+2024-12,Boots,S,Navy,3,119.0,357.0
+2024-12,Boots,S,White,6,119.0,714.0
+2024-12,Boots,S,Red,6,119.0,714.0
+2024-12,Boots,S,Olive,3,119.0,357.0
+2024-12,Boots,S,Beige,2,119.0,238.0
+2024-12,Boots,M,Black,19,119.0,2261.0
+2024-12,Boots,M,Navy,7,119.0,833.0
+2024-12,Boots,M,White,13,119.0,1547.0
+2024-12,Boots,M,Red,7,119.0,833.0
+2024-12,Boots,M,Olive,2,119.0,238.0
+2024-12,Boots,M,Beige,3,119.0,357.0
+2024-12,Boots,L,Black,20,119.0,2380.0
+2024-12,Boots,L,Navy,12,119.0,1428.0
+2024-12,Boots,L,White,11,119.0,1309.0
+2024-12,Boots,L,Red,2,119.0,238.0
+2024-12,Boots,L,Olive,3,119.0,357.0
+2024-12,Boots,L,Beige,2,119.0,238.0
+2025-01,Hoodie,S,Black,25,49.0,1225.0
+2025-01,Hoodie,S,Navy,20,49.0,980.0
+2025-01,Hoodie,S,White,6,49.0,294.0
+2025-01,Hoodie,S,Red,6,49.0,294.0
+2025-01,Hoodie,S,Olive,4,49.0,196.0
+2025-01,Hoodie,S,Beige,4,49.0,196.0
+2025-01,Hoodie,M,Black,34,49.0,1666.0
+2025-01,Hoodie,M,Navy,23,49.0,1127.0
+2025-01,Hoodie,M,White,24,49.0,1176.0
+2025-01,Hoodie,M,Red,12,49.0,588.0
+2025-01,Hoodie,M,Olive,3,49.0,147.0
+2025-01,Hoodie,M,Beige,0,49.0,0.0
+2025-01,Hoodie,L,Black,25,49.0,1225.0
+2025-01,Hoodie,L,Navy,18,49.0,882.0
+2025-01,Hoodie,L,White,9,49.0,441.0
+2025-01,Hoodie,L,Red,12,49.0,588.0
+2025-01,Hoodie,L,Olive,3,49.0,147.0
+2025-01,Hoodie,L,Beige,1,49.0,49.0
+2025-01,Puffer Jacket,S,Black,11,129.0,1419.0
+2025-01,Puffer Jacket,S,Navy,8,129.0,1032.0
+2025-01,Puffer Jacket,S,White,6,129.0,774.0
+2025-01,Puffer Jacket,S,Red,1,129.0,129.0
+2025-01,Puffer Jacket,S,Olive,0,129.0,0.0
+2025-01,Puffer Jacket,S,Beige,2,129.0,258.0
+2025-01,Puffer Jacket,M,Black,13,129.0,1677.0
+2025-01,Puffer Jacket,M,Navy,8,129.0,1032.0
+2025-01,Puffer Jacket,M,White,8,129.0,1032.0
+2025-01,Puffer Jacket,M,Red,4,129.0,516.0
+2025-01,Puffer Jacket,M,Olive,2,129.0,258.0
+2025-01,Puffer Jacket,M,Beige,2,129.0,258.0
+2025-01,Puffer Jacket,L,Black,16,129.0,2064.0
+2025-01,Puffer Jacket,L,Navy,16,129.0,2064.0
+2025-01,Puffer Jacket,L,White,7,129.0,903.0
+2025-01,Puffer Jacket,L,Red,2,129.0,258.0
+2025-01,Puffer Jacket,L,Olive,3,129.0,387.0
+2025-01,Puffer Jacket,L,Beige,3,129.0,387.0
+2025-01,Raincoat,S,Black,12,79.0,948.0
+2025-01,Raincoat,S,Navy,8,79.0,632.0
+2025-01,Raincoat,S,White,4,79.0,316.0
+2025-01,Raincoat,S,Red,6,79.0,474.0
+2025-01,Raincoat,S,Olive,2,79.0,158.0
+2025-01,Raincoat,S,Beige,0,79.0,0.0
+2025-01,Raincoat,M,Black,15,79.0,1185.0
+2025-01,Raincoat,M,Navy,9,79.0,711.0
+2025-01,Raincoat,M,White,11,79.0,869.0
+2025-01,Raincoat,M,Red,4,79.0,316.0
+2025-01,Raincoat,M,Olive,1,79.0,79.0
+2025-01,Raincoat,M,Beige,3,79.0,237.0
+2025-01,Raincoat,L,Black,17,79.0,1343.0
+2025-01,Raincoat,L,Navy,7,79.0,553.0
+2025-01,Raincoat,L,White,7,79.0,553.0
+2025-01,Raincoat,L,Red,6,79.0,474.0
+2025-01,Raincoat,L,Olive,3,79.0,237.0
+2025-01,Raincoat,L,Beige,3,79.0,237.0
+2025-01,Knit Sweater,S,Black,16,69.0,1104.0
+2025-01,Knit Sweater,S,Navy,10,69.0,690.0
+2025-01,Knit Sweater,S,White,2,69.0,138.0
+2025-01,Knit Sweater,S,Red,4,69.0,276.0
+2025-01,Knit Sweater,S,Olive,1,69.0,69.0
+2025-01,Knit Sweater,S,Beige,3,69.0,207.0
+2025-01,Knit Sweater,M,Black,16,69.0,1104.0
+2025-01,Knit Sweater,M,Navy,16,69.0,1104.0
+2025-01,Knit Sweater,M,White,10,69.0,690.0
+2025-01,Knit Sweater,M,Red,7,69.0,483.0
+2025-01,Knit Sweater,M,Olive,8,69.0,552.0
+2025-01,Knit Sweater,M,Beige,5,69.0,345.0
+2025-01,Knit Sweater,L,Black,22,69.0,1518.0
+2025-01,Knit Sweater,L,Navy,9,69.0,621.0
+2025-01,Knit Sweater,L,White,13,69.0,897.0
+2025-01,Knit Sweater,L,Red,3,69.0,207.0
+2025-01,Knit Sweater,L,Olive,5,69.0,345.0
+2025-01,Knit Sweater,L,Beige,6,69.0,414.0
+2025-01,Jeans,S,Black,13,89.0,1157.0
+2025-01,Jeans,S,Navy,12,89.0,1068.0
+2025-01,Jeans,S,White,5,89.0,445.0
+2025-01,Jeans,S,Red,5,89.0,445.0
+2025-01,Jeans,S,Olive,1,89.0,89.0
+2025-01,Jeans,S,Beige,3,89.0,267.0
+2025-01,Jeans,M,Black,21,89.0,1869.0
+2025-01,Jeans,M,Navy,8,89.0,712.0
+2025-01,Jeans,M,White,15,89.0,1335.0
+2025-01,Jeans,M,Red,10,89.0,890.0
+2025-01,Jeans,M,Olive,4,89.0,356.0
+2025-01,Jeans,M,Beige,2,89.0,178.0
+2025-01,Jeans,L,Black,15,89.0,1335.0
+2025-01,Jeans,L,Navy,17,89.0,1513.0
+2025-01,Jeans,L,White,12,89.0,1068.0
+2025-01,Jeans,L,Red,6,89.0,534.0
+2025-01,Jeans,L,Olive,1,89.0,89.0
+2025-01,Jeans,L,Beige,1,89.0,89.0
+2025-01,T-Shirt,S,Black,14,25.0,350.0
+2025-01,T-Shirt,S,Navy,9,25.0,225.0
+2025-01,T-Shirt,S,White,12,25.0,300.0
+2025-01,T-Shirt,S,Red,8,25.0,200.0
+2025-01,T-Shirt,S,Olive,3,25.0,75.0
+2025-01,T-Shirt,S,Beige,2,25.0,50.0
+2025-01,T-Shirt,M,Black,31,25.0,775.0
+2025-01,T-Shirt,M,Navy,16,25.0,400.0
+2025-01,T-Shirt,M,White,11,25.0,275.0
+2025-01,T-Shirt,M,Red,4,25.0,100.0
+2025-01,T-Shirt,M,Olive,3,25.0,75.0
+2025-01,T-Shirt,M,Beige,8,25.0,200.0
+2025-01,T-Shirt,L,Black,20,25.0,500.0
+2025-01,T-Shirt,L,Navy,12,25.0,300.0
+2025-01,T-Shirt,L,White,13,25.0,325.0
+2025-01,T-Shirt,L,Red,9,25.0,225.0
+2025-01,T-Shirt,L,Olive,3,25.0,75.0
+2025-01,T-Shirt,L,Beige,1,25.0,25.0
+2025-01,Sneakers,S,Black,18,99.0,1782.0
+2025-01,Sneakers,S,Navy,12,99.0,1188.0
+2025-01,Sneakers,S,White,9,99.0,891.0
+2025-01,Sneakers,S,Red,4,99.0,396.0
+2025-01,Sneakers,S,Olive,1,99.0,99.0
+2025-01,Sneakers,S,Beige,3,99.0,297.0
+2025-01,Sneakers,M,Black,17,99.0,1683.0
+2025-01,Sneakers,M,Navy,25,99.0,2475.0
+2025-01,Sneakers,M,White,12,99.0,1188.0
+2025-01,Sneakers,M,Red,4,99.0,396.0
+2025-01,Sneakers,M,Olive,4,99.0,396.0
+2025-01,Sneakers,M,Beige,3,99.0,297.0
+2025-01,Sneakers,L,Black,10,99.0,990.0
+2025-01,Sneakers,L,Navy,23,99.0,2277.0
+2025-01,Sneakers,L,White,11,99.0,1089.0
+2025-01,Sneakers,L,Red,6,99.0,594.0
+2025-01,Sneakers,L,Olive,1,99.0,99.0
+2025-01,Sneakers,L,Beige,1,99.0,99.0
+2025-01,Boots,S,Black,11,119.0,1309.0
+2025-01,Boots,S,Navy,6,119.0,714.0
+2025-01,Boots,S,White,7,119.0,833.0
+2025-01,Boots,S,Red,1,119.0,119.0
+2025-01,Boots,S,Olive,2,119.0,238.0
+2025-01,Boots,S,Beige,2,119.0,238.0
+2025-01,Boots,M,Black,10,119.0,1190.0
+2025-01,Boots,M,Navy,12,119.0,1428.0
+2025-01,Boots,M,White,11,119.0,1309.0
+2025-01,Boots,M,Red,2,119.0,238.0
+2025-01,Boots,M,Olive,1,119.0,119.0
+2025-01,Boots,M,Beige,4,119.0,476.0
+2025-01,Boots,L,Black,7,119.0,833.0
+2025-01,Boots,L,Navy,5,119.0,595.0
+2025-01,Boots,L,White,15,119.0,1785.0
+2025-01,Boots,L,Red,5,119.0,595.0
+2025-01,Boots,L,Olive,1,119.0,119.0
+2025-01,Boots,L,Beige,3,119.0,357.0
+2025-02,Hoodie,S,Black,17,49.0,833.0
+2025-02,Hoodie,S,Navy,16,49.0,784.0
+2025-02,Hoodie,S,White,4,49.0,196.0
+2025-02,Hoodie,S,Red,3,49.0,147.0
+2025-02,Hoodie,S,Olive,2,49.0,98.0
+2025-02,Hoodie,S,Beige,3,49.0,147.0
+2025-02,Hoodie,M,Black,30,49.0,1470.0
+2025-02,Hoodie,M,Navy,23,49.0,1127.0
+2025-02,Hoodie,M,White,16,49.0,784.0
+2025-02,Hoodie,M,Red,5,49.0,245.0
+2025-02,Hoodie,M,Olive,2,49.0,98.0
+2025-02,Hoodie,M,Beige,4,49.0,196.0
+2025-02,Hoodie,L,Black,27,49.0,1323.0
+2025-02,Hoodie,L,Navy,24,49.0,1176.0
+2025-02,Hoodie,L,White,8,49.0,392.0
+2025-02,Hoodie,L,Red,6,49.0,294.0
+2025-02,Hoodie,L,Olive,2,49.0,98.0
+2025-02,Hoodie,L,Beige,1,49.0,49.0
+2025-02,Puffer Jacket,S,Black,20,129.0,2580.0
+2025-02,Puffer Jacket,S,Navy,7,129.0,903.0
+2025-02,Puffer Jacket,S,White,4,129.0,516.0
+2025-02,Puffer Jacket,S,Red,4,129.0,516.0
+2025-02,Puffer Jacket,S,Olive,3,129.0,387.0
+2025-02,Puffer Jacket,S,Beige,4,129.0,516.0
+2025-02,Puffer Jacket,M,Black,25,129.0,3225.0
+2025-02,Puffer Jacket,M,Navy,12,129.0,1548.0
+2025-02,Puffer Jacket,M,White,10,129.0,1290.0
+2025-02,Puffer Jacket,M,Red,3,129.0,387.0
+2025-02,Puffer Jacket,M,Olive,5,129.0,645.0
+2025-02,Puffer Jacket,M,Beige,5,129.0,645.0
+2025-02,Puffer Jacket,L,Black,20,129.0,2580.0
+2025-02,Puffer Jacket,L,Navy,15,129.0,1935.0
+2025-02,Puffer Jacket,L,White,9,129.0,1161.0
+2025-02,Puffer Jacket,L,Red,7,129.0,903.0
+2025-02,Puffer Jacket,L,Olive,3,129.0,387.0
+2025-02,Puffer Jacket,L,Beige,7,129.0,903.0
+2025-02,Raincoat,S,Black,3,79.0,237.0
+2025-02,Raincoat,S,Navy,5,79.0,395.0
+2025-02,Raincoat,S,White,4,79.0,316.0
+2025-02,Raincoat,S,Red,2,79.0,158.0
+2025-02,Raincoat,S,Olive,0,79.0,0.0
+2025-02,Raincoat,S,Beige,0,79.0,0.0
+2025-02,Raincoat,M,Black,15,79.0,1185.0
+2025-02,Raincoat,M,Navy,8,79.0,632.0
+2025-02,Raincoat,M,White,7,79.0,553.0
+2025-02,Raincoat,M,Red,2,79.0,158.0
+2025-02,Raincoat,M,Olive,0,79.0,0.0
+2025-02,Raincoat,M,Beige,0,79.0,0.0
+2025-02,Raincoat,L,Black,11,79.0,869.0
+2025-02,Raincoat,L,Navy,8,79.0,632.0
+2025-02,Raincoat,L,White,5,79.0,395.0
+2025-02,Raincoat,L,Red,3,79.0,237.0
+2025-02,Raincoat,L,Olive,2,79.0,158.0
+2025-02,Raincoat,L,Beige,0,79.0,0.0
+2025-02,Knit Sweater,S,Black,8,69.0,552.0
+2025-02,Knit Sweater,S,Navy,7,69.0,483.0
+2025-02,Knit Sweater,S,White,3,69.0,207.0
+2025-02,Knit Sweater,S,Red,4,69.0,276.0
+2025-02,Knit Sweater,S,Olive,1,69.0,69.0
+2025-02,Knit Sweater,S,Beige,3,69.0,207.0
+2025-02,Knit Sweater,M,Black,18,69.0,1242.0
+2025-02,Knit Sweater,M,Navy,5,69.0,345.0
+2025-02,Knit Sweater,M,White,7,69.0,483.0
+2025-02,Knit Sweater,M,Red,7,69.0,483.0
+2025-02,Knit Sweater,M,Olive,5,69.0,345.0
+2025-02,Knit Sweater,M,Beige,1,69.0,69.0
+2025-02,Knit Sweater,L,Black,16,69.0,1104.0
+2025-02,Knit Sweater,L,Navy,15,69.0,1035.0
+2025-02,Knit Sweater,L,White,9,69.0,621.0
+2025-02,Knit Sweater,L,Red,7,69.0,483.0
+2025-02,Knit Sweater,L,Olive,2,69.0,138.0
+2025-02,Knit Sweater,L,Beige,2,69.0,138.0
+2025-02,Jeans,S,Black,26,89.0,2314.0
+2025-02,Jeans,S,Navy,22,89.0,1958.0
+2025-02,Jeans,S,White,5,89.0,445.0
+2025-02,Jeans,S,Red,6,89.0,534.0
+2025-02,Jeans,S,Olive,3,89.0,267.0
+2025-02,Jeans,S,Beige,1,89.0,89.0
+2025-02,Jeans,M,Black,20,89.0,1780.0
+2025-02,Jeans,M,Navy,24,89.0,2136.0
+2025-02,Jeans,M,White,18,89.0,1602.0
+2025-02,Jeans,M,Red,8,89.0,712.0
+2025-02,Jeans,M,Olive,7,89.0,623.0
+2025-02,Jeans,M,Beige,2,89.0,178.0
+2025-02,Jeans,L,Black,32,89.0,2848.0
+2025-02,Jeans,L,Navy,15,89.0,1335.0
+2025-02,Jeans,L,White,15,89.0,1335.0
+2025-02,Jeans,L,Red,1,89.0,89.0
+2025-02,Jeans,L,Olive,4,89.0,356.0
+2025-02,Jeans,L,Beige,2,89.0,178.0
+2025-02,T-Shirt,S,Black,16,25.0,400.0
+2025-02,T-Shirt,S,Navy,13,25.0,325.0
+2025-02,T-Shirt,S,White,10,25.0,250.0
+2025-02,T-Shirt,S,Red,7,25.0,175.0
+2025-02,T-Shirt,S,Olive,0,25.0,0.0
+2025-02,T-Shirt,S,Beige,2,25.0,50.0
+2025-02,T-Shirt,M,Black,38,25.0,950.0
+2025-02,T-Shirt,M,Navy,16,25.0,400.0
+2025-02,T-Shirt,M,White,19,25.0,475.0
+2025-02,T-Shirt,M,Red,7,25.0,175.0
+2025-02,T-Shirt,M,Olive,4,25.0,100.0
+2025-02,T-Shirt,M,Beige,6,25.0,150.0
+2025-02,T-Shirt,L,Black,26,25.0,650.0
+2025-02,T-Shirt,L,Navy,13,25.0,325.0
+2025-02,T-Shirt,L,White,11,25.0,275.0
+2025-02,T-Shirt,L,Red,8,25.0,200.0
+2025-02,T-Shirt,L,Olive,0,25.0,0.0
+2025-02,T-Shirt,L,Beige,7,25.0,175.0
+2025-02,Sneakers,S,Black,13,99.0,1287.0
+2025-02,Sneakers,S,Navy,8,99.0,792.0
+2025-02,Sneakers,S,White,5,99.0,495.0
+2025-02,Sneakers,S,Red,2,99.0,198.0
+2025-02,Sneakers,S,Olive,2,99.0,198.0
+2025-02,Sneakers,S,Beige,0,99.0,0.0
+2025-02,Sneakers,M,Black,21,99.0,2079.0
+2025-02,Sneakers,M,Navy,13,99.0,1287.0
+2025-02,Sneakers,M,White,8,99.0,792.0
+2025-02,Sneakers,M,Red,4,99.0,396.0
+2025-02,Sneakers,M,Olive,9,99.0,891.0
+2025-02,Sneakers,M,Beige,3,99.0,297.0
+2025-02,Sneakers,L,Black,29,99.0,2871.0
+2025-02,Sneakers,L,Navy,14,99.0,1386.0
+2025-02,Sneakers,L,White,20,99.0,1980.0
+2025-02,Sneakers,L,Red,10,99.0,990.0
+2025-02,Sneakers,L,Olive,5,99.0,495.0
+2025-02,Sneakers,L,Beige,2,99.0,198.0
+2025-02,Boots,S,Black,11,119.0,1309.0
+2025-02,Boots,S,Navy,5,119.0,595.0
+2025-02,Boots,S,White,1,119.0,119.0
+2025-02,Boots,S,Red,4,119.0,476.0
+2025-02,Boots,S,Olive,1,119.0,119.0
+2025-02,Boots,S,Beige,3,119.0,357.0
+2025-02,Boots,M,Black,10,119.0,1190.0
+2025-02,Boots,M,Navy,10,119.0,1190.0
+2025-02,Boots,M,White,5,119.0,595.0
+2025-02,Boots,M,Red,7,119.0,833.0
+2025-02,Boots,M,Olive,3,119.0,357.0
+2025-02,Boots,M,Beige,1,119.0,119.0
+2025-02,Boots,L,Black,9,119.0,1071.0
+2025-02,Boots,L,Navy,10,119.0,1190.0
+2025-02,Boots,L,White,8,119.0,952.0
+2025-02,Boots,L,Red,6,119.0,714.0
+2025-02,Boots,L,Olive,2,119.0,238.0
+2025-02,Boots,L,Beige,1,119.0,119.0
+2025-03,Hoodie,S,Black,15,49.0,735.0
+2025-03,Hoodie,S,Navy,7,49.0,343.0
+2025-03,Hoodie,S,White,6,49.0,294.0
+2025-03,Hoodie,S,Red,6,49.0,294.0
+2025-03,Hoodie,S,Olive,0,49.0,0.0
+2025-03,Hoodie,S,Beige,1,49.0,49.0
+2025-03,Hoodie,M,Black,17,49.0,833.0
+2025-03,Hoodie,M,Navy,22,49.0,1078.0
+2025-03,Hoodie,M,White,8,49.0,392.0
+2025-03,Hoodie,M,Red,6,49.0,294.0
+2025-03,Hoodie,M,Olive,2,49.0,98.0
+2025-03,Hoodie,M,Beige,2,49.0,98.0
+2025-03,Hoodie,L,Black,12,49.0,588.0
+2025-03,Hoodie,L,Navy,14,49.0,686.0
+2025-03,Hoodie,L,White,9,49.0,441.0
+2025-03,Hoodie,L,Red,2,49.0,98.0
+2025-03,Hoodie,L,Olive,4,49.0,196.0
+2025-03,Hoodie,L,Beige,0,49.0,0.0
+2025-03,Puffer Jacket,S,Black,11,129.0,1419.0
+2025-03,Puffer Jacket,S,Navy,11,129.0,1419.0
+2025-03,Puffer Jacket,S,White,0,129.0,0.0
+2025-03,Puffer Jacket,S,Red,4,129.0,516.0
+2025-03,Puffer Jacket,S,Olive,0,129.0,0.0
+2025-03,Puffer Jacket,S,Beige,0,129.0,0.0
+2025-03,Puffer Jacket,M,Black,17,129.0,2193.0
+2025-03,Puffer Jacket,M,Navy,11,129.0,1419.0
+2025-03,Puffer Jacket,M,White,7,129.0,903.0
+2025-03,Puffer Jacket,M,Red,3,129.0,387.0
+2025-03,Puffer Jacket,M,Olive,3,129.0,387.0
+2025-03,Puffer Jacket,M,Beige,5,129.0,645.0
+2025-03,Puffer Jacket,L,Black,10,129.0,1290.0
+2025-03,Puffer Jacket,L,Navy,5,129.0,645.0
+2025-03,Puffer Jacket,L,White,9,129.0,1161.0
+2025-03,Puffer Jacket,L,Red,5,129.0,645.0
+2025-03,Puffer Jacket,L,Olive,1,129.0,129.0
+2025-03,Puffer Jacket,L,Beige,1,129.0,129.0
+2025-03,Raincoat,S,Black,11,79.0,869.0
+2025-03,Raincoat,S,Navy,11,79.0,869.0
+2025-03,Raincoat,S,White,9,79.0,711.0
+2025-03,Raincoat,S,Red,3,79.0,237.0
+2025-03,Raincoat,S,Olive,3,79.0,237.0
+2025-03,Raincoat,S,Beige,0,79.0,0.0
+2025-03,Raincoat,M,Black,18,79.0,1422.0
+2025-03,Raincoat,M,Navy,12,79.0,948.0
+2025-03,Raincoat,M,White,13,79.0,1027.0
+2025-03,Raincoat,M,Red,3,79.0,237.0
+2025-03,Raincoat,M,Olive,1,79.0,79.0
+2025-03,Raincoat,M,Beige,3,79.0,237.0
+2025-03,Raincoat,L,Black,20,79.0,1580.0
+2025-03,Raincoat,L,Navy,10,79.0,790.0
+2025-03,Raincoat,L,White,17,79.0,1343.0
+2025-03,Raincoat,L,Red,4,79.0,316.0
+2025-03,Raincoat,L,Olive,2,79.0,158.0
+2025-03,Raincoat,L,Beige,2,79.0,158.0
+2025-03,Knit Sweater,S,Black,14,69.0,966.0
+2025-03,Knit Sweater,S,Navy,11,69.0,759.0
+2025-03,Knit Sweater,S,White,7,69.0,483.0
+2025-03,Knit Sweater,S,Red,1,69.0,69.0
+2025-03,Knit Sweater,S,Olive,1,69.0,69.0
+2025-03,Knit Sweater,S,Beige,1,69.0,69.0
+2025-03,Knit Sweater,M,Black,15,69.0,1035.0
+2025-03,Knit Sweater,M,Navy,15,69.0,1035.0
+2025-03,Knit Sweater,M,White,7,69.0,483.0
+2025-03,Knit Sweater,M,Red,5,69.0,345.0
+2025-03,Knit Sweater,M,Olive,0,69.0,0.0
+2025-03,Knit Sweater,M,Beige,2,69.0,138.0
+2025-03,Knit Sweater,L,Black,15,69.0,1035.0
+2025-03,Knit Sweater,L,Navy,11,69.0,759.0
+2025-03,Knit Sweater,L,White,7,69.0,483.0
+2025-03,Knit Sweater,L,Red,3,69.0,207.0
+2025-03,Knit Sweater,L,Olive,1,69.0,69.0
+2025-03,Knit Sweater,L,Beige,2,69.0,138.0
+2025-03,Jeans,S,Black,14,89.0,1246.0
+2025-03,Jeans,S,Navy,9,89.0,801.0
+2025-03,Jeans,S,White,12,89.0,1068.0
+2025-03,Jeans,S,Red,7,89.0,623.0
+2025-03,Jeans,S,Olive,3,89.0,267.0
+2025-03,Jeans,S,Beige,2,89.0,178.0
+2025-03,Jeans,M,Black,30,89.0,2670.0
+2025-03,Jeans,M,Navy,25,89.0,2225.0
+2025-03,Jeans,M,White,16,89.0,1424.0
+2025-03,Jeans,M,Red,7,89.0,623.0
+2025-03,Jeans,M,Olive,2,89.0,178.0
+2025-03,Jeans,M,Beige,3,89.0,267.0
+2025-03,Jeans,L,Black,22,89.0,1958.0
+2025-03,Jeans,L,Navy,15,89.0,1335.0
+2025-03,Jeans,L,White,18,89.0,1602.0
+2025-03,Jeans,L,Red,2,89.0,178.0
+2025-03,Jeans,L,Olive,2,89.0,178.0
+2025-03,Jeans,L,Beige,0,89.0,0.0
+2025-03,T-Shirt,S,Black,21,25.0,525.0
+2025-03,T-Shirt,S,Navy,20,25.0,500.0
+2025-03,T-Shirt,S,White,8,25.0,200.0
+2025-03,T-Shirt,S,Red,5,25.0,125.0
+2025-03,T-Shirt,S,Olive,1,25.0,25.0
+2025-03,T-Shirt,S,Beige,2,25.0,50.0
+2025-03,T-Shirt,M,Black,32,25.0,800.0
+2025-03,T-Shirt,M,Navy,14,25.0,350.0
+2025-03,T-Shirt,M,White,20,25.0,500.0
+2025-03,T-Shirt,M,Red,11,25.0,275.0
+2025-03,T-Shirt,M,Olive,6,25.0,150.0
+2025-03,T-Shirt,M,Beige,3,25.0,75.0
+2025-03,T-Shirt,L,Black,26,25.0,650.0
+2025-03,T-Shirt,L,Navy,17,25.0,425.0
+2025-03,T-Shirt,L,White,10,25.0,250.0
+2025-03,T-Shirt,L,Red,9,25.0,225.0
+2025-03,T-Shirt,L,Olive,5,25.0,125.0
+2025-03,T-Shirt,L,Beige,7,25.0,175.0
+2025-03,Sneakers,S,Black,11,99.0,1089.0
+2025-03,Sneakers,S,Navy,7,99.0,693.0
+2025-03,Sneakers,S,White,3,99.0,297.0
+2025-03,Sneakers,S,Red,4,99.0,396.0
+2025-03,Sneakers,S,Olive,2,99.0,198.0
+2025-03,Sneakers,S,Beige,2,99.0,198.0
+2025-03,Sneakers,M,Black,24,99.0,2376.0
+2025-03,Sneakers,M,Navy,12,99.0,1188.0
+2025-03,Sneakers,M,White,6,99.0,594.0
+2025-03,Sneakers,M,Red,6,99.0,594.0
+2025-03,Sneakers,M,Olive,8,99.0,792.0
+2025-03,Sneakers,M,Beige,5,99.0,495.0
+2025-03,Sneakers,L,Black,20,99.0,1980.0
+2025-03,Sneakers,L,Navy,9,99.0,891.0
+2025-03,Sneakers,L,White,12,99.0,1188.0
+2025-03,Sneakers,L,Red,6,99.0,594.0
+2025-03,Sneakers,L,Olive,3,99.0,297.0
+2025-03,Sneakers,L,Beige,5,99.0,495.0
+2025-03,Boots,S,Black,12,119.0,1428.0
+2025-03,Boots,S,Navy,5,119.0,595.0
+2025-03,Boots,S,White,3,119.0,357.0
+2025-03,Boots,S,Red,1,119.0,119.0
+2025-03,Boots,S,Olive,1,119.0,119.0
+2025-03,Boots,S,Beige,1,119.0,119.0
+2025-03,Boots,M,Black,13,119.0,1547.0
+2025-03,Boots,M,Navy,5,119.0,595.0
+2025-03,Boots,M,White,5,119.0,595.0
+2025-03,Boots,M,Red,5,119.0,595.0
+2025-03,Boots,M,Olive,3,119.0,357.0
+2025-03,Boots,M,Beige,0,119.0,0.0
+2025-03,Boots,L,Black,10,119.0,1190.0
+2025-03,Boots,L,Navy,3,119.0,357.0
+2025-03,Boots,L,White,6,119.0,714.0
+2025-03,Boots,L,Red,0,119.0,0.0
+2025-03,Boots,L,Olive,4,119.0,476.0
+2025-03,Boots,L,Beige,1,119.0,119.0
+2025-04,Hoodie,S,Black,9,49.0,441.0
+2025-04,Hoodie,S,Navy,8,49.0,392.0
+2025-04,Hoodie,S,White,4,49.0,196.0
+2025-04,Hoodie,S,Red,9,49.0,441.0
+2025-04,Hoodie,S,Olive,2,49.0,98.0
+2025-04,Hoodie,S,Beige,0,49.0,0.0
+2025-04,Hoodie,M,Black,28,49.0,1372.0
+2025-04,Hoodie,M,Navy,17,49.0,833.0
+2025-04,Hoodie,M,White,6,49.0,294.0
+2025-04,Hoodie,M,Red,5,49.0,245.0
+2025-04,Hoodie,M,Olive,3,49.0,147.0
+2025-04,Hoodie,M,Beige,0,49.0,0.0
+2025-04,Hoodie,L,Black,12,49.0,588.0
+2025-04,Hoodie,L,Navy,18,49.0,882.0
+2025-04,Hoodie,L,White,8,49.0,392.0
+2025-04,Hoodie,L,Red,6,49.0,294.0
+2025-04,Hoodie,L,Olive,4,49.0,196.0
+2025-04,Hoodie,L,Beige,0,49.0,0.0
+2025-04,Puffer Jacket,S,Black,9,129.0,1161.0
+2025-04,Puffer Jacket,S,Navy,4,129.0,516.0
+2025-04,Puffer Jacket,S,White,3,129.0,387.0
+2025-04,Puffer Jacket,S,Red,5,129.0,645.0
+2025-04,Puffer Jacket,S,Olive,1,129.0,129.0
+2025-04,Puffer Jacket,S,Beige,2,129.0,258.0
+2025-04,Puffer Jacket,M,Black,14,129.0,1806.0
+2025-04,Puffer Jacket,M,Navy,5,129.0,645.0
+2025-04,Puffer Jacket,M,White,5,129.0,645.0
+2025-04,Puffer Jacket,M,Red,3,129.0,387.0
+2025-04,Puffer Jacket,M,Olive,1,129.0,129.0
+2025-04,Puffer Jacket,M,Beige,1,129.0,129.0
+2025-04,Puffer Jacket,L,Black,8,129.0,1032.0
+2025-04,Puffer Jacket,L,Navy,7,129.0,903.0
+2025-04,Puffer Jacket,L,White,2,129.0,258.0
+2025-04,Puffer Jacket,L,Red,1,129.0,129.0
+2025-04,Puffer Jacket,L,Olive,2,129.0,258.0
+2025-04,Puffer Jacket,L,Beige,2,129.0,258.0
+2025-04,Raincoat,S,Black,6,79.0,474.0
+2025-04,Raincoat,S,Navy,5,79.0,395.0
+2025-04,Raincoat,S,White,9,79.0,711.0
+2025-04,Raincoat,S,Red,8,79.0,632.0
+2025-04,Raincoat,S,Olive,4,79.0,316.0
+2025-04,Raincoat,S,Beige,0,79.0,0.0
+2025-04,Raincoat,M,Black,22,79.0,1738.0
+2025-04,Raincoat,M,Navy,8,79.0,632.0
+2025-04,Raincoat,M,White,8,79.0,632.0
+2025-04,Raincoat,M,Red,4,79.0,316.0
+2025-04,Raincoat,M,Olive,1,79.0,79.0
+2025-04,Raincoat,M,Beige,0,79.0,0.0
+2025-04,Raincoat,L,Black,12,79.0,948.0
+2025-04,Raincoat,L,Navy,7,79.0,553.0
+2025-04,Raincoat,L,White,12,79.0,948.0
+2025-04,Raincoat,L,Red,3,79.0,237.0
+2025-04,Raincoat,L,Olive,1,79.0,79.0
+2025-04,Raincoat,L,Beige,2,79.0,158.0
+2025-04,Knit Sweater,S,Black,9,69.0,621.0
+2025-04,Knit Sweater,S,Navy,9,69.0,621.0
+2025-04,Knit Sweater,S,White,4,69.0,276.0
+2025-04,Knit Sweater,S,Red,4,69.0,276.0
+2025-04,Knit Sweater,S,Olive,0,69.0,0.0
+2025-04,Knit Sweater,S,Beige,2,69.0,138.0
+2025-04,Knit Sweater,M,Black,18,69.0,1242.0
+2025-04,Knit Sweater,M,Navy,11,69.0,759.0
+2025-04,Knit Sweater,M,White,3,69.0,207.0
+2025-04,Knit Sweater,M,Red,1,69.0,69.0
+2025-04,Knit Sweater,M,Olive,2,69.0,138.0
+2025-04,Knit Sweater,M,Beige,2,69.0,138.0
+2025-04,Knit Sweater,L,Black,5,69.0,345.0
+2025-04,Knit Sweater,L,Navy,8,69.0,552.0
+2025-04,Knit Sweater,L,White,8,69.0,552.0
+2025-04,Knit Sweater,L,Red,2,69.0,138.0
+2025-04,Knit Sweater,L,Olive,3,69.0,207.0
+2025-04,Knit Sweater,L,Beige,3,69.0,207.0
+2025-04,Jeans,S,Black,10,89.0,890.0
+2025-04,Jeans,S,Navy,6,89.0,534.0
+2025-04,Jeans,S,White,7,89.0,623.0
+2025-04,Jeans,S,Red,4,89.0,356.0
+2025-04,Jeans,S,Olive,2,89.0,178.0
+2025-04,Jeans,S,Beige,1,89.0,89.0
+2025-04,Jeans,M,Black,15,89.0,1335.0
+2025-04,Jeans,M,Navy,10,89.0,890.0
+2025-04,Jeans,M,White,13,89.0,1157.0
+2025-04,Jeans,M,Red,2,89.0,178.0
+2025-04,Jeans,M,Olive,4,89.0,356.0
+2025-04,Jeans,M,Beige,1,89.0,89.0
+2025-04,Jeans,L,Black,17,89.0,1513.0
+2025-04,Jeans,L,Navy,13,89.0,1157.0
+2025-04,Jeans,L,White,13,89.0,1157.0
+2025-04,Jeans,L,Red,5,89.0,445.0
+2025-04,Jeans,L,Olive,1,89.0,89.0
+2025-04,Jeans,L,Beige,2,89.0,178.0
+2025-04,T-Shirt,S,Black,19,25.0,475.0
+2025-04,T-Shirt,S,Navy,8,25.0,200.0
+2025-04,T-Shirt,S,White,17,25.0,425.0
+2025-04,T-Shirt,S,Red,9,25.0,225.0
+2025-04,T-Shirt,S,Olive,1,25.0,25.0
+2025-04,T-Shirt,S,Beige,3,25.0,75.0
+2025-04,T-Shirt,M,Black,34,25.0,850.0
+2025-04,T-Shirt,M,Navy,23,25.0,575.0
+2025-04,T-Shirt,M,White,5,25.0,125.0
+2025-04,T-Shirt,M,Red,6,25.0,150.0
+2025-04,T-Shirt,M,Olive,5,25.0,125.0
+2025-04,T-Shirt,M,Beige,4,25.0,100.0
+2025-04,T-Shirt,L,Black,21,25.0,525.0
+2025-04,T-Shirt,L,Navy,15,25.0,375.0
+2025-04,T-Shirt,L,White,14,25.0,350.0
+2025-04,T-Shirt,L,Red,5,25.0,125.0
+2025-04,T-Shirt,L,Olive,1,25.0,25.0
+2025-04,T-Shirt,L,Beige,2,25.0,50.0
+2025-04,Sneakers,S,Black,14,99.0,1386.0
+2025-04,Sneakers,S,Navy,12,99.0,1188.0
+2025-04,Sneakers,S,White,4,99.0,396.0
+2025-04,Sneakers,S,Red,4,99.0,396.0
+2025-04,Sneakers,S,Olive,2,99.0,198.0
+2025-04,Sneakers,S,Beige,0,99.0,0.0
+2025-04,Sneakers,M,Black,15,99.0,1485.0
+2025-04,Sneakers,M,Navy,15,99.0,1485.0
+2025-04,Sneakers,M,White,14,99.0,1386.0
+2025-04,Sneakers,M,Red,5,99.0,495.0
+2025-04,Sneakers,M,Olive,5,99.0,495.0
+2025-04,Sneakers,M,Beige,1,99.0,99.0
+2025-04,Sneakers,L,Black,23,99.0,2277.0
+2025-04,Sneakers,L,Navy,13,99.0,1287.0
+2025-04,Sneakers,L,White,13,99.0,1287.0
+2025-04,Sneakers,L,Red,7,99.0,693.0
+2025-04,Sneakers,L,Olive,1,99.0,99.0
+2025-04,Sneakers,L,Beige,4,99.0,396.0
+2025-04,Boots,S,Black,4,119.0,476.0
+2025-04,Boots,S,Navy,4,119.0,476.0
+2025-04,Boots,S,White,3,119.0,357.0
+2025-04,Boots,S,Red,0,119.0,0.0
+2025-04,Boots,S,Olive,1,119.0,119.0
+2025-04,Boots,S,Beige,0,119.0,0.0
+2025-04,Boots,M,Black,8,119.0,952.0
+2025-04,Boots,M,Navy,7,119.0,833.0
+2025-04,Boots,M,White,3,119.0,357.0
+2025-04,Boots,M,Red,5,119.0,595.0
+2025-04,Boots,M,Olive,2,119.0,238.0
+2025-04,Boots,M,Beige,1,119.0,119.0
+2025-04,Boots,L,Black,9,119.0,1071.0
+2025-04,Boots,L,Navy,4,119.0,476.0
+2025-04,Boots,L,White,3,119.0,357.0
+2025-04,Boots,L,Red,3,119.0,357.0
+2025-04,Boots,L,Olive,2,119.0,238.0
+2025-04,Boots,L,Beige,1,119.0,119.0
+2025-05,Hoodie,S,Black,10,49.0,490.0
+2025-05,Hoodie,S,Navy,3,49.0,147.0
+2025-05,Hoodie,S,White,3,49.0,147.0
+2025-05,Hoodie,S,Red,3,49.0,147.0
+2025-05,Hoodie,S,Olive,1,49.0,49.0
+2025-05,Hoodie,S,Beige,0,49.0,0.0
+2025-05,Hoodie,M,Black,12,49.0,588.0
+2025-05,Hoodie,M,Navy,13,49.0,637.0
+2025-05,Hoodie,M,White,13,49.0,637.0
+2025-05,Hoodie,M,Red,2,49.0,98.0
+2025-05,Hoodie,M,Olive,2,49.0,98.0
+2025-05,Hoodie,M,Beige,0,49.0,0.0
+2025-05,Hoodie,L,Black,17,49.0,833.0
+2025-05,Hoodie,L,Navy,7,49.0,343.0
+2025-05,Hoodie,L,White,9,49.0,441.0
+2025-05,Hoodie,L,Red,6,49.0,294.0
+2025-05,Hoodie,L,Olive,2,49.0,98.0
+2025-05,Hoodie,L,Beige,1,49.0,49.0
+2025-05,Puffer Jacket,S,Black,8,129.0,1032.0
+2025-05,Puffer Jacket,S,Navy,13,129.0,1677.0
+2025-05,Puffer Jacket,S,White,5,129.0,645.0
+2025-05,Puffer Jacket,S,Red,3,129.0,387.0
+2025-05,Puffer Jacket,S,Olive,1,129.0,129.0
+2025-05,Puffer Jacket,S,Beige,0,129.0,0.0
+2025-05,Puffer Jacket,M,Black,11,129.0,1419.0
+2025-05,Puffer Jacket,M,Navy,11,129.0,1419.0
+2025-05,Puffer Jacket,M,White,9,129.0,1161.0
+2025-05,Puffer Jacket,M,Red,3,129.0,387.0
+2025-05,Puffer Jacket,M,Olive,1,129.0,129.0
+2025-05,Puffer Jacket,M,Beige,3,129.0,387.0
+2025-05,Puffer Jacket,L,Black,11,129.0,1419.0
+2025-05,Puffer Jacket,L,Navy,10,129.0,1290.0
+2025-05,Puffer Jacket,L,White,7,129.0,903.0
+2025-05,Puffer Jacket,L,Red,4,129.0,516.0
+2025-05,Puffer Jacket,L,Olive,1,129.0,129.0
+2025-05,Puffer Jacket,L,Beige,2,129.0,258.0
+2025-05,Raincoat,S,Black,6,79.0,474.0
+2025-05,Raincoat,S,Navy,7,79.0,553.0
+2025-05,Raincoat,S,White,4,79.0,316.0
+2025-05,Raincoat,S,Red,4,79.0,316.0
+2025-05,Raincoat,S,Olive,1,79.0,79.0
+2025-05,Raincoat,S,Beige,1,79.0,79.0
+2025-05,Raincoat,M,Black,19,79.0,1501.0
+2025-05,Raincoat,M,Navy,10,79.0,790.0
+2025-05,Raincoat,M,White,10,79.0,790.0
+2025-05,Raincoat,M,Red,5,79.0,395.0
+2025-05,Raincoat,M,Olive,1,79.0,79.0
+2025-05,Raincoat,M,Beige,4,79.0,316.0
+2025-05,Raincoat,L,Black,15,79.0,1185.0
+2025-05,Raincoat,L,Navy,15,79.0,1185.0
+2025-05,Raincoat,L,White,7,79.0,553.0
+2025-05,Raincoat,L,Red,5,79.0,395.0
+2025-05,Raincoat,L,Olive,2,79.0,158.0
+2025-05,Raincoat,L,Beige,1,79.0,79.0
+2025-05,Knit Sweater,S,Black,10,69.0,690.0
+2025-05,Knit Sweater,S,Navy,9,69.0,621.0
+2025-05,Knit Sweater,S,White,5,69.0,345.0
+2025-05,Knit Sweater,S,Red,2,69.0,138.0
+2025-05,Knit Sweater,S,Olive,0,69.0,0.0
+2025-05,Knit Sweater,S,Beige,0,69.0,0.0
+2025-05,Knit Sweater,M,Black,14,69.0,966.0
+2025-05,Knit Sweater,M,Navy,9,69.0,621.0
+2025-05,Knit Sweater,M,White,4,69.0,276.0
+2025-05,Knit Sweater,M,Red,4,69.0,276.0
+2025-05,Knit Sweater,M,Olive,1,69.0,69.0
+2025-05,Knit Sweater,M,Beige,1,69.0,69.0
+2025-05,Knit Sweater,L,Black,9,69.0,621.0
+2025-05,Knit Sweater,L,Navy,12,69.0,828.0
+2025-05,Knit Sweater,L,White,5,69.0,345.0
+2025-05,Knit Sweater,L,Red,3,69.0,207.0
+2025-05,Knit Sweater,L,Olive,5,69.0,345.0
+2025-05,Knit Sweater,L,Beige,0,69.0,0.0
+2025-05,Jeans,S,Black,10,89.0,890.0
+2025-05,Jeans,S,Navy,15,89.0,1335.0
+2025-05,Jeans,S,White,5,89.0,445.0
+2025-05,Jeans,S,Red,5,89.0,445.0
+2025-05,Jeans,S,Olive,3,89.0,267.0
+2025-05,Jeans,S,Beige,0,89.0,0.0
+2025-05,Jeans,M,Black,23,89.0,2047.0
+2025-05,Jeans,M,Navy,19,89.0,1691.0
+2025-05,Jeans,M,White,19,89.0,1691.0
+2025-05,Jeans,M,Red,9,89.0,801.0
+2025-05,Jeans,M,Olive,2,89.0,178.0
+2025-05,Jeans,M,Beige,0,89.0,0.0
+2025-05,Jeans,L,Black,21,89.0,1869.0
+2025-05,Jeans,L,Navy,17,89.0,1513.0
+2025-05,Jeans,L,White,11,89.0,979.0
+2025-05,Jeans,L,Red,15,89.0,1335.0
+2025-05,Jeans,L,Olive,4,89.0,356.0
+2025-05,Jeans,L,Beige,4,89.0,356.0
+2025-05,T-Shirt,S,Black,21,25.0,525.0
+2025-05,T-Shirt,S,Navy,9,25.0,225.0
+2025-05,T-Shirt,S,White,15,25.0,375.0
+2025-05,T-Shirt,S,Red,3,25.0,75.0
+2025-05,T-Shirt,S,Olive,5,25.0,125.0
+2025-05,T-Shirt,S,Beige,4,25.0,100.0
+2025-05,T-Shirt,M,Black,38,25.0,950.0
+2025-05,T-Shirt,M,Navy,26,25.0,650.0
+2025-05,T-Shirt,M,White,20,25.0,500.0
+2025-05,T-Shirt,M,Red,12,25.0,300.0
+2025-05,T-Shirt,M,Olive,1,25.0,25.0
+2025-05,T-Shirt,M,Beige,6,25.0,150.0
+2025-05,T-Shirt,L,Black,32,25.0,800.0
+2025-05,T-Shirt,L,Navy,31,25.0,775.0
+2025-05,T-Shirt,L,White,22,25.0,550.0
+2025-05,T-Shirt,L,Red,6,25.0,150.0
+2025-05,T-Shirt,L,Olive,1,25.0,25.0
+2025-05,T-Shirt,L,Beige,2,25.0,50.0
+2025-05,Sneakers,S,Black,19,99.0,1881.0
+2025-05,Sneakers,S,Navy,12,99.0,1188.0
+2025-05,Sneakers,S,White,11,99.0,1089.0
+2025-05,Sneakers,S,Red,5,99.0,495.0
+2025-05,Sneakers,S,Olive,5,99.0,495.0
+2025-05,Sneakers,S,Beige,2,99.0,198.0
+2025-05,Sneakers,M,Black,34,99.0,3366.0
+2025-05,Sneakers,M,Navy,28,99.0,2772.0
+2025-05,Sneakers,M,White,19,99.0,1881.0
+2025-05,Sneakers,M,Red,9,99.0,891.0
+2025-05,Sneakers,M,Olive,4,99.0,396.0
+2025-05,Sneakers,M,Beige,4,99.0,396.0
+2025-05,Sneakers,L,Black,30,99.0,2970.0
+2025-05,Sneakers,L,Navy,18,99.0,1782.0
+2025-05,Sneakers,L,White,13,99.0,1287.0
+2025-05,Sneakers,L,Red,3,99.0,297.0
+2025-05,Sneakers,L,Olive,4,99.0,396.0
+2025-05,Sneakers,L,Beige,3,99.0,297.0
+2025-05,Boots,S,Black,5,119.0,595.0
+2025-05,Boots,S,Navy,2,119.0,238.0
+2025-05,Boots,S,White,4,119.0,476.0
+2025-05,Boots,S,Red,2,119.0,238.0
+2025-05,Boots,S,Olive,2,119.0,238.0
+2025-05,Boots,S,Beige,1,119.0,119.0
+2025-05,Boots,M,Black,8,119.0,952.0
+2025-05,Boots,M,Navy,7,119.0,833.0
+2025-05,Boots,M,White,5,119.0,595.0
+2025-05,Boots,M,Red,3,119.0,357.0
+2025-05,Boots,M,Olive,0,119.0,0.0
+2025-05,Boots,M,Beige,3,119.0,357.0
+2025-05,Boots,L,Black,12,119.0,1428.0
+2025-05,Boots,L,Navy,4,119.0,476.0
+2025-05,Boots,L,White,6,119.0,714.0
+2025-05,Boots,L,Red,2,119.0,238.0
+2025-05,Boots,L,Olive,2,119.0,238.0
+2025-05,Boots,L,Beige,0,119.0,0.0
+2025-06,Hoodie,S,Black,12,49.0,588.0
+2025-06,Hoodie,S,Navy,8,49.0,392.0
+2025-06,Hoodie,S,White,4,49.0,196.0
+2025-06,Hoodie,S,Red,1,49.0,49.0
+2025-06,Hoodie,S,Olive,6,49.0,294.0
+2025-06,Hoodie,S,Beige,1,49.0,49.0
+2025-06,Hoodie,M,Black,14,49.0,686.0
+2025-06,Hoodie,M,Navy,12,49.0,588.0
+2025-06,Hoodie,M,White,13,49.0,637.0
+2025-06,Hoodie,M,Red,3,49.0,147.0
+2025-06,Hoodie,M,Olive,1,49.0,49.0
+2025-06,Hoodie,M,Beige,1,49.0,49.0
+2025-06,Hoodie,L,Black,17,49.0,833.0
+2025-06,Hoodie,L,Navy,13,49.0,637.0
+2025-06,Hoodie,L,White,6,49.0,294.0
+2025-06,Hoodie,L,Red,7,49.0,343.0
+2025-06,Hoodie,L,Olive,3,49.0,147.0
+2025-06,Hoodie,L,Beige,2,49.0,98.0
+2025-06,Puffer Jacket,S,Black,13,129.0,1677.0
+2025-06,Puffer Jacket,S,Navy,5,129.0,645.0
+2025-06,Puffer Jacket,S,White,5,129.0,645.0
+2025-06,Puffer Jacket,S,Red,2,129.0,258.0
+2025-06,Puffer Jacket,S,Olive,3,129.0,387.0
+2025-06,Puffer Jacket,S,Beige,0,129.0,0.0
+2025-06,Puffer Jacket,M,Black,15,129.0,1935.0
+2025-06,Puffer Jacket,M,Navy,8,129.0,1032.0
+2025-06,Puffer Jacket,M,White,6,129.0,774.0
+2025-06,Puffer Jacket,M,Red,6,129.0,774.0
+2025-06,Puffer Jacket,M,Olive,2,129.0,258.0
+2025-06,Puffer Jacket,M,Beige,1,129.0,129.0
+2025-06,Puffer Jacket,L,Black,17,129.0,2193.0
+2025-06,Puffer Jacket,L,Navy,6,129.0,774.0
+2025-06,Puffer Jacket,L,White,7,129.0,903.0
+2025-06,Puffer Jacket,L,Red,0,129.0,0.0
+2025-06,Puffer Jacket,L,Olive,0,129.0,0.0
+2025-06,Puffer Jacket,L,Beige,1,129.0,129.0
+2025-06,Raincoat,S,Black,5,79.0,395.0
+2025-06,Raincoat,S,Navy,4,79.0,316.0
+2025-06,Raincoat,S,White,3,79.0,237.0
+2025-06,Raincoat,S,Red,1,79.0,79.0
+2025-06,Raincoat,S,Olive,2,79.0,158.0
+2025-06,Raincoat,S,Beige,0,79.0,0.0
+2025-06,Raincoat,M,Black,18,79.0,1422.0
+2025-06,Raincoat,M,Navy,13,79.0,1027.0
+2025-06,Raincoat,M,White,4,79.0,316.0
+2025-06,Raincoat,M,Red,5,79.0,395.0
+2025-06,Raincoat,M,Olive,0,79.0,0.0
+2025-06,Raincoat,M,Beige,0,79.0,0.0
+2025-06,Raincoat,L,Black,8,79.0,632.0
+2025-06,Raincoat,L,Navy,5,79.0,395.0
+2025-06,Raincoat,L,White,3,79.0,237.0
+2025-06,Raincoat,L,Red,5,79.0,395.0
+2025-06,Raincoat,L,Olive,1,79.0,79.0
+2025-06,Raincoat,L,Beige,1,79.0,79.0
+2025-06,Knit Sweater,S,Black,9,69.0,621.0
+2025-06,Knit Sweater,S,Navy,5,69.0,345.0
+2025-06,Knit Sweater,S,White,3,69.0,207.0
+2025-06,Knit Sweater,S,Red,2,69.0,138.0
+2025-06,Knit Sweater,S,Olive,0,69.0,0.0
+2025-06,Knit Sweater,S,Beige,2,69.0,138.0
+2025-06,Knit Sweater,M,Black,7,69.0,483.0
+2025-06,Knit Sweater,M,Navy,8,69.0,552.0
+2025-06,Knit Sweater,M,White,7,69.0,483.0
+2025-06,Knit Sweater,M,Red,2,69.0,138.0
+2025-06,Knit Sweater,M,Olive,1,69.0,69.0
+2025-06,Knit Sweater,M,Beige,5,69.0,345.0
+2025-06,Knit Sweater,L,Black,9,69.0,621.0
+2025-06,Knit Sweater,L,Navy,6,69.0,414.0
+2025-06,Knit Sweater,L,White,7,69.0,483.0
+2025-06,Knit Sweater,L,Red,1,69.0,69.0
+2025-06,Knit Sweater,L,Olive,2,69.0,138.0
+2025-06,Knit Sweater,L,Beige,1,69.0,69.0
+2025-06,Jeans,S,Black,11,89.0,979.0
+2025-06,Jeans,S,Navy,6,89.0,534.0
+2025-06,Jeans,S,White,4,89.0,356.0
+2025-06,Jeans,S,Red,4,89.0,356.0
+2025-06,Jeans,S,Olive,1,89.0,89.0
+2025-06,Jeans,S,Beige,3,89.0,267.0
+2025-06,Jeans,M,Black,20,89.0,1780.0
+2025-06,Jeans,M,Navy,21,89.0,1869.0
+2025-06,Jeans,M,White,6,89.0,534.0
+2025-06,Jeans,M,Red,4,89.0,356.0
+2025-06,Jeans,M,Olive,2,89.0,178.0
+2025-06,Jeans,M,Beige,4,89.0,356.0
+2025-06,Jeans,L,Black,24,89.0,2136.0
+2025-06,Jeans,L,Navy,11,89.0,979.0
+2025-06,Jeans,L,White,8,89.0,712.0
+2025-06,Jeans,L,Red,2,89.0,178.0
+2025-06,Jeans,L,Olive,3,89.0,267.0
+2025-06,Jeans,L,Beige,2,89.0,178.0
+2025-06,T-Shirt,S,Black,31,25.0,775.0
+2025-06,T-Shirt,S,Navy,21,25.0,525.0
+2025-06,T-Shirt,S,White,15,25.0,375.0
+2025-06,T-Shirt,S,Red,9,25.0,225.0
+2025-06,T-Shirt,S,Olive,4,25.0,100.0
+2025-06,T-Shirt,S,Beige,4,25.0,100.0
+2025-06,T-Shirt,M,Black,53,25.0,1325.0
+2025-06,T-Shirt,M,Navy,38,25.0,950.0
+2025-06,T-Shirt,M,White,32,25.0,800.0
+2025-06,T-Shirt,M,Red,15,25.0,375.0
+2025-06,T-Shirt,M,Olive,5,25.0,125.0
+2025-06,T-Shirt,M,Beige,11,25.0,275.0
+2025-06,T-Shirt,L,Black,50,25.0,1250.0
+2025-06,T-Shirt,L,Navy,34,25.0,850.0
+2025-06,T-Shirt,L,White,36,25.0,900.0
+2025-06,T-Shirt,L,Red,14,25.0,350.0
+2025-06,T-Shirt,L,Olive,3,25.0,75.0
+2025-06,T-Shirt,L,Beige,4,25.0,100.0
+2025-06,Sneakers,S,Black,21,99.0,2079.0
+2025-06,Sneakers,S,Navy,14,99.0,1386.0
+2025-06,Sneakers,S,White,15,99.0,1485.0
+2025-06,Sneakers,S,Red,10,99.0,990.0
+2025-06,Sneakers,S,Olive,5,99.0,495.0
+2025-06,Sneakers,S,Beige,2,99.0,198.0
+2025-06,Sneakers,M,Black,45,99.0,4455.0
+2025-06,Sneakers,M,Navy,28,99.0,2772.0
+2025-06,Sneakers,M,White,16,99.0,1584.0
+2025-06,Sneakers,M,Red,13,99.0,1287.0
+2025-06,Sneakers,M,Olive,8,99.0,792.0
+2025-06,Sneakers,M,Beige,3,99.0,297.0
+2025-06,Sneakers,L,Black,22,99.0,2178.0
+2025-06,Sneakers,L,Navy,15,99.0,1485.0
+2025-06,Sneakers,L,White,15,99.0,1485.0
+2025-06,Sneakers,L,Red,8,99.0,792.0
+2025-06,Sneakers,L,Olive,9,99.0,891.0
+2025-06,Sneakers,L,Beige,9,99.0,891.0
+2025-06,Boots,S,Black,2,119.0,238.0
+2025-06,Boots,S,Navy,4,119.0,476.0
+2025-06,Boots,S,White,2,119.0,238.0
+2025-06,Boots,S,Red,4,119.0,476.0
+2025-06,Boots,S,Olive,0,119.0,0.0
+2025-06,Boots,S,Beige,0,119.0,0.0
+2025-06,Boots,M,Black,12,119.0,1428.0
+2025-06,Boots,M,Navy,4,119.0,476.0
+2025-06,Boots,M,White,4,119.0,476.0
+2025-06,Boots,M,Red,3,119.0,357.0
+2025-06,Boots,M,Olive,2,119.0,238.0
+2025-06,Boots,M,Beige,3,119.0,357.0
+2025-06,Boots,L,Black,5,119.0,595.0
+2025-06,Boots,L,Navy,5,119.0,595.0
+2025-06,Boots,L,White,5,119.0,595.0
+2025-06,Boots,L,Red,5,119.0,595.0
+2025-06,Boots,L,Olive,1,119.0,119.0
+2025-06,Boots,L,Beige,0,119.0,0.0
+2025-07,Hoodie,S,Black,9,49.0,441.0
+2025-07,Hoodie,S,Navy,8,49.0,392.0
+2025-07,Hoodie,S,White,6,49.0,294.0
+2025-07,Hoodie,S,Red,2,49.0,98.0
+2025-07,Hoodie,S,Olive,1,49.0,49.0
+2025-07,Hoodie,S,Beige,1,49.0,49.0
+2025-07,Hoodie,M,Black,12,49.0,588.0
+2025-07,Hoodie,M,Navy,7,49.0,343.0
+2025-07,Hoodie,M,White,5,49.0,245.0
+2025-07,Hoodie,M,Red,6,49.0,294.0
+2025-07,Hoodie,M,Olive,2,49.0,98.0
+2025-07,Hoodie,M,Beige,2,49.0,98.0
+2025-07,Hoodie,L,Black,10,49.0,490.0
+2025-07,Hoodie,L,Navy,5,49.0,245.0
+2025-07,Hoodie,L,White,6,49.0,294.0
+2025-07,Hoodie,L,Red,6,49.0,294.0
+2025-07,Hoodie,L,Olive,3,49.0,147.0
+2025-07,Hoodie,L,Beige,1,49.0,49.0
+2025-07,Puffer Jacket,S,Black,7,129.0,903.0
+2025-07,Puffer Jacket,S,Navy,3,129.0,387.0
+2025-07,Puffer Jacket,S,White,4,129.0,516.0
+2025-07,Puffer Jacket,S,Red,1,129.0,129.0
+2025-07,Puffer Jacket,S,Olive,2,129.0,258.0
+2025-07,Puffer Jacket,S,Beige,1,129.0,129.0
+2025-07,Puffer Jacket,M,Black,9,129.0,1161.0
+2025-07,Puffer Jacket,M,Navy,8,129.0,1032.0
+2025-07,Puffer Jacket,M,White,5,129.0,645.0
+2025-07,Puffer Jacket,M,Red,7,129.0,903.0
+2025-07,Puffer Jacket,M,Olive,0,129.0,0.0
+2025-07,Puffer Jacket,M,Beige,2,129.0,258.0
+2025-07,Puffer Jacket,L,Black,9,129.0,1161.0
+2025-07,Puffer Jacket,L,Navy,6,129.0,774.0
+2025-07,Puffer Jacket,L,White,3,129.0,387.0
+2025-07,Puffer Jacket,L,Red,0,129.0,0.0
+2025-07,Puffer Jacket,L,Olive,3,129.0,387.0
+2025-07,Puffer Jacket,L,Beige,1,129.0,129.0
+2025-07,Raincoat,S,Black,5,79.0,395.0
+2025-07,Raincoat,S,Navy,3,79.0,237.0
+2025-07,Raincoat,S,White,3,79.0,237.0
+2025-07,Raincoat,S,Red,1,79.0,79.0
+2025-07,Raincoat,S,Olive,1,79.0,79.0
+2025-07,Raincoat,S,Beige,1,79.0,79.0
+2025-07,Raincoat,M,Black,13,79.0,1027.0
+2025-07,Raincoat,M,Navy,6,79.0,474.0
+2025-07,Raincoat,M,White,6,79.0,474.0
+2025-07,Raincoat,M,Red,3,79.0,237.0
+2025-07,Raincoat,M,Olive,2,79.0,158.0
+2025-07,Raincoat,M,Beige,3,79.0,237.0
+2025-07,Raincoat,L,Black,11,79.0,869.0
+2025-07,Raincoat,L,Navy,12,79.0,948.0
+2025-07,Raincoat,L,White,9,79.0,711.0
+2025-07,Raincoat,L,Red,3,79.0,237.0
+2025-07,Raincoat,L,Olive,2,79.0,158.0
+2025-07,Raincoat,L,Beige,1,79.0,79.0
+2025-07,Knit Sweater,S,Black,10,69.0,690.0
+2025-07,Knit Sweater,S,Navy,7,69.0,483.0
+2025-07,Knit Sweater,S,White,4,69.0,276.0
+2025-07,Knit Sweater,S,Red,2,69.0,138.0
+2025-07,Knit Sweater,S,Olive,0,69.0,0.0
+2025-07,Knit Sweater,S,Beige,1,69.0,69.0
+2025-07,Knit Sweater,M,Black,13,69.0,897.0
+2025-07,Knit Sweater,M,Navy,15,69.0,1035.0
+2025-07,Knit Sweater,M,White,6,69.0,414.0
+2025-07,Knit Sweater,M,Red,7,69.0,483.0
+2025-07,Knit Sweater,M,Olive,1,69.0,69.0
+2025-07,Knit Sweater,M,Beige,1,69.0,69.0
+2025-07,Knit Sweater,L,Black,13,69.0,897.0
+2025-07,Knit Sweater,L,Navy,10,69.0,690.0
+2025-07,Knit Sweater,L,White,11,69.0,759.0
+2025-07,Knit Sweater,L,Red,6,69.0,414.0
+2025-07,Knit Sweater,L,Olive,1,69.0,69.0
+2025-07,Knit Sweater,L,Beige,4,69.0,276.0
+2025-07,Jeans,S,Black,20,89.0,1780.0
+2025-07,Jeans,S,Navy,14,89.0,1246.0
+2025-07,Jeans,S,White,13,89.0,1157.0
+2025-07,Jeans,S,Red,5,89.0,445.0
+2025-07,Jeans,S,Olive,1,89.0,89.0
+2025-07,Jeans,S,Beige,3,89.0,267.0
+2025-07,Jeans,M,Black,31,89.0,2759.0
+2025-07,Jeans,M,Navy,26,89.0,2314.0
+2025-07,Jeans,M,White,20,89.0,1780.0
+2025-07,Jeans,M,Red,12,89.0,1068.0
+2025-07,Jeans,M,Olive,3,89.0,267.0
+2025-07,Jeans,M,Beige,5,89.0,445.0
+2025-07,Jeans,L,Black,22,89.0,1958.0
+2025-07,Jeans,L,Navy,16,89.0,1424.0
+2025-07,Jeans,L,White,18,89.0,1602.0
+2025-07,Jeans,L,Red,7,89.0,623.0
+2025-07,Jeans,L,Olive,7,89.0,623.0
+2025-07,Jeans,L,Beige,3,89.0,267.0
+2025-07,T-Shirt,S,Black,15,25.0,375.0
+2025-07,T-Shirt,S,Navy,17,25.0,425.0
+2025-07,T-Shirt,S,White,13,25.0,325.0
+2025-07,T-Shirt,S,Red,11,25.0,275.0
+2025-07,T-Shirt,S,Olive,3,25.0,75.0
+2025-07,T-Shirt,S,Beige,3,25.0,75.0
+2025-07,T-Shirt,M,Black,49,25.0,1225.0
+2025-07,T-Shirt,M,Navy,26,25.0,650.0
+2025-07,T-Shirt,M,White,24,25.0,600.0
+2025-07,T-Shirt,M,Red,10,25.0,250.0
+2025-07,T-Shirt,M,Olive,2,25.0,50.0
+2025-07,T-Shirt,M,Beige,5,25.0,125.0
+2025-07,T-Shirt,L,Black,31,25.0,775.0
+2025-07,T-Shirt,L,Navy,30,25.0,750.0
+2025-07,T-Shirt,L,White,27,25.0,675.0
+2025-07,T-Shirt,L,Red,8,25.0,200.0
+2025-07,T-Shirt,L,Olive,9,25.0,225.0
+2025-07,T-Shirt,L,Beige,3,25.0,75.0
+2025-07,Sneakers,S,Black,17,99.0,1683.0
+2025-07,Sneakers,S,Navy,15,99.0,1485.0
+2025-07,Sneakers,S,White,12,99.0,1188.0
+2025-07,Sneakers,S,Red,11,99.0,1089.0
+2025-07,Sneakers,S,Olive,2,99.0,198.0
+2025-07,Sneakers,S,Beige,5,99.0,495.0
+2025-07,Sneakers,M,Black,40,99.0,3960.0
+2025-07,Sneakers,M,Navy,26,99.0,2574.0
+2025-07,Sneakers,M,White,32,99.0,3168.0
+2025-07,Sneakers,M,Red,9,99.0,891.0
+2025-07,Sneakers,M,Olive,7,99.0,693.0
+2025-07,Sneakers,M,Beige,4,99.0,396.0
+2025-07,Sneakers,L,Black,31,99.0,3069.0
+2025-07,Sneakers,L,Navy,25,99.0,2475.0
+2025-07,Sneakers,L,White,25,99.0,2475.0
+2025-07,Sneakers,L,Red,10,99.0,990.0
+2025-07,Sneakers,L,Olive,6,99.0,594.0
+2025-07,Sneakers,L,Beige,5,99.0,495.0
+2025-07,Boots,S,Black,7,119.0,833.0
+2025-07,Boots,S,Navy,4,119.0,476.0
+2025-07,Boots,S,White,8,119.0,952.0
+2025-07,Boots,S,Red,2,119.0,238.0
+2025-07,Boots,S,Olive,0,119.0,0.0
+2025-07,Boots,S,Beige,1,119.0,119.0
+2025-07,Boots,M,Black,12,119.0,1428.0
+2025-07,Boots,M,Navy,4,119.0,476.0
+2025-07,Boots,M,White,11,119.0,1309.0
+2025-07,Boots,M,Red,2,119.0,238.0
+2025-07,Boots,M,Olive,1,119.0,119.0
+2025-07,Boots,M,Beige,2,119.0,238.0
+2025-07,Boots,L,Black,6,119.0,714.0
+2025-07,Boots,L,Navy,3,119.0,357.0
+2025-07,Boots,L,White,6,119.0,714.0
+2025-07,Boots,L,Red,9,119.0,1071.0
+2025-07,Boots,L,Olive,2,119.0,238.0
+2025-07,Boots,L,Beige,5,119.0,595.0
