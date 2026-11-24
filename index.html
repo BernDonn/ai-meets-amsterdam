@@ -72,7 +72,7 @@
   <a class="skip" href="#inhoud">Direct naar inhoud</a>
   <header><div class="wrap"><nav aria-label="Navigatie">
     <a class="brand" href="./">AI meets Amsterdam Business</a>
-    <div class="nav-links"><button type="button" id="hermes-toggle" aria-controls="hermes-install" aria-expanded="false">Hermes installeren</button><a href="#oefening">Black Friday</a><a href="#gemini-notebook">Notebook RFP offerte</a><a href="#bio">Over Bernard</a></div>
+    <div class="nav-links"><button type="button" id="hermes-toggle" aria-controls="hermes-install" aria-expanded="false">Hermes installeren</button><a href="#oefening">Black Friday</a><a href="#gemini-notebook">Notebook RFP offerte</a><a href="#foto-inspreken">Foto + inspreken</a><a href="#bio">Over Bernard</a></div>
   </nav></div></header>
   <main id="inhoud" class="wrap">
     <section class="hero" aria-labelledby="titel">
@@ -85,7 +85,7 @@
       </aside>
       <p class="lead">Welkom. Hier vind je de contactgegevens en achtergrond van Bernard Donners en straks het materiaal voor de Black Friday-oefening.</p>
       <p>Bewaar deze pagina: <strong>berndonn.github.io/ai-meets-amsterdam/</strong> blijft de vaste ingang, ook als het materiaal wordt aangevuld.</p>
-      <div class="actions" style="flex-direction:column;align-items:stretch;max-width:360px"><a class="button primary" href="#oefening">Black Friday-oefening</a><a class="button primary" href="#gemini-notebook">Notebook RFP offerte</a></div>
+      <div class="actions" style="flex-direction:column;align-items:stretch;max-width:360px"><a class="button primary" href="#oefening">Black Friday-oefening</a><a class="button primary" href="#gemini-notebook">Notebook RFP offerte</a><a class="button primary" href="#foto-inspreken">Foto + inspreken</a></div>
     </section>
     <section id="gemini-notebook" class="panel" aria-labelledby="notebook-titel">
       <p class="eyebrow">Zelf oefenen met documenten</p>
@@ -170,6 +170,21 @@
         <p>Krijg je een HTML-bestand? Download het en open het in je browser. Lukt het nog niet of bereik je een gebruikslimiet? Vraag de begeleider om hulp.</p>
       </div>
     </section>
+    <section id="foto-inspreken" class="panel" aria-labelledby="foto-inspreken-titel">
+      <span class="status">AI-assistent (niet agentic)</span>
+      <h2 id="foto-inspreken-titel">Foto + inspreken oefening</h2>
+      <ol>
+        <li>Maak een foto van de koets (of een ander voorwerp in de ruimte).</li>
+        <li>Open een nieuw gewoon gesprek in <a href="https://claude.ai/">Claude</a> en voeg je foto toe.</li>
+        <li>Spreek de eerste tekst hieronder in via de toetsenborddictatie, of kopieer en plak hem. Verstuur de opdracht.</li>
+        <li>Geef de tweede opdracht in hetzelfde gesprek.</li>
+      </ol>
+      <h3>1. Bekijk de foto en bereid de informatie voor</h3>
+      <blockquote>Ik wil bij deze koets een kort informatiebordje voor bezoekers maken. Beschrijf eerst wat je op de foto ziet. Geef daarna aan welke informatie ik bij de museumbeheerder moet opvragen om een betrouwbare tekst te kunnen maken. Zet dat in een korte tabel: Punt, Actie en Nog te vragen. Raad niet naar het bouwjaar, de maker of de geschiedenis.</blockquote>
+      <h3>2. Maak een conceptbordje</h3>
+      <blockquote>Maak alvast een conceptbordje van maximaal tachtig woorden. Gebruik alleen wat je zeker kunt beschrijven en zet ontbrekende historische informatie tussen vierkante haken.</blockquote>
+      <p>Controleer zelf de beschrijving en vul historische informatie pas aan met bevestigde bronnen. Dit is een assistentoefening: jij geeft de vervolgstap en controleert het resultaat.</p>
+    </section>
     <!-- HERMES-INSTALL START: uitsluitend dit component en zijn CSS na review overdragen. -->
     <section id="hermes-install" class="panel" aria-labelledby="hermes-install-titel" hidden tabindex="-1">
       <p class="eyebrow">Zelf verder met een AI-agent</p>
@@ -232,7 +247,7 @@
       panel.focus({preventScroll: true});
       panel.scrollIntoView({block: 'start', behavior: 'instant'});
     });
-    document.querySelectorAll('#gemini-notebook blockquote, #black-friday-prompt, #black-friday-stap-2 blockquote, #dashboard-hulp blockquote').forEach((prompt, index) => {
+    document.querySelectorAll('#gemini-notebook blockquote, #black-friday-prompt, #black-friday-stap-2 blockquote, #dashboard-hulp blockquote, #foto-inspreken blockquote').forEach((prompt, index) => {
       const button = document.createElement('button');
       button.type = 'button';
       button.className = 'button primary';
