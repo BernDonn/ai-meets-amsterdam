@@ -56,9 +56,9 @@
     button.button{font:inherit;cursor:pointer;min-height:48px}
     .copy-status{display:block;margin:8px 0 20px;color:var(--muted);font-size:15px}
 
-    /* Centrale schakelaar: data-hermes-install op <html>: visible of hidden.
-       UI-verbergen is geen beveiliging: broninhoud blijft openbaar na publicatie. */
-    html[data-hermes-install="hidden"] #hermes-install{display:none!important}
+    #hermes-install[hidden]{display:none!important}
+    .nav-links button{border:0;background:none;padding:8px 0;font:inherit;color:var(--blue);text-decoration:underline;text-underline-offset:4px;cursor:pointer}
+    .nav-links button:focus-visible{outline:3px solid var(--blue);outline-offset:5px}
     .hermes-grid{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin:22px 0}
     .hermes-os{border:1px solid var(--line);border-radius:16px;padding:22px}
     .hermes-os h3{margin:0 0 10px;color:var(--blue)}
@@ -72,7 +72,7 @@
   <a class="skip" href="#inhoud">Direct naar inhoud</a>
   <header><div class="wrap"><nav aria-label="Navigatie">
     <a class="brand" href="./">AI meets Amsterdam Business</a>
-    <div class="nav-links"><a href="#oefening">Oefening</a><a href="#bio">Over Bernard</a></div>
+    <div class="nav-links"><button type="button" id="hermes-toggle" aria-controls="hermes-install" aria-expanded="false">Hermes installeren</button><a href="#oefening">Oefening</a><a href="#bio">Over Bernard</a></div>
   </nav></div></header>
   <main id="inhoud" class="wrap">
     <section class="hero" aria-labelledby="titel">
@@ -171,7 +171,7 @@
       </div>
     </section>
     <!-- HERMES-INSTALL START: uitsluitend dit component en zijn CSS na review overdragen. -->
-    <section id="hermes-install" class="panel" aria-labelledby="hermes-install-titel">
+    <section id="hermes-install" class="panel" aria-labelledby="hermes-install-titel" hidden tabindex="-1">
       <p class="eyebrow">Zelf verder met een AI-agent</p>
       <h2 id="hermes-install-titel">Hermes op je eigen laptop</h2>
       <p>Installeer Hermes Desktop via de officiële website van Nous Research. Kies hieronder jouw computer.</p>
@@ -225,6 +225,13 @@
   </main>
   <footer><div class="wrap"><p>AI meets Amsterdam Business · Deelnemerspagina · <a href="#contact">Contact met Bernard Donners</a></p></div></footer>
   <script>
+    document.getElementById('hermes-toggle').addEventListener('click', () => {
+      const panel = document.getElementById('hermes-install');
+      panel.hidden = false;
+      document.getElementById('hermes-toggle').setAttribute('aria-expanded', 'true');
+      panel.focus({preventScroll: true});
+      panel.scrollIntoView({block: 'start', behavior: 'instant'});
+    });
     document.querySelectorAll('#gemini-notebook blockquote, #black-friday-prompt, #black-friday-stap-2 blockquote, #dashboard-hulp blockquote').forEach((prompt, index) => {
       const button = document.createElement('button');
       button.type = 'button';
