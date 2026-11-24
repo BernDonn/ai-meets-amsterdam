@@ -148,6 +148,12 @@
         </blockquote>
         <p>Eerst maakte AI een dashboard. Nu laat je AI het onderzoek uitvoeren en het resultaat controleren. Jij beoordeelt het voorstel.</p>
       </div>
+      <div id="dashboard-hulp">
+        <h3>Lukt het interactieve dashboard niet?</h3>
+        <p>Gebruik je een gratis versie van Claude, ChatGPT of Copilot en krijg je alleen tekst of een stilstaande grafiek? Plak deze extra opdracht in hetzelfde gesprek:</p>
+        <blockquote>Maak hiervan een werkende interactieve webpagina, niet alleen een afbeelding. Als ik de temperatuurschuif beweeg, moeten de berekende omzet en de grafiek direct veranderen. Lever het als één HTML-bestand dat ik kan downloaden en in mijn browser openen.</blockquote>
+        <p>Krijg je een HTML-bestand? Download het en open het in je browser. Lukt het nog niet of bereik je een gebruikslimiet? Vraag de begeleider om hulp.</p>
+      </div>
     </section>
     <section id="contact" class="panel" aria-labelledby="contact-titel">
       <p class="eyebrow">In contact blijven</p>
@@ -172,7 +178,7 @@
   </main>
   <footer><div class="wrap"><p>AI meets Amsterdam Business · Deelnemerspagina · <a href="#contact">Contact met Bernard Donners</a></p></div></footer>
   <script>
-    document.querySelectorAll('#gemini-notebook blockquote, #black-friday-prompt, #black-friday-stap-2 blockquote').forEach((prompt, index) => {
+    document.querySelectorAll('#gemini-notebook blockquote, #black-friday-prompt, #black-friday-stap-2 blockquote, #dashboard-hulp blockquote').forEach((prompt, index) => {
       const button = document.createElement('button');
       button.type = 'button';
       button.className = 'button primary';
