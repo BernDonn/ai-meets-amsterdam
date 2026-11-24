@@ -53,6 +53,8 @@
     .skip{position:absolute;left:20px;top:-100px;background:white;padding:10px;z-index:5}.skip:focus{top:10px}
     @media(max-width:700px){.wrap{padding:0 20px}nav{align-items:flex-start;flex-direction:column;gap:8px;padding:16px 0}.nav-links{gap:20px}.hero{padding:36px 0 28px}.lead{font-size:18px}.panel{padding:24px 20px;border-radius:20px}.contact-grid{grid-template-columns:1fr}.bio{grid-template-columns:1fr;gap:20px}.portrait{grid-row:1;height:280px;max-width:360px}.actions .button{width:100%}}
     @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+    button.button{font:inherit;cursor:pointer;min-height:48px}
+    .copy-status{display:block;margin:8px 0 20px;color:var(--muted);font-size:15px}
   </style>
 </head>
 <body>
@@ -169,5 +171,37 @@
     </section>
   </main>
   <footer><div class="wrap"><p>AI meets Amsterdam Business · Deelnemerspagina · <a href="#contact">Contact met Bernard Donners</a></p></div></footer>
+  <script>
+    document.querySelectorAll('#gemini-notebook blockquote, #black-friday-prompt, #black-friday-stap-2 blockquote').forEach((prompt, index) => {
+      const button = document.createElement('button');
+      button.type = 'button';
+      button.className = 'button primary';
+      button.textContent = 'Kopieer prompt';
+      const status = document.createElement('span');
+      status.className = 'copy-status';
+      status.id = 'copy-status-' + index;
+      status.setAttribute('role', 'status');
+      status.setAttribute('aria-live', 'polite');
+      button.setAttribute('aria-describedby', status.id);
+      prompt.after(button, status);
+      button.addEventListener('click', async () => {
+        status.textContent = '';
+        button.disabled = true;
+        const paragraphs = [...prompt.querySelectorAll('p')];
+        const text = paragraphs.length
+          ? paragraphs.map(p => p.textContent.trim()).join('\n\n')
+          : prompt.textContent.trim();
+        try {
+          if (!navigator.clipboard?.writeText) throw new Error('Clipboard unavailable');
+          await navigator.clipboard.writeText(text);
+          status.textContent = 'Gekopieerd';
+        } catch {
+          status.textContent = 'Kopiëren is niet gelukt. Selecteer de prompt hierboven en kopieer de tekst handmatig.';
+        } finally {
+          button.disabled = false;
+        }
+      });
+    });
+  </script>
 </body>
 </html>
